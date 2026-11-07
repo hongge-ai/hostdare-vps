@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>新闻 on HostDare中文指南</title>
-    <link>https://hostdare.github.io/news/</link>
+    <link>https://hongge-ai.github.io/hostdare-vps/news/</link>
     <description>Recent content in 新闻 on HostDare中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
     <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hostdare.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hongge-ai.github.io/hostdare-vps/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2026 年 Hostdare 新年活动上线，双倍内存和流量限时赠送</title>
-      <link>https://hostdare.github.io/news/hostdare-jan-2026-new-year/</link>
+      <link>https://hongge-ai.github.io/hostdare-vps/news/hostdare-jan-2026-new-year/</link>
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://hostdare.github.io/news/hostdare-jan-2026-new-year/</guid>
+      <guid>https://hongge-ai.github.io/hostdare-vps/news/hostdare-jan-2026-new-year/</guid>
       <description>Hostdare 在 2026 年元旦前夕正式启动新年促销活动，并限时赠送双倍内存和流量。用户下单后提交工单即可获得配置翻倍优惠，特别适合面向亚太地区的开发者和企业用户。</description>
     </item>
     <item>
       <title>2025 年 HostDare 12 月最新优惠码，最高优惠 50%</title>
-      <link>https://hostdare.github.io/news/hostdare-dec-2025-12/</link>
+      <link>https://hongge-ai.github.io/hostdare-vps/news/hostdare-dec-2025-12/</link>
       <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://hostdare.github.io/news/hostdare-dec-2025-12/</guid>
+      <guid>https://hongge-ai.github.io/hostdare-vps/news/hostdare-dec-2025-12/</guid>
       <description>HostDare 12月最新优惠码来了！双十一和黑五的优惠刚过期，新一轮促销马上接上。VPS 最高 5 折优惠，CN2 GIA、CKVM、NVMe 套餐全都有对应的优惠码。这次活动力度不输之前，想上车的朋友别错过。</description>
     </item>
     <item>
       <title>HostDare 双十一黑五促销码汇总：多个 VPS 主机优惠</title>
-      <link>https://hostdare.github.io/news/hostdare-nov-2025-11-11-black-friday-coupon/</link>
+      <link>https://hongge-ai.github.io/hostdare-vps/news/hostdare-nov-2025-11-11-black-friday-coupon/</link>
       <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://hostdare.github.io/news/hostdare-nov-2025-11-11-black-friday-coupon/</guid>
+      <guid>https://hongge-ai.github.io/hostdare-vps/news/hostdare-nov-2025-11-11-black-friday-coupon/</guid>
       <description>HostDare 在 2025 年双十一期间推出多个优惠码，同时覆盖黑色星期五促销活动。本文详细对比各套餐优惠幅度，包括 CN2 GIA、SSD 等不同线路 VPS 的折扣码使用指南，帮助用户选择最适合的促销方案。</description>
     </item>
     <item>
       <title>HostDare CAMD 中秋优惠码优惠 32%，100Mbps 优化带宽</title>
-      <link>https://hostdare.github.io/news/hostdare-october-2025-camd-coupon/</link>
+      <link>https://hongge-ai.github.io/hostdare-vps/news/hostdare-october-2025-camd-coupon/</link>
       <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://hostdare.github.io/news/hostdare-october-2025-camd-coupon/</guid>
+      <guid>https://hongge-ai.github.io/hostdare-vps/news/hostdare-october-2025-camd-coupon/</guid>
       <description>HostDare 推出中秋特惠活动，CAMD 机房 VPS 主机享受 32% 折扣优惠，配备 100Mbps 优化带宽线路，适合需要稳定高速连接的用户。</description>
     </item>
     <item>
       <title>HostDare 10 月 CN2 GIA 线路 VPS 优惠码，年付优惠 20%</title>
-      <link>https://hostdare.github.io/news/hostdare-october-2025-cn2-gia-coupon/</link>
+      <link>https://hongge-ai.github.io/hostdare-vps/news/hostdare-october-2025-cn2-gia-coupon/</link>
       <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://hostdare.github.io/news/hostdare-october-2025-cn2-gia-coupon/</guid>
+      <guid>https://hongge-ai.github.io/hostdare-vps/news/hostdare-october-2025-cn2-gia-coupon/</guid>
       <description>HostDare CN2 GIA VPS 10 月优惠活动分析，分享 CN2 GIA 线路 VPS 的 8 折优惠码。适用 CSSD/CKVM 系列，三网直连优化线路，适合国内用户建站等需求。</description>
     </item>
     <item>
       <title>HostDare 9 月 ASSD 优惠码活动详解，高达 55% 的折扣</title>
-      <link>https://hostdare.github.io/news/hostdare-september-2025-assd-coupon/</link>
+      <link>https://hongge-ai.github.io/hostdare-vps/news/hostdare-september-2025-assd-coupon/</link>
       <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://hostdare.github.io/news/hostdare-september-2025-assd-coupon/</guid>
+      <guid>https://hongge-ai.github.io/hostdare-vps/news/hostdare-september-2025-assd-coupon/</guid>
       <description>HostDare今年推出AMD EPYC处理器的洛杉矶VPS服务器，9月特惠优惠码CQ3LZY762U享55%循环折扣，年付最低12.60美元起，附赠双倍内存和流量，升级GSL高级网络连接。</description>
     </item>
     <item>
       <title>2025年9月HostDare洛杉矶优惠码，内存和流量翻倍</title>
-      <link>https://hostdare.github.io/news/hostdare-september-2025-cheap-us-vps-coupon/</link>
+      <link>https://hongge-ai.github.io/hostdare-vps/news/hostdare-september-2025-cheap-us-vps-coupon/</link>
       <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://hostdare.github.io/news/hostdare-september-2025-cheap-us-vps-coupon/</guid>
+      <guid>https://hongge-ai.github.io/hostdare-vps/news/hostdare-september-2025-cheap-us-vps-coupon/</guid>
       <description>2025年9月HostDare洛杉矶VPS最新优惠码P7ST593OEH，享受55%循环折扣+内存流量翻倍福利！年付低至$11.7，适合亚太用户，9月30日截止，限新订单。</description>
     </item>
     <item>
       <title>HostDare 9 月 CAMD 优惠码活动详解，折扣最高立减 35%</title>
-      <link>https://hostdare.github.io/news/hostdare-september-2025-camd-coupon/</link>
+      <link>https://hongge-ai.github.io/hostdare-vps/news/hostdare-september-2025-camd-coupon/</link>
       <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://hostdare.github.io/news/hostdare-september-2025-camd-coupon/</guid>
+      <guid>https://hongge-ai.github.io/hostdare-vps/news/hostdare-september-2025-camd-coupon/</guid>
       <description>HostDare推出AMD EPYC VPS洛杉矶机房限时优惠活动，使用优惠码S6S013NYWI可享35%折扣，配备CN2 GIA、CU VIP、CMI优化线路，双倍内存和带宽升级，100Mbps端口免费升级，活动截至2025年9月15日。</description>
     </item>
     <item>
       <title>2025年9月的HostDare CN2-GIA优惠码：32%折扣外还有福利</title>
-      <link>https://hostdare.github.io/news/hostdare-september-2025-cn2-gia-coupon/</link>
+      <link>https://hongge-ai.github.io/hostdare-vps/news/hostdare-september-2025-cn2-gia-coupon/</link>
       <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://hostdare.github.io/news/hostdare-september-2025-cn2-gia-coupon/</guid>
+      <guid>https://hongge-ai.github.io/hostdare-vps/news/hostdare-september-2025-cn2-gia-coupon/</guid>
       <description>HostDare宣布CN2-GIA系列产品的优惠活动延期至2025年9月25日，使用优惠码WA05J2SPYV可享受CSSD、CAMD和CKVM套餐年付32%折扣，购买后开工单还可获得双倍内存带宽升级福利。本文详细介绍活动详情、套餐推荐及购买注意事项。</description>
     </item>
     <item>
       <title>HostDare洛杉矶8月优惠码：55%循环折扣</title>
-      <link>https://hostdare.github.io/news/hostdare-august-2025-cheap-us-vps-coupon/</link>
+      <link>https://hongge-ai.github.io/hostdare-vps/news/hostdare-august-2025-cheap-us-vps-coupon/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://hostdare.github.io/news/hostdare-august-2025-cheap-us-vps-coupon/</guid>
+      <guid>https://hongge-ai.github.io/hostdare-vps/news/hostdare-august-2025-cheap-us-vps-coupon/</guid>
       <description>HostDare 8月推出新优惠码，洛杉矶AMD EPYC VPS享受55%循环折扣，年付最低仅需12.6美元。本文详细介绍优惠码使用方法和套餐配置对比，帮你选择最适合的VPS方案。</description>
     </item>
     <item>
       <title>HostDare日本VPS优惠码：25% 循环折扣</title>
-      <link>https://hostdare.github.io/news/hostdare-august-2025-japan-vps-coupon/</link>
+      <link>https://hongge-ai.github.io/hostdare-vps/news/hostdare-august-2025-japan-vps-coupon/</link>
       <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://hostdare.github.io/news/hostdare-august-2025-japan-vps-coupon/</guid>
+      <guid>https://hongge-ai.github.io/hostdare-vps/news/hostdare-august-2025-japan-vps-coupon/</guid>
       <description>HostDare推出全新日本VPS优惠码，提供25%循环折扣优惠，支持NKVM和JSSD两大产品系列，特别适合中国大陆用户，本文详细介绍活动规则、套餐配置和购买指南。</description>
     </item>
     <item>
       <title>HostDare 2025年8月CN2-GIA优惠码和最新AMD VPS</title>
-      <link>https://hostdare.github.io/news/hostdare-august-2025-cn2-gia-coupon-amd-vps/</link>
+      <link>https://hongge-ai.github.io/hostdare-vps/news/hostdare-august-2025-cn2-gia-coupon-amd-vps/</link>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://hostdare.github.io/news/hostdare-august-2025-cn2-gia-coupon-amd-vps/</guid>
+      <guid>https://hongge-ai.github.io/hostdare-vps/news/hostdare-august-2025-cn2-gia-coupon-amd-vps/</guid>
       <description>HostDare 2025年8月CN2-GIA系列优惠码提供 32%折扣，同时推出全新CAMD系列AMD EPYC处理器VPS，年付最低$25.83，3个付费周期循环优惠。</description>
     </item>
   </channel>

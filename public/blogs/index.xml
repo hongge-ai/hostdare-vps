@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>技术博客 on HostDare中文指南</title>
-    <link>https://hostdare.github.io/blogs/</link>
+    <link>https://hongge-ai.github.io/hostdare-vps/blogs/</link>
     <description>Recent content in 技术博客 on HostDare中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
     <lastBuildDate>Thu, 11 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hostdare.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hongge-ai.github.io/hostdare-vps/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HostDare与搬瓦工详细对比，优缺点一文看懂</title>
-      <link>https://hostdare.github.io/blogs/comparisons/hostdare-vs-bandwagonhost/</link>
+      <link>https://hongge-ai.github.io/hostdare-vps/blogs/comparisons/hostdare-vs-bandwagonhost/</link>
       <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://hostdare.github.io/blogs/comparisons/hostdare-vs-bandwagonhost/</guid>
+      <guid>https://hongge-ai.github.io/hostdare-vps/blogs/comparisons/hostdare-vs-bandwagonhost/</guid>
       <description>全面对比HostDare和搬瓦工VPS主机商在价格、性能、线路、客服等方面的差异，帮助用户根据实际需求选择最适合的VPS服务商。包含详细的套餐对比、速度测试和购买建议。</description>
     </item>
     <item>
       <title>HostDare和DMIT对比测评：VPS性能与价格差异分析</title>
-      <link>https://hostdare.github.io/blogs/comparisons/hostdare-vs-dmit/</link>
+      <link>https://hongge-ai.github.io/hostdare-vps/blogs/comparisons/hostdare-vs-dmit/</link>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://hostdare.github.io/blogs/comparisons/hostdare-vs-dmit/</guid>
+      <guid>https://hongge-ai.github.io/hostdare-vps/blogs/comparisons/hostdare-vs-dmit/</guid>
       <description>本文基于真实测试，从网络延迟、线路质量、硬件配置、价格到实际使用体验，全方位对比HostDare与DMIT的差异。不论是跨境访问、网站建设还是应用部署，阅读本测评都能帮助你找到更合适的VPS方案。</description>
     </item>
     <item>
       <title>HostDare CN2-GIA AMD VPS评测：CAMD0全面解析【2025】</title>
-      <link>https://hostdare.github.io/blogs/reviews/hostdare-cn2-gia-nvme-amd-vps/</link>
+      <link>https://hongge-ai.github.io/hostdare-vps/blogs/reviews/hostdare-cn2-gia-nvme-amd-vps/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://hostdare.github.io/blogs/reviews/hostdare-cn2-gia-nvme-amd-vps/</guid>
+      <guid>https://hongge-ai.github.io/hostdare-vps/blogs/reviews/hostdare-cn2-gia-nvme-amd-vps/</guid>
       <description>详细评测HostDare最新推出的CN2-GIA NVMe AMD VPS套餐，重点测试AMD EPYC处理器性能表现、CN2优化线路效果、以及CAMD0套餐的性价比分析，为国内用户提供真实购买参考。</description>
     </item>
     <item>
       <title>HostDare vs Vultr全面对比测试：性能、线路、价格</title>
-      <link>https://hostdare.github.io/blogs/comparisons/hostdare-vs-vultr/</link>
+      <link>https://hongge-ai.github.io/hostdare-vps/blogs/comparisons/hostdare-vs-vultr/</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://hostdare.github.io/blogs/comparisons/hostdare-vs-vultr/</guid>
+      <guid>https://hongge-ai.github.io/hostdare-vps/blogs/comparisons/hostdare-vs-vultr/</guid>
       <description>通过实际测试对比HostDare和Vultr两家VPS服务商的性能表现、网络线路、价格套餐等关键指标，为中国用户提供详细的选择建议和购买指导。</description>
     </item>
     <item>
       <title>HostDare退款政策详解：退款流程、条件</title>
-      <link>https://hostdare.github.io/blogs/tutorials/hostdare-refund-policy-guide/</link>
+      <link>https://hongge-ai.github.io/hostdare-vps/blogs/tutorials/hostdare-refund-policy-guide/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://hostdare.github.io/blogs/tutorials/hostdare-refund-policy-guide/</guid>
+      <guid>https://hongge-ai.github.io/hostdare-vps/blogs/tutorials/hostdare-refund-policy-guide/</guid>
       <description>详细解读HostDare官方退款政策，包括退款条件、申请流程、处理时间等关键信息。如果你正在考虑购买HostDare VPS或已购买后想申请退款，这篇文章将为你提供完整的退款指南和实用建议。</description>
     </item>
     <item>
       <title>HostDare洛杉矶CN2-GIA NVMe VPS全面评测</title>
-      <link>https://hostdare.github.io/blogs/reviews/hostdare-cn2-gia-nvme-vps/</link>
+      <link>https://hongge-ai.github.io/hostdare-vps/blogs/reviews/hostdare-cn2-gia-nvme-vps/</link>
       <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://hostdare.github.io/blogs/reviews/hostdare-cn2-gia-nvme-vps/</guid>
+      <guid>https://hongge-ai.github.io/hostdare-vps/blogs/reviews/hostdare-cn2-gia-nvme-vps/</guid>
       <description>详细测试HostDare洛杉矶CN2-GIA线路NVMe VPS的CPU、内存、存储、网络性能表现，包含CSSD0套餐完整评测数据和购买建议，为选择海外VPS提供参考。</description>
     </item>
     <item>
       <title>HostDare额外福利怎么领取：内存、流量翻倍</title>
-      <link>https://hostdare.github.io/blogs/tips/vps-extra-benefits-memory-traffic-double/</link>
+      <link>https://hongge-ai.github.io/hostdare-vps/blogs/tips/vps-extra-benefits-memory-traffic-double/</link>
       <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://hostdare.github.io/blogs/tips/vps-extra-benefits-memory-traffic-double/</guid>
+      <guid>https://hongge-ai.github.io/hostdare-vps/blogs/tips/vps-extra-benefits-memory-traffic-double/</guid>
       <description>详细解析海外VPS服务商优惠码的隐藏福利获取方法，包括内存翻倍、流量翻倍等额外优惠的正确领取步骤，帮助用户最大化VPS性价比，避免错过限时福利活动。</description>
     </item>
     <item>
       <title>HostDare CN2-GIA三网优化线路专项评测</title>
-      <link>https://hostdare.github.io/blogs/reviews/hostdare-cn2-gia-network-review/</link>
+      <link>https://hongge-ai.github.io/hostdare-vps/blogs/reviews/hostdare-cn2-gia-network-review/</link>
       <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://hostdare.github.io/blogs/reviews/hostdare-cn2-gia-network-review/</guid>
+      <guid>https://hongge-ai.github.io/hostdare-vps/blogs/reviews/hostdare-cn2-gia-network-review/</guid>
       <description>专业评测 HostDare 洛杉矶 CN2-GIA 线路的网络质量，深度分析三网优化效果，为追求极致网络体验的用户提供权威参考。</description>
     </item>
   </channel>

@@ -2,7 +2,7 @@
 
 ## 🌟 网站简介
 
-[younghong1992.github.io/hostdare-vps](https://younghong1992.github.io/hostdare-vps) 是专注于 HostDare VPS 服务商的专业评测网站，为用户提供最新优惠信息、详细套餐对比、购买指导和深度测评内容。
+[hongge-ai.github.io/hostdare-vps](https://hongge-ai.github.io/hostdare-vps) 是专注于 HostDare VPS 服务商的专业评测网站，为用户提供最新优惠信息、详细套餐对比、购买指导和深度测评内容。
 
 ## 🎯 网站特色
 
@@ -15,19 +15,19 @@
 ## 📁 网站结构
 
 ### 🏠 核心页面
-- **[首页](https://younghong1992.github.io/hostdare-vps)** - HostDare 品牌介绍与产品概览
-- **[优惠码大全](https://younghong1992.github.io/hostdare-vps/hostdare-coupons)** - 最新优惠码汇总
-- **[套餐汇总](https://younghong1992.github.io/hostdare-vps/hostdare-plans)** - 完整套餐对比分析
-- **[购买教程](https://younghong1992.github.io/hostdare-vps/hostdare-buying-guide)** - 详细购买指导
+- **[首页](https://hongge-ai.github.io/hostdare-vps)** - HostDare 品牌介绍与产品概览
+- **[优惠码大全](https://hongge-ai.github.io/hostdare-vps/hostdare-coupons)** - 最新优惠码汇总
+- **[套餐汇总](https://hongge-ai.github.io/hostdare-vps/hostdare-plans)** - 完整套餐对比分析
+- **[购买教程](https://hongge-ai.github.io/hostdare-vps/hostdare-buying-guide)** - 详细购买指导
 
 ### 📚 博客内容
-- **[测评专区](https://younghong1992.github.io/hostdare-vps/blogs/reviews)** - 深度评测报告
-- **[使用教程](https://younghong1992.github.io/hostdare-vps/blogs/tutorials)** - 技术使用指南
-- **[对比分析](https://younghong1992.github.io/hostdare-vps/blogs/comparisons)** - 竞品对比分析
-- **[使用技巧](https://younghong1992.github.io/hostdare-vps/blogs/tips)** - 优化使用技巧
+- **[测评专区](https://hongge-ai.github.io/hostdare-vps/blogs/reviews)** - 深度评测报告
+- **[使用教程](https://hongge-ai.github.io/hostdare-vps/blogs/tutorials)** - 技术使用指南
+- **[对比分析](https://hongge-ai.github.io/hostdare-vps/blogs/comparisons)** - 竞品对比分析
+- **[使用技巧](https://hongge-ai.github.io/hostdare-vps/blogs/tips)** - 优化使用技巧
 
 ### 📰 新闻动态
-- **[新闻中心](https://younghong1992.github.io/hostdare-vps/news)** - HostDare 最新动态与活动
+- **[新闻中心](https://hongge-ai.github.io/hostdare-vps/news)** - HostDare 最新动态与活动
 
 ## 🚀 技术特点
 
@@ -53,7 +53,7 @@
 
 如有任何问题或建议，欢迎通过以下方式联系：
 
-- **网站访问**：[younghong1992.github.io/hostdare-vps](https://younghong1992.github.io/hostdare-vps)
+- **网站访问**：[hongge-ai.github.io/hostdare-vps](https://hongge-ai.github.io/hostdare-vps)
 - **内容反馈**：通过 GitHub Issues 提交
 
 ## 📋 免责声明
@@ -62,6 +62,6 @@
 
 ---
 
-**访问网站：[younghong1992.github.io/hostdare-vps](https://younghong1992.github.io/hostdare-vps)**
+**访问网站：[hongge-ai.github.io/hostdare-vps](https://hongge-ai.github.io/hostdare-vps)**
 
 *让选择 HostDare VPS 变得更简单！*
