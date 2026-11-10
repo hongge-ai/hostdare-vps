@@ -1,0 +1,1417 @@
+[
+  {
+    "id": "CSSD1",
+    "provider": "HostDare",
+    "group": "美国 CN2-GIA NVMe",
+    "country": "美国",
+    "city": "洛杉矶",
+    "cpu": "1 vCPU Core",
+    "cores": 1,
+    "memory": "1 GB",
+    "storage": "25 GB NVMe SSD",
+    "traffic": "500 GB/月",
+    "bandwidth": "50 Mbps 优化线路（单程）",
+    "system": "1 dedicated IPv4 /64 IPv6 | 仅 Linux",
+    "prices": [
+      {
+        "amount": 60.99,
+        "period": "年付"
+      },
+      {
+        "amount": 120.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 180.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=106"
+  },
+  {
+    "id": "CSSD2",
+    "provider": "HostDare",
+    "group": "美国 CN2-GIA NVMe",
+    "country": "美国",
+    "city": "洛杉矶",
+    "cpu": "2 vCPU Cores",
+    "cores": 2,
+    "memory": "2 GB",
+    "storage": "50 GB NVMe SSD",
+    "traffic": "1000 GB/月",
+    "bandwidth": "60 Mbps 优化线路（单程）",
+    "system": "1 dedicated IPv4 /64 IPv6 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 115.99,
+        "period": "年付"
+      },
+      {
+        "amount": 230.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 345.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=107"
+  },
+  {
+    "id": "CSSD3",
+    "provider": "HostDare",
+    "group": "美国 CN2-GIA NVMe",
+    "country": "美国",
+    "city": "洛杉矶",
+    "cpu": "3 vCPU Cores",
+    "cores": 3,
+    "memory": "4 GB",
+    "storage": "100 GB NVMe SSD",
+    "traffic": "1500 GB/月",
+    "bandwidth": "80 Mbps 优化线路（单程）",
+    "system": "1 dedicated IPv4 /64 IPv6 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 90.99,
+        "period": "季付"
+      },
+      {
+        "amount": 160.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 250.99,
+        "period": "年付"
+      },
+      {
+        "amount": 500.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 750.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=108"
+  },
+  {
+    "id": "CSSD4",
+    "provider": "HostDare",
+    "group": "美国 CN2-GIA NVMe",
+    "country": "美国",
+    "city": "洛杉矶",
+    "cpu": "4 vCPU Cores",
+    "cores": 4,
+    "memory": "8 GB",
+    "storage": "200 GB NVMe SSD",
+    "traffic": "2500 GB/月",
+    "bandwidth": "100 Mbps 优化线路（单程）",
+    "system": "1 dedicated IPv4 /64 IPv6 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 70.99,
+        "period": "月付"
+      },
+      {
+        "amount": 180.99,
+        "period": "季付"
+      },
+      {
+        "amount": 345.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 660.99,
+        "period": "年付"
+      },
+      {
+        "amount": 1305.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 1890.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=109"
+  },
+  {
+    "id": "CSSD5",
+    "provider": "HostDare",
+    "group": "美国 CN2-GIA NVMe",
+    "country": "美国",
+    "city": "洛杉矶",
+    "cpu": "5 vCPU Cores",
+    "cores": 5,
+    "memory": "16 GB",
+    "storage": "400 GB NVMe SSD",
+    "traffic": "3500 GB/月",
+    "bandwidth": "100 Mbps 优化线路（单程）",
+    "system": "1 dedicated IPv4 /64 IPv6 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 115.99,
+        "period": "月付"
+      },
+      {
+        "amount": 285.99,
+        "period": "季付"
+      },
+      {
+        "amount": 570.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 1140.99,
+        "period": "年付"
+      },
+      {
+        "amount": 2260.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 3330.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=110"
+  },
+  {
+    "id": "CSSD6",
+    "provider": "HostDare",
+    "group": "美国 CN2-GIA NVMe",
+    "country": "美国",
+    "city": "洛杉矶",
+    "cpu": "6 vCPU Cores",
+    "cores": 6,
+    "memory": "32 GB",
+    "storage": "800 GB NVMe SSD",
+    "traffic": "5500 GB/月",
+    "bandwidth": "100 Mbps 优化线路（单程）",
+    "system": "2 dedicated IPv4 /64 IPv6 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 190.99,
+        "period": "月付"
+      },
+      {
+        "amount": 540.99,
+        "period": "季付"
+      },
+      {
+        "amount": 1080.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 2160.99,
+        "period": "年付"
+      },
+      {
+        "amount": 4299.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 6299.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=111"
+  },
+  {
+    "id": "CAMD2",
+    "provider": "HostDare",
+    "group": "美国 CN2-GIA NVMe AMD",
+    "country": "美国",
+    "city": "洛杉矶",
+    "cpu": "2 vCPU Cores ( AMD EPYC )",
+    "cores": 2,
+    "memory": "2 GB",
+    "storage": "50 GB NVMe SSD",
+    "traffic": "1000 GB/月",
+    "bandwidth": "60 Mbps 优化线路（单程）",
+    "system": "1 dedicated IPv4 /64 IPv6 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 75.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 119.99,
+        "period": "年付"
+      },
+      {
+        "amount": 240.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 360.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=178"
+  },
+  {
+    "id": "CAMD3",
+    "provider": "HostDare",
+    "group": "美国 CN2-GIA NVMe AMD",
+    "country": "美国",
+    "city": "洛杉矶",
+    "cpu": "3 vCPU Cores ( AMD EPYC )",
+    "cores": 3,
+    "memory": "4 GB",
+    "storage": "100 GB NVMe SSD",
+    "traffic": "1500 GB/月",
+    "bandwidth": "80 Mbps 优化线路（单程）",
+    "system": "1 dedicated IPv4 /64 IPv6 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 105.99,
+        "period": "季付"
+      },
+      {
+        "amount": 175.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 265.99,
+        "period": "年付"
+      },
+      {
+        "amount": 520.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 780.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=179"
+  },
+  {
+    "id": "CKVM2",
+    "provider": "HostDare",
+    "group": "美国 CN2-GIA HDD",
+    "country": "美国",
+    "city": "洛杉矶",
+    "cpu": "2 CPU Cores",
+    "cores": 2,
+    "memory": "1.5 GB",
+    "storage": "75 GB RAID10 Storage",
+    "traffic": "1000 GB/月",
+    "bandwidth": "60 mbps 优化线路（单程）",
+    "system": "1 dedicated IPv4 /64 IPv6 | 仅 Linux",
+    "prices": [
+      {
+        "amount": 60.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 110.99,
+        "period": "年付"
+      },
+      {
+        "amount": 220.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 330.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=75"
+  },
+  {
+    "id": "JSSD1",
+    "provider": "HostDare",
+    "group": "日本 Premium",
+    "country": "日本",
+    "city": "东京",
+    "cpu": "1 vCPU Core",
+    "cores": 1,
+    "memory": "1 GB",
+    "storage": "20 GB NVMe SSD",
+    "traffic": "500 GB/月",
+    "bandwidth": "50 Mbps Softbank",
+    "system": "1 dedicated IPv4 | 仅 Linux",
+    "prices": [
+      {
+        "amount": 55.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 95.99,
+        "period": "年付"
+      },
+      {
+        "amount": 190.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 285.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=130"
+  },
+  {
+    "id": "JSSD2",
+    "provider": "HostDare",
+    "group": "日本 Premium",
+    "country": "日本",
+    "city": "东京",
+    "cpu": "2 vCPU Cores",
+    "cores": 2,
+    "memory": "2 GB",
+    "storage": "40 GB NVMe SSD",
+    "traffic": "1000 GB/月",
+    "bandwidth": "60 Mbps Softbank",
+    "system": "1 dedicated IPv4 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 70.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 120.99,
+        "period": "年付"
+      },
+      {
+        "amount": 240.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 360.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=131"
+  },
+  {
+    "id": "JSSD3",
+    "provider": "HostDare",
+    "group": "日本 Premium",
+    "country": "日本",
+    "city": "东京",
+    "cpu": "3 vCPU Cores",
+    "cores": 3,
+    "memory": "4 GB",
+    "storage": "80 GB NVMe SSD",
+    "traffic": "1500 GB/月",
+    "bandwidth": "80 Mbps Softbank",
+    "system": "1 dedicated IPv4 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 45.99,
+        "period": "月付"
+      },
+      {
+        "amount": 80.99,
+        "period": "季付"
+      },
+      {
+        "amount": 155.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 290.99,
+        "period": "年付"
+      },
+      {
+        "amount": 580.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 870.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=132"
+  },
+  {
+    "id": "JSSD4",
+    "provider": "HostDare",
+    "group": "日本 Premium",
+    "country": "日本",
+    "city": "东京",
+    "cpu": "4 vCPU Cores",
+    "cores": 4,
+    "memory": "8 GB",
+    "storage": "160 GB NVMe SSD",
+    "traffic": "2500 GB/月",
+    "bandwidth": "100 Mbps Softbank",
+    "system": "1 dedicated IPv4 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 80.99,
+        "period": "月付"
+      },
+      {
+        "amount": 190.99,
+        "period": "季付"
+      },
+      {
+        "amount": 350.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 690.99,
+        "period": "年付"
+      },
+      {
+        "amount": 1380.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 1990.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=133"
+  },
+  {
+    "id": "JSSD5",
+    "provider": "HostDare",
+    "group": "日本 Premium",
+    "country": "日本",
+    "city": "东京",
+    "cpu": "5 vCPU Cores",
+    "cores": 5,
+    "memory": "16 GB",
+    "storage": "320 GB NVMe SSD",
+    "traffic": "3500 GB/月",
+    "bandwidth": "100 Mbps Softbank",
+    "system": "1 dedicated IPv4 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 150.99,
+        "period": "月付"
+      },
+      {
+        "amount": 350.99,
+        "period": "季付"
+      },
+      {
+        "amount": 650.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 1199.99,
+        "period": "年付"
+      },
+      {
+        "amount": 2398.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 3597.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=134"
+  },
+  {
+    "id": "JSSD6",
+    "provider": "HostDare",
+    "group": "日本 Premium",
+    "country": "日本",
+    "city": "东京",
+    "cpu": "6 vCPU Cores",
+    "cores": 6,
+    "memory": "32 GB",
+    "storage": "600 GB NVMe SSD",
+    "traffic": "5500 GB/月",
+    "bandwidth": "100 Mbps Softbank",
+    "system": "2 dedicated IPv4s | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 250.99,
+        "period": "月付"
+      },
+      {
+        "amount": 590.99,
+        "period": "季付"
+      },
+      {
+        "amount": 1149.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 2180.99,
+        "period": "年付"
+      },
+      {
+        "amount": 4350.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 6399.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=135"
+  },
+  {
+    "id": "ASSD1",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe AMD",
+    "country": "美国",
+    "city": "洛杉矶",
+    "cpu": "1 vCPU Core ( AMD EPYC )",
+    "cores": 1,
+    "memory": "1 GB",
+    "storage": "25 GB NVMe SSD Storage",
+    "traffic": "1000 GB/月",
+    "bandwidth": "1Gbps 公网端口",
+    "system": "1 IPv4/IPv6 Address | 仅 Linux",
+    "prices": [
+      {
+        "amount": 12.99,
+        "period": "季付"
+      },
+      {
+        "amount": 22.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 41.99,
+        "period": "年付"
+      },
+      {
+        "amount": 75.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 113.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=170"
+  },
+  {
+    "id": "ASSD2",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe AMD",
+    "country": "美国",
+    "city": "洛杉矶",
+    "cpu": "2 vCPU Cores ( AMD EPYC )",
+    "cores": 2,
+    "memory": "2 GB",
+    "storage": "50 GB NVMe SSD Storage",
+    "traffic": "2000 GB/月",
+    "bandwidth": "1Gbps 公网端口",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 26.99,
+        "period": "季付"
+      },
+      {
+        "amount": 51.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 74.99,
+        "period": "年付"
+      },
+      {
+        "amount": 135.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 201.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=171"
+  },
+  {
+    "id": "ASSD3",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe AMD",
+    "country": "美国",
+    "city": "洛杉矶",
+    "cpu": "3 vCPU Cores ( AMD EPYC )",
+    "cores": 3,
+    "memory": "4 GB",
+    "storage": "100 GB NVMe SSD Storage",
+    "traffic": "3000 GB/月",
+    "bandwidth": "1Gbps 公网端口",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 14.99,
+        "period": "月付"
+      },
+      {
+        "amount": 44.99,
+        "period": "季付"
+      },
+      {
+        "amount": 86.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 137.99,
+        "period": "年付"
+      },
+      {
+        "amount": 247.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 371.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=172"
+  },
+  {
+    "id": "ASSD4",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe AMD",
+    "country": "美国",
+    "city": "洛杉矶",
+    "cpu": "4 vCPU Cores ( AMD EPYC )",
+    "cores": 4,
+    "memory": "8 GB",
+    "storage": "200 GB NVMe SSD Storage",
+    "traffic": "5000 GB/月",
+    "bandwidth": "1Gbps 公网端口",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 28.99,
+        "period": "月付"
+      },
+      {
+        "amount": 81.99,
+        "period": "季付"
+      },
+      {
+        "amount": 137.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 263.99,
+        "period": "年付"
+      },
+      {
+        "amount": 474.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 711.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=173"
+  },
+  {
+    "id": "ASSD5",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe AMD",
+    "country": "美国",
+    "city": "洛杉矶",
+    "cpu": "5 vCPU Cores ( AMD EPYC )",
+    "cores": 5,
+    "memory": "16 GB",
+    "storage": "400 GB NVMe SSD Storage",
+    "traffic": "10000 GB/月",
+    "bandwidth": "1Gbps 公网端口",
+    "system": "2 IPv4/ 6 IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 52.99,
+        "period": "月付"
+      },
+      {
+        "amount": 155.99,
+        "period": "季付"
+      },
+      {
+        "amount": 258.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 506.99,
+        "period": "年付"
+      },
+      {
+        "amount": 910.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 1363.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=174"
+  },
+  {
+    "id": "ASSD6",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe AMD",
+    "country": "美国",
+    "city": "洛杉矶",
+    "cpu": "6 vCPU Cores",
+    "cores": 6,
+    "memory": "32 GB",
+    "storage": "800 GB NVMe SSD Storage",
+    "traffic": "20000 GB/月",
+    "bandwidth": "1Gbps 公网端口",
+    "system": "2 IPv4/ 6 IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 94.99,
+        "period": "月付"
+      },
+      {
+        "amount": 284.99,
+        "period": "季付"
+      },
+      {
+        "amount": 474.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 940.99,
+        "period": "年付"
+      },
+      {
+        "amount": 1693.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 2540.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=175"
+  },
+  {
+    "id": "SSD1",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe",
+    "country": "美国",
+    "city": "洛杉矶",
+    "cpu": "1 vCPU Core",
+    "cores": 1,
+    "memory": "1 GB",
+    "storage": "25 GB NVMe SSD Storage",
+    "traffic": "1000 GB/月",
+    "bandwidth": "1Gbps 公网端口",
+    "system": "1 IPv4/IPv6 Address | 仅 Linux",
+    "prices": [
+      {
+        "amount": 11.99,
+        "period": "季付"
+      },
+      {
+        "amount": 20.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 39.99,
+        "period": "年付"
+      },
+      {
+        "amount": 71.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 107.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=60"
+  },
+  {
+    "id": "SSD2",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe",
+    "country": "美国",
+    "city": "洛杉矶",
+    "cpu": "2 vCPU Cores",
+    "cores": 2,
+    "memory": "2 GB",
+    "storage": "50 GB NVMe SSD Storage",
+    "traffic": "2000 GB/月",
+    "bandwidth": "1Gbps 公网端口",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 23.97,
+        "period": "季付"
+      },
+      {
+        "amount": 47.94,
+        "period": "半年付"
+      },
+      {
+        "amount": 70.99,
+        "period": "年付"
+      },
+      {
+        "amount": 127.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 191.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=61"
+  },
+  {
+    "id": "SSD3",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe",
+    "country": "美国",
+    "city": "洛杉矶",
+    "cpu": "3 vCPU Cores",
+    "cores": 3,
+    "memory": "4 GB",
+    "storage": "100 GB NVMe SSD Storage",
+    "traffic": "3000 GB/月",
+    "bandwidth": "1Gbps 公网端口",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 13.99,
+        "period": "月付"
+      },
+      {
+        "amount": 40.99,
+        "period": "季付"
+      },
+      {
+        "amount": 80.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 130.99,
+        "period": "年付"
+      },
+      {
+        "amount": 235.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 353.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=62"
+  },
+  {
+    "id": "SSD4",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe",
+    "country": "美国",
+    "city": "洛杉矶",
+    "cpu": "4 vCPU Cores",
+    "cores": 4,
+    "memory": "8 GB",
+    "storage": "200 GB NVMe SSD Storage",
+    "traffic": "5000 GB/月",
+    "bandwidth": "1Gbps 公网端口",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 25.99,
+        "period": "月付"
+      },
+      {
+        "amount": 77.99,
+        "period": "季付"
+      },
+      {
+        "amount": 129.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 250.99,
+        "period": "年付"
+      },
+      {
+        "amount": 451.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 677.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=102"
+  },
+  {
+    "id": "SSD5",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe",
+    "country": "美国",
+    "city": "洛杉矶",
+    "cpu": "5 vCPU Cores",
+    "cores": 5,
+    "memory": "16 GB",
+    "storage": "400 GB NVMe SSD Storage",
+    "traffic": "10000 GB/月",
+    "bandwidth": "1Gbps 公网端口",
+    "system": "2 IPv4/ 6 IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 48.99,
+        "period": "月付"
+      },
+      {
+        "amount": 146.99,
+        "period": "季付"
+      },
+      {
+        "amount": 244.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 480.99,
+        "period": "年付"
+      },
+      {
+        "amount": 865.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 1298.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=103"
+  },
+  {
+    "id": "SSD6",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe",
+    "country": "美国",
+    "city": "洛杉矶",
+    "cpu": "6 vCPU Cores",
+    "cores": 6,
+    "memory": "32 GB",
+    "storage": "800 GB NVMe SSD Storage",
+    "traffic": "20000 GB/月",
+    "bandwidth": "1Gbps 公网端口",
+    "system": "2 IPv4/ 6 IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 94.99,
+        "period": "月付"
+      },
+      {
+        "amount": 284.99,
+        "period": "季付"
+      },
+      {
+        "amount": 474.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 940.99,
+        "period": "年付"
+      },
+      {
+        "amount": 1693.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 2540.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=104"
+  },
+  {
+    "id": "NKVM1",
+    "provider": "HostDare",
+    "group": "日本 Cheap",
+    "country": "日本",
+    "city": "东京",
+    "cpu": "1 vCPU Core",
+    "cores": 1,
+    "memory": "1 GB",
+    "storage": "25 GB NVMe SSD Storage",
+    "traffic": "1000 GB/月",
+    "bandwidth": "100 mbps 公网端口",
+    "system": "1 IPv4/IPv6 Address | 仅 Linux",
+    "prices": [
+      {
+        "amount": 54.58,
+        "period": "半年付"
+      },
+      {
+        "amount": 109.16,
+        "period": "年付"
+      },
+      {
+        "amount": 218.32,
+        "period": "两年付"
+      },
+      {
+        "amount": 327.48,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=163"
+  },
+  {
+    "id": "NKVM2",
+    "provider": "HostDare",
+    "group": "日本 Cheap",
+    "country": "日本",
+    "city": "东京",
+    "cpu": "2 vCPU Cores",
+    "cores": 2,
+    "memory": "2 GB",
+    "storage": "50 GB NVMe SSD Storage",
+    "traffic": "2000 GB/月",
+    "bandwidth": "100 Mbps 公网端口",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 65.08,
+        "period": "半年付"
+      },
+      {
+        "amount": 130.16,
+        "period": "年付"
+      },
+      {
+        "amount": 260.32,
+        "period": "两年付"
+      },
+      {
+        "amount": 390.48,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=164"
+  },
+  {
+    "id": "NKVM3",
+    "provider": "HostDare",
+    "group": "日本 Cheap",
+    "country": "日本",
+    "city": "东京",
+    "cpu": "3 vCPU Cores",
+    "cores": 3,
+    "memory": "4 GB",
+    "storage": "100 GB NVMe SSD Storage",
+    "traffic": "3000 GB/月",
+    "bandwidth": "100 Mbps 公网端口",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 27.29,
+        "period": "月付"
+      },
+      {
+        "amount": 53.54,
+        "period": "季付"
+      },
+      {
+        "amount": 85.04,
+        "period": "半年付"
+      },
+      {
+        "amount": 148.04,
+        "period": "年付"
+      },
+      {
+        "amount": 295.04,
+        "period": "两年付"
+      },
+      {
+        "amount": 444.12,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=165"
+  },
+  {
+    "id": "NKVM4",
+    "provider": "HostDare",
+    "group": "日本 Cheap",
+    "country": "日本",
+    "city": "东京",
+    "cpu": "4 vCPU Cores",
+    "cores": 4,
+    "memory": "8 GB",
+    "storage": "200 GB NVMe SSD Storage",
+    "traffic": "5000 GB/月",
+    "bandwidth": "100 Mbps 公网端口",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 50.99,
+        "period": "月付"
+      },
+      {
+        "amount": 95.99,
+        "period": "季付"
+      },
+      {
+        "amount": 170.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 260.99,
+        "period": "年付"
+      },
+      {
+        "amount": 520.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 780.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=166"
+  },
+  {
+    "id": "NKVM5",
+    "provider": "HostDare",
+    "group": "日本 Cheap",
+    "country": "日本",
+    "city": "东京",
+    "cpu": "5 vCPU Cores",
+    "cores": 5,
+    "memory": "16 GB",
+    "storage": "400 GB NVMe SSD Storage",
+    "traffic": "10000 GB/月",
+    "bandwidth": "100 Mbps 公网端口",
+    "system": "2 IPv4/ 6 IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 90.99,
+        "period": "月付"
+      },
+      {
+        "amount": 160.99,
+        "period": "季付"
+      },
+      {
+        "amount": 280.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 520.99,
+        "period": "年付"
+      },
+      {
+        "amount": 1040.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 1560.99,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=167"
+  },
+  {
+    "id": "NKVM6",
+    "provider": "HostDare",
+    "group": "日本 Cheap",
+    "country": "日本",
+    "city": "东京",
+    "cpu": "6 vCPU Cores",
+    "cores": 6,
+    "memory": "32 GB",
+    "storage": "800 GB NVMe SSD Storage",
+    "traffic": "20000 GB/月",
+    "bandwidth": "100 Mbps 公网端口",
+    "system": "2 IPv4, /64 IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 190.04,
+        "period": "月付"
+      },
+      {
+        "amount": 570.12,
+        "period": "季付"
+      },
+      {
+        "amount": 1140.24,
+        "period": "半年付"
+      },
+      {
+        "amount": 2280.48,
+        "period": "年付"
+      },
+      {
+        "amount": 4560.96,
+        "period": "两年付"
+      },
+      {
+        "amount": 6841.44,
+        "period": "三年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=168"
+  },
+  {
+    "id": "BGSSD1",
+    "provider": "HostDare",
+    "group": "保加利亚 Cheap",
+    "country": "保加利亚",
+    "city": "索非亚",
+    "cpu": "1 vCPU Core",
+    "cores": 1,
+    "memory": "1 GB",
+    "storage": "25 GB NVMe SSD Storage",
+    "traffic": "10000 GB/月",
+    "bandwidth": "1gbps 公网端口",
+    "system": "1 IPv4/IPv6 Address | 仅 Linux",
+    "prices": [
+      {
+        "amount": 15.99,
+        "period": "季付"
+      },
+      {
+        "amount": 20.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 39.99,
+        "period": "年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=153"
+  },
+  {
+    "id": "BGSSD2",
+    "provider": "HostDare",
+    "group": "保加利亚 Cheap",
+    "country": "保加利亚",
+    "city": "索非亚",
+    "cpu": "2 vCPU Cores",
+    "cores": 2,
+    "memory": "2 GB",
+    "storage": "50 GB NVMe SSD Storage",
+    "traffic": "20000 GB/月",
+    "bandwidth": "1Gbps 公网端口",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 23.97,
+        "period": "季付"
+      },
+      {
+        "amount": 47.94,
+        "period": "半年付"
+      },
+      {
+        "amount": 70.99,
+        "period": "年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=154"
+  },
+  {
+    "id": "BGSSD3",
+    "provider": "HostDare",
+    "group": "保加利亚 Cheap",
+    "country": "保加利亚",
+    "city": "索非亚",
+    "cpu": "3 vCPU Cores",
+    "cores": 3,
+    "memory": "4 GB",
+    "storage": "100 GB NVMe SSD Storage",
+    "traffic": "30000 GB/月",
+    "bandwidth": "1Gbps 公网端口",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 13.99,
+        "period": "月付"
+      },
+      {
+        "amount": 130.99,
+        "period": "年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=155"
+  },
+  {
+    "id": "BGSSD4",
+    "provider": "HostDare",
+    "group": "保加利亚 Cheap",
+    "country": "保加利亚",
+    "city": "索非亚",
+    "cpu": "4 vCPU Cores",
+    "cores": 4,
+    "memory": "8 GB",
+    "storage": "200 GB NVMe SSD Storage",
+    "traffic": "50000 GB/月",
+    "bandwidth": "1Gbps 公网端口",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 25.99,
+        "period": "月付"
+      },
+      {
+        "amount": 250.99,
+        "period": "年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=156"
+  },
+  {
+    "id": "BGSSD5",
+    "provider": "HostDare",
+    "group": "保加利亚 Cheap",
+    "country": "保加利亚",
+    "city": "索非亚",
+    "cpu": "5 vCPU Cores",
+    "cores": 5,
+    "memory": "16 GB",
+    "storage": "400 GB NVMe SSD Storage",
+    "traffic": "100000 GB/月",
+    "bandwidth": "1Gbps 公网端口",
+    "system": "2 IPv4/ 6 IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 48.99,
+        "period": "月付"
+      },
+      {
+        "amount": 480.99,
+        "period": "年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=157"
+  },
+  {
+    "id": "BGSSD6",
+    "provider": "HostDare",
+    "group": "保加利亚 Cheap",
+    "country": "保加利亚",
+    "city": "索非亚",
+    "cpu": "6 vCPU Cores",
+    "cores": 6,
+    "memory": "32 GB",
+    "storage": "800 GB NVMe SSD Storage",
+    "traffic": "200000 GB/月",
+    "bandwidth": "1Gbps 公网端口",
+    "system": "2 IPv4/ 6 IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 94.99,
+        "period": "月付"
+      },
+      {
+        "amount": 940.99,
+        "period": "年付"
+      }
+    ],
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=158"
+  }
+]
