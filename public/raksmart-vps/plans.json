@@ -1,0 +1,4156 @@
+[
+  {
+    "category": "限时秒杀",
+    "group": "VPS秒杀",
+    "name": "HK-VPS-1Core-1GB-50G HDD-Global BGP 1G/3T-1IP",
+    "product": "HK-VPS/Cloud-VM(Shared)",
+    "price": "1.99",
+    "original": "7.11",
+    "period": "月",
+    "options": [
+      [
+        "规格",
+        "1 Core,1 G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 50G"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "International ISP / Global BGP G 端口 3T"
+      ]
+    ],
+    "sample": "psam_01M4SY98MQ2D4FHJPDT1YRXWWX",
+    "activity": "act_01M4T3RJV0T8ZJXJWNPVGFVNFE",
+    "url": "https://billing.raksmart.com/ec/price?pid=2022&sample_id=psam_01M4SY98MQ2D4FHJPDT1YRXWWX&activity_id=act_01M4T3RJV0T8ZJXJWNPVGFVNFE&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "1.99"
+  },
+  {
+    "category": "限时秒杀",
+    "group": "VPS秒杀",
+    "name": "SV-VPS-2Cores-2GB-50G HDD-Global BGP 5G/10T-1IP",
+    "product": "SV-VPS/Cloud-VM(Shared)",
+    "price": "1.99",
+    "original": "8.1",
+    "period": "月",
+    "options": [
+      [
+        "规格",
+        "2 Cores,2 G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 50G"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "International ISP / Global BGP 5G 10T"
+      ]
+    ],
+    "sample": "psam_01M1DA9YHEQF6Z4SVTQTX52VH8",
+    "activity": "act_01M4T3RJV0T8ZJXJWNPVGFVNFE",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01M1DA9YHEQF6Z4SVTQTX52VH8&activity_id=act_01M4T3RJV0T8ZJXJWNPVGFVNFE&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "1.99"
+  },
+  {
+    "category": "限时秒杀",
+    "group": "VPS秒杀",
+    "name": "SV-VPS-2Cores-2GB-50G HDD-China Optimized VIP 5G/3T-1IP",
+    "product": "SV-VPS/Cloud-VM(Shared)",
+    "price": "1.99",
+    "original": "8.41",
+    "period": "月",
+    "options": [
+      [
+        "规格",
+        "2 Cores,2 G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 50G"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "All ISP VIP / China Optimized VIP 5G 3T"
+      ]
+    ],
+    "sample": "psam_01M1DBZGY649T2TS6EKN6TTY8K",
+    "activity": "act_01M4T3RJV0T8ZJXJWNPVGFVNFE",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01M1DBZGY649T2TS6EKN6TTY8K&activity_id=act_01M4T3RJV0T8ZJXJWNPVGFVNFE&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "1.99"
+  },
+  {
+    "category": "限时秒杀",
+    "group": "VPS秒杀",
+    "name": "SV-VPS-2Cores-2GB-50G HDD-Enterprise CN2 1G/1T-1IP",
+    "product": "SV-VPS/Cloud-VM(Shared)",
+    "price": "3.99",
+    "original": "12.99",
+    "period": "月",
+    "options": [
+      [
+        "规格",
+        "2 Cores,2 G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 50G"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "CN2 Only / Enterprise CN2 G 1T"
+      ]
+    ],
+    "sample": "psam_01M1DCAZ9M39Y4VX31G2ZZAA1F",
+    "activity": "act_01M4T3RJV0T8ZJXJWNPVGFVNFE",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01M1DCAZ9M39Y4VX31G2ZZAA1F&activity_id=act_01M4T3RJV0T8ZJXJWNPVGFVNFE&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "3.99"
+  },
+  {
+    "category": "限时秒杀",
+    "group": "物理服务器秒杀",
+    "name": "SV E3-1230-16G-1T HDD-China Optimized VIP 100M-1IP",
+    "product": "SV E3-1230, 16G, 1T HDD, 1IP",
+    "price": "29.90",
+    "original": "59",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E3 1230"
+      ],
+      [
+        "内存选项",
+        "16G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "China Optimized VIP 100M 独享 不限"
+      ]
+    ],
+    "sample": "psam_01M1DEDXE4YBAQACD4KPHC6852",
+    "activity": "act_01M4T9EXWWZQSV2HGPE864F9M3",
+    "url": "https://billing.raksmart.com/ec/price?pid=519&sample_id=psam_01M1DEDXE4YBAQACD4KPHC6852&activity_id=act_01M4T9EXWWZQSV2HGPE864F9M3&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "29.90"
+  },
+  {
+    "category": "限时秒杀",
+    "group": "物理服务器秒杀",
+    "name": "HK E5-2630L-16G- 1T HDD -China Optimized 20M",
+    "product": "HK E5-2630L, 16G, 1T HDD, 1IP",
+    "price": "49.90",
+    "original": "119",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2630L"
+      ],
+      [
+        "内存选项",
+        "16G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "China Optimized 20M 独享 Flow - 20M 不限"
+      ]
+    ],
+    "sample": "psam_01KWB6ZRAVA55X1NAM57533TRN",
+    "activity": "act_01M4T9EXWWZQSV2HGPE864F9M3",
+    "url": "https://billing.raksmart.com/ec/price?pid=1394&sample_id=psam_01KWB6ZRAVA55X1NAM57533TRN&activity_id=act_01M4T9EXWWZQSV2HGPE864F9M3&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "49.90"
+  },
+  {
+    "category": "限时秒杀",
+    "group": "物理服务器秒杀",
+    "name": "SV E3-1230, 16G, 1T HDD, 1IP, Enterprise CN2 G/10T",
+    "product": "SV E3-1230, 16G, 1T HDD, 1IP",
+    "price": "59.90",
+    "original": "114.9",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E3 1230"
+      ],
+      [
+        "内存选项",
+        "16G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Enterprise CN2 1G 独享 10T 流量"
+      ]
+    ],
+    "sample": "psam_01M4W9V2FADPN7KBMBMWBK97FE",
+    "activity": "act_01M4T9EXWWZQSV2HGPE864F9M3",
+    "url": "https://billing.raksmart.com/ec/price?pid=519&sample_id=psam_01M4W9V2FADPN7KBMBMWBK97FE&activity_id=act_01M4T9EXWWZQSV2HGPE864F9M3&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "59.90"
+  },
+  {
+    "category": "限时秒杀",
+    "group": "物理服务器秒杀",
+    "name": "SV E3-1230, 16G RAM, 1T HDD, China Optimized VIP 100M, 5+253 IPs",
+    "product": "SV E3-1230, 16G, 1T HDD, 1IP",
+    "price": "99.90",
+    "original": "191",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E3 1230"
+      ],
+      [
+        "内存选项",
+        "16G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "带宽选择",
+        "China Optimized VIP 100M 独享 不限"
+      ],
+      [
+        "IP地址5",
+        "默认 IP"
+      ],
+      [
+        "更多IPv4",
+        "253 Usable IP China Optimized VIP"
+      ]
+    ],
+    "sample": "psam_01M4W9XT6W5MQJYXWAFAPF4JY9",
+    "activity": "act_01M4T9EXWWZQSV2HGPE864F9M3",
+    "url": "https://billing.raksmart.com/ec/price?pid=519&sample_id=psam_01M4W9XT6W5MQJYXWAFAPF4JY9&activity_id=act_01M4T9EXWWZQSV2HGPE864F9M3&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "99.90"
+  },
+  {
+    "category": "限时秒杀",
+    "group": "裸机云秒杀",
+    "name": "SV Bare-Metal Cloud E5-2620-32G-1T HDD-China Optimized VIP 100M-1IP",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "45.90",
+    "original": "89",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2620"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "China Optimized VIP 100M 不限"
+      ]
+    ],
+    "sample": "psam_01M1DGSMA2ZSQXERX0DTEN619T",
+    "activity": "act_01M4T9EXYTA6RV35X8Y0E2DKRC",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01M1DGSMA2ZSQXERX0DTEN619T&activity_id=act_01M4T9EXYTA6RV35X8Y0E2DKRC&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "45.90"
+  },
+  {
+    "category": "限时秒杀",
+    "group": "裸机云秒杀",
+    "name": "HK Bare-Metal Cloud E5-2620-32G- 1T HDD -China Optimized  20M",
+    "product": "HK-Bare-Metal Cloud",
+    "price": "45.90",
+    "original": "109",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2620"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "China Optimized 20M 不限"
+      ]
+    ],
+    "sample": "psam_01KWB9HAGM2S8JHRSQJZRHJGSG",
+    "activity": "act_01M4T9EXYTA6RV35X8Y0E2DKRC",
+    "url": "https://billing.raksmart.com/ec/price?pid=2030&sample_id=psam_01KWB9HAGM2S8JHRSQJZRHJGSG&activity_id=act_01M4T9EXYTA6RV35X8Y0E2DKRC&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "45.90"
+  },
+  {
+    "category": "限时秒杀",
+    "group": "裸机云秒杀",
+    "name": "SV Bare-Metal Cloud E5-2620, 32G RAM, 1T HDD , Enterprise CN2 G/10T, 1IP",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "69.90",
+    "original": "144.9",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2620"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Enterprise CN2 G 端口 10T"
+      ]
+    ],
+    "sample": "psam_01M4W9FPW4ZBC9FJB39DBCAXQR",
+    "activity": "act_01M4T9EXYTA6RV35X8Y0E2DKRC",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01M4W9FPW4ZBC9FJB39DBCAXQR&activity_id=act_01M4T9EXYTA6RV35X8Y0E2DKRC&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "69.90"
+  },
+  {
+    "category": "限时秒杀",
+    "group": "裸机云秒杀",
+    "name": "SV Bare-Metal Cloud E5-2620, 32G RAM, 1T HDD, China Optimized VIP 100M, 5+253 IPs",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "109.90",
+    "original": "221",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2620"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "5"
+      ],
+      [
+        " Site IP",
+        "253 Usable IP"
+      ],
+      [
+        "流量",
+        "China Optimized VIP 100M 不限"
+      ]
+    ],
+    "sample": "psam_01M4W9QDXP4AZR5FHR3J52Z9AV",
+    "activity": "act_01M4T9EXYTA6RV35X8Y0E2DKRC",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01M4W9QDXP4AZR5FHR3J52Z9AV&activity_id=act_01M4T9EXYTA6RV35X8Y0E2DKRC&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "109.90"
+  },
+  {
+    "category": "年付福利",
+    "group": "年付特惠",
+    "name": "SV-VPS-2Cores-4GB-50G NVME-Global BGP 5G/10T-1IP",
+    "product": "SV-VPS/Cloud-VM(Shared)",
+    "price": "39.90",
+    "original": "126",
+    "period": "年",
+    "options": [
+      [
+        "规格",
+        "2 Cores,4 G"
+      ],
+      [
+        "系统盘",
+        "NVMe 固态硬盘 标准策略 25000IOPS，750MB/s / 50G"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "International ISP / Global BGP 5G 10T"
+      ]
+    ],
+    "sample": "psam_01M24NKKC8KAKQAJBJSYB2JSV3",
+    "activity": "act_01M4TBMTG2VMWJPXXCYX2WZS2S",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01M24NKKC8KAKQAJBJSYB2JSV3&activity_id=act_01M4TBMTG2VMWJPXXCYX2WZS2S&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "39.90"
+  },
+  {
+    "category": "年付福利",
+    "group": "年付特惠",
+    "name": "SV-VPS-2Cores-4GB-50G NVME-China Optimized VIP 5G/3T-1IP",
+    "product": "SV-VPS/Cloud-VM(Shared)",
+    "price": "39.90",
+    "original": "129.1",
+    "period": "年",
+    "options": [
+      [
+        "规格",
+        "2 Cores,4 G"
+      ],
+      [
+        "系统盘",
+        "NVMe 固态硬盘 标准策略 25000IOPS，750MB/s / 50G"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "All ISP VIP / China Optimized VIP 5G 3T"
+      ]
+    ],
+    "sample": "psam_01M24NX65Q7A4CEP1D457FGTP0",
+    "activity": "act_01M4TBMTG2VMWJPXXCYX2WZS2S",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01M24NX65Q7A4CEP1D457FGTP0&activity_id=act_01M4TBMTG2VMWJPXXCYX2WZS2S&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "39.90"
+  },
+  {
+    "category": "年付福利",
+    "group": "年付特惠",
+    "name": "HK-VPS-2Cores-4GB -50G NVME-Global BGP 1G/3T-1IP",
+    "product": "HK-VPS/Cloud-VM(Shared)",
+    "price": "49.90",
+    "original": "133.1",
+    "period": "年",
+    "options": [
+      [
+        "规格",
+        "2 Cores,4 G"
+      ],
+      [
+        "系统盘",
+        "NVMe 固态硬盘 标准策略 25000IOPS，750MB/s / 50G"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "International ISP / Global BGP G 端口 3T"
+      ]
+    ],
+    "sample": "psam_01M7210N3YJBW0HZQ20CRBSY97",
+    "activity": "act_01M4TBMTG2VMWJPXXCYX2WZS2S",
+    "url": "https://billing.raksmart.com/ec/price?pid=2022&sample_id=psam_01M7210N3YJBW0HZQ20CRBSY97&activity_id=act_01M4TBMTG2VMWJPXXCYX2WZS2S&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 年"
+    ],
+    "renewal": "49.90"
+  },
+  {
+    "category": "年付福利",
+    "group": "年付特惠",
+    "name": "SV-VPS-2Cores-4GB-50G NVME-Enterprise CN2 1G/1T-1IP",
+    "product": "SV-VPS/Cloud-VM(Shared)",
+    "price": "49.90",
+    "original": "174.9",
+    "period": "年",
+    "options": [
+      [
+        "规格",
+        "2 Cores,4 G"
+      ],
+      [
+        "系统盘",
+        "NVMe 固态硬盘 标准策略 25000IOPS，750MB/s / 50G"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "CN2 Only / Enterprise CN2 G 1T"
+      ]
+    ],
+    "sample": "psam_01M24N3CFJDQ6AX41HVYFT5GCF",
+    "activity": "act_01M4TBMTG2VMWJPXXCYX2WZS2S",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01M24N3CFJDQ6AX41HVYFT5GCF&activity_id=act_01M4TBMTG2VMWJPXXCYX2WZS2S&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "49.90"
+  },
+  {
+    "category": "双ISP DIA上新福利",
+    "group": "双ISP DIA VPS",
+    "name": "SV-VPS-1Core-2GB-50G HDD-双ISP DIA 5G/1T-1IP",
+    "product": "SV-VPS/Cloud-VM(Shared)",
+    "price": "3.87",
+    "original": "5.52",
+    "period": "月",
+    "options": [
+      [
+        "规格",
+        "1 Core,2 G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 50G"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Dual ISP DIA / Dual ISP DIA 5G 1T"
+      ]
+    ],
+    "sample": "psam_01M65STXJAC3WNNYCPH30TNTDM",
+    "activity": "act_01M65X2AKSS36F0FJEPYHRWHDZ",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01M65STXJAC3WNNYCPH30TNTDM&activity_id=act_01M65X2AKSS36F0FJEPYHRWHDZ&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "3.87"
+  },
+  {
+    "category": "双ISP DIA上新福利",
+    "group": "双ISP DIA VPS",
+    "name": "SV-VPS-2Cores-4GB-50G HDD-Dual ISP DIA 5G/1T-1IP",
+    "product": "SV-VPS/Cloud-VM(Shared)",
+    "price": "5.76",
+    "original": "8.22",
+    "period": "月",
+    "options": [
+      [
+        "规格",
+        "2 Cores,4 G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 50G"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Dual ISP DIA / Dual ISP DIA 5G 1T"
+      ]
+    ],
+    "sample": "psam_01M65V2WHKBGPZA76DSTM2QFMJ",
+    "activity": "act_01M65X2AKSS36F0FJEPYHRWHDZ",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01M65V2WHKBGPZA76DSTM2QFMJ&activity_id=act_01M65X2AKSS36F0FJEPYHRWHDZ&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "5.76"
+  },
+  {
+    "category": "双ISP DIA上新福利",
+    "group": "双ISP DIA VPS",
+    "name": "SV-VPS-4Cores-4GB-50G HDD-Dual ISP DIA 5G/1T-1IP",
+    "product": "SV-VPS/Cloud-VM(Shared)",
+    "price": "6.74",
+    "original": "9.62",
+    "period": "月",
+    "options": [
+      [
+        "规格",
+        "4 Cores,4 G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 50G"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Dual ISP DIA / Dual ISP DIA 5G 1T"
+      ]
+    ],
+    "sample": "psam_01M65V5BJ05Q80ZVTRQD2Y19DJ",
+    "activity": "act_01M65X2AKSS36F0FJEPYHRWHDZ",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01M65V5BJ05Q80ZVTRQD2Y19DJ&activity_id=act_01M65X2AKSS36F0FJEPYHRWHDZ&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "6.74"
+  },
+  {
+    "category": "双ISP DIA上新福利",
+    "group": "双ISP DIA VPS",
+    "name": "SV-VPS-4Cores-8GB-50G HDD-Dual ISP DIA 5G/1T-1IP",
+    "product": "SV-VPS/Cloud-VM(Shared)",
+    "price": "9.54",
+    "original": "13.62",
+    "period": "月",
+    "options": [
+      [
+        "规格",
+        "4 Cores,8 G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 50G"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Dual ISP DIA / Dual ISP DIA 5G 1T"
+      ]
+    ],
+    "sample": "psam_01M65V7X8MPTYG8RBKK6TNN8NM",
+    "activity": "act_01M65X2AKSS36F0FJEPYHRWHDZ",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01M65V7X8MPTYG8RBKK6TNN8NM&activity_id=act_01M65X2AKSS36F0FJEPYHRWHDZ&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "9.54"
+  },
+  {
+    "category": "双ISP DIA上新福利",
+    "group": "双ISP DIA 裸机云",
+    "name": "[Dual ISP DIA Server] SV Bare-Metal Cloud E5-2620, 32G RAM, 1T HDD",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "90.00",
+    "original": "90",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2620"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Dual ISP DIA 100M 不限"
+      ]
+    ],
+    "sample": "psam_01M658VDSNFM59PZCCCX83CNM3",
+    "activity": "act_01M65YBZJCS8SRM0MJWT0SB0ZF",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01M658VDSNFM59PZCCCX83CNM3&activity_id=act_01M65YBZJCS8SRM0MJWT0SB0ZF&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "90.00"
+  },
+  {
+    "category": "双ISP DIA上新福利",
+    "group": "双ISP DIA 裸机云",
+    "name": "[Dual ISP DIA Server] SV Bare-Metal Cloud E5-2620*2, 32G RAM, 1T HDD",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "110.00",
+    "original": "110",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2620*2"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Dual ISP DIA 100M 不限"
+      ]
+    ],
+    "sample": "psam_01M659VQ36A4B16K0X3KAP9CB0",
+    "activity": "act_01M65YBZJCS8SRM0MJWT0SB0ZF",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01M659VQ36A4B16K0X3KAP9CB0&activity_id=act_01M65YBZJCS8SRM0MJWT0SB0ZF&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "110.00"
+  },
+  {
+    "category": "双ISP DIA上新福利",
+    "group": "双ISP DIA 裸机云",
+    "name": "[Dual ISP DIA Server] SV Bare-Metal Cloud E5-2680*2, 32G RAM, 1T HDD",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "120.00",
+    "original": "120",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2680*2"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Dual ISP DIA 100M 不限"
+      ]
+    ],
+    "sample": "psam_01M65AP0HVVGW3V2338SY5Z4DC",
+    "activity": "act_01M65YBZJCS8SRM0MJWT0SB0ZF",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01M65AP0HVVGW3V2338SY5Z4DC&activity_id=act_01M65YBZJCS8SRM0MJWT0SB0ZF&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "120.00"
+  },
+  {
+    "category": "双ISP DIA上新福利",
+    "group": "双ISP DIA 裸机云",
+    "name": "[Dual ISP DIA Server] SV Bare-Metal Cloud E5-2697*2, 32G RAM, 1T HDD",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "130.00",
+    "original": "130",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2697*2"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Dual ISP DIA 100M 不限"
+      ]
+    ],
+    "sample": "psam_01M65AW63EAW0PP60GSYRVKRZT",
+    "activity": "act_01M65YBZJCS8SRM0MJWT0SB0ZF",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01M65AW63EAW0PP60GSYRVKRZT&activity_id=act_01M65YBZJCS8SRM0MJWT0SB0ZF&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "130.00"
+  },
+  {
+    "category": "双ISP DIA上新福利",
+    "group": "双ISP DIA 裸机云",
+    "name": "[Dual ISP DIA Server] SV Bare-Metal Cloud E5-2683v4*2, 64G RAM, 1T HDD",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "150.00",
+    "original": "150",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V4 / E5 - 2683v4*2"
+      ],
+      [
+        "内存",
+        "V4 / 64G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Dual ISP DIA 100M 不限"
+      ]
+    ],
+    "sample": "psam_01M65B3HQR1KDP8SGR9R86A1QR",
+    "activity": "act_01M65YBZJCS8SRM0MJWT0SB0ZF",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01M65B3HQR1KDP8SGR9R86A1QR&activity_id=act_01M65YBZJCS8SRM0MJWT0SB0ZF&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "150.00"
+  },
+  {
+    "category": "双ISP DIA上新福利",
+    "group": "双ISP DIA 裸机云",
+    "name": "[Dual ISP DIA Server] SV Bare-Metal Cloud E5-2698v4*2, 64G RAM, 1T HDD",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "200.00",
+    "original": "200",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V4 / E5 - 2698v4*2"
+      ],
+      [
+        "内存",
+        "V4 / 64G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Dual ISP DIA 100M 不限"
+      ]
+    ],
+    "sample": "psam_01M65B87EBC4529TG42FD7FRZE",
+    "activity": "act_01M65YBZJCS8SRM0MJWT0SB0ZF",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01M65B87EBC4529TG42FD7FRZE&activity_id=act_01M65YBZJCS8SRM0MJWT0SB0ZF&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "200.00"
+  },
+  {
+    "category": "双ISP DIA上新福利",
+    "group": "双ISP DIA 裸机云",
+    "name": "[Dual ISP DIA Server] SV Bare-Metal Cloud Gold-6133*2, 64G RAM, 1T NVME",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "290.00",
+    "original": "290",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "Platinum / Gold - 6133*2"
+      ],
+      [
+        "内存",
+        "Platinum / 64G"
+      ],
+      [
+        "系统盘",
+        "NVMe 固态硬盘 标准策略 30000IOPS，750MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Dual ISP DIA 100M 不限"
+      ]
+    ],
+    "sample": "psam_01M65BCQRSBD96FMFKHNMVBBQC",
+    "activity": "act_01M65YBZJCS8SRM0MJWT0SB0ZF",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01M65BCQRSBD96FMFKHNMVBBQC&activity_id=act_01M65YBZJCS8SRM0MJWT0SB0ZF&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "290.00"
+  },
+  {
+    "category": "双ISP DIA上新福利",
+    "group": "双ISP DIA 物理服务器",
+    "name": "[Dual ISP DIA Server] SV E3-1230, 16G RAM, 1T HDD",
+    "product": "SV E3-1230, 16G, 1T HDD, 1IP",
+    "price": "59.00",
+    "original": "59",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E3 1230"
+      ],
+      [
+        "内存选项",
+        "16G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "带宽选择",
+        "Dual ISP DIA 100M 独享 不限"
+      ],
+      [
+        "IP地址1",
+        "默认 IP Dual ISP IP"
+      ]
+    ],
+    "sample": "psam_01M5Y7CV2ZB1AGQVQG917RDM4M",
+    "activity": "act_01M65YPXV64X4N394BMCB05SG9",
+    "url": "https://billing.raksmart.com/ec/price?pid=519&sample_id=psam_01M5Y7CV2ZB1AGQVQG917RDM4M&activity_id=act_01M65YPXV64X4N394BMCB05SG9&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "59.00"
+  },
+  {
+    "category": "双ISP DIA上新福利",
+    "group": "双ISP DIA 物理服务器",
+    "name": "[Dual ISP DIA Server] SV L5630*2, 16G RAM, 480G SSD",
+    "product": "SV L5630*2, 16G, 480G SSD, 1IP",
+    "price": "79.00",
+    "original": "79",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "L5630*2"
+      ],
+      [
+        "内存选项",
+        "16G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "480GB 固态硬盘 included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP Dual ISP IP"
+      ],
+      [
+        "带宽选择",
+        "Dual ISP DIA 100M 独享 不限"
+      ]
+    ],
+    "sample": "psam_01M60PCNEZJ9FJ6JFBRDH520NE",
+    "activity": "act_01M65YPXV64X4N394BMCB05SG9",
+    "url": "https://billing.raksmart.com/ec/price?pid=565&sample_id=psam_01M60PCNEZJ9FJ6JFBRDH520NE&activity_id=act_01M65YPXV64X4N394BMCB05SG9&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "79.00"
+  },
+  {
+    "category": "双ISP DIA上新福利",
+    "group": "双ISP DIA 物理服务器",
+    "name": "[Dual ISP DIA Server] SV E5-2620, 32G RAM, 1T HDD",
+    "product": "SV E5-2620 S, 32G, 1T HDD, 1IP",
+    "price": "109.00",
+    "original": "109",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 - 2620 S"
+      ],
+      [
+        "内存选项",
+        "32G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "带宽选择",
+        "Dual ISP DIA 100M 独享 不限"
+      ],
+      [
+        "IP地址1",
+        "默认 IP Dual ISP IP"
+      ]
+    ],
+    "sample": "psam_01M60PHH0YSCN94ZESRZG8QHR6",
+    "activity": "act_01M65YPXV64X4N394BMCB05SG9",
+    "url": "https://billing.raksmart.com/ec/price?pid=523&sample_id=psam_01M60PHH0YSCN94ZESRZG8QHR6&activity_id=act_01M65YPXV64X4N394BMCB05SG9&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "109.00"
+  },
+  {
+    "category": "双ISP DIA上新福利",
+    "group": "双ISP DIA 物理服务器",
+    "name": "[Dual ISP DIA Server] SV E5-2620*2, 32G RAM, 1T HDD",
+    "product": "SV E5-2620*2, 32G, 1T HDD, 1IP",
+    "price": "119.00",
+    "original": "119",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2620V2*2"
+      ],
+      [
+        "内存选项",
+        "32G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP Dual ISP IP"
+      ],
+      [
+        "带宽选择",
+        "Dual ISP DIA 100M 独享 不限"
+      ]
+    ],
+    "sample": "psam_01M60PVW7AF497BKVJRD76E6K9",
+    "activity": "act_01M65YPXV64X4N394BMCB05SG9",
+    "url": "https://billing.raksmart.com/ec/price?pid=524&sample_id=psam_01M60PVW7AF497BKVJRD76E6K9&activity_id=act_01M65YPXV64X4N394BMCB05SG9&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "119.00"
+  },
+  {
+    "category": "双ISP DIA上新福利",
+    "group": "双ISP DIA 物理服务器",
+    "name": "[Dual ISP DIA Server] SV E5-2680*2, 32G RAM, 1T HDD",
+    "product": "SV E5-2680*2, 32G, 1T HDD, 1IP",
+    "price": "129.00",
+    "original": "129",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2680*2"
+      ],
+      [
+        "内存选项",
+        "32G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "带宽选择",
+        "Dual ISP DIA 100M 独享 不限"
+      ],
+      [
+        "IP地址1",
+        "默认 IP Dual ISP IP"
+      ]
+    ],
+    "sample": "psam_01M60Q9T1TRETGQ5NMHEHZHRYX",
+    "activity": "act_01M65YPXV64X4N394BMCB05SG9",
+    "url": "https://billing.raksmart.com/ec/price?pid=526&sample_id=psam_01M60Q9T1TRETGQ5NMHEHZHRYX&activity_id=act_01M65YPXV64X4N394BMCB05SG9&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "129.00"
+  },
+  {
+    "category": "双ISP DIA上新福利",
+    "group": "双ISP DIA 物理服务器",
+    "name": "[Dual ISP DIA Server] SV E5-2697*2, 32G RAM, 1T HDD",
+    "product": "SV E5-2697*2, 32G, 1T HDD, 1IP",
+    "price": "139.00",
+    "original": "139",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2697*2"
+      ],
+      [
+        "内存选项",
+        "32G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP Dual ISP IP"
+      ],
+      [
+        "带宽选择",
+        "Dual ISP DIA 100M 独享 不限"
+      ]
+    ],
+    "sample": "psam_01M60QWTY73ZWAT5V56QFNWK4K",
+    "activity": "act_01M65YPXV64X4N394BMCB05SG9",
+    "url": "https://billing.raksmart.com/ec/price?pid=650&sample_id=psam_01M60QWTY73ZWAT5V56QFNWK4K&activity_id=act_01M65YPXV64X4N394BMCB05SG9&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "139.00"
+  },
+  {
+    "category": "双ISP DIA上新福利",
+    "group": "双ISP DIA 物理服务器",
+    "name": "[Dual ISP DIA Server] SV E5-2683v4*2, 64G RAM, 1T SSD",
+    "product": "SV E5-2683v4*2, 64G, 1T SSD, 1IP",
+    "price": "199.00",
+    "original": "199",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2683V4*2"
+      ],
+      [
+        "内存选项",
+        "64G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T 固态硬盘 included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP Dual ISP IP"
+      ],
+      [
+        "带宽选择",
+        "Dual ISP DIA 100M 独享 不限"
+      ]
+    ],
+    "sample": "psam_01M60STA7M1W9ZS34GGR72CVZR",
+    "activity": "act_01M65YPXV64X4N394BMCB05SG9",
+    "url": "https://billing.raksmart.com/ec/price?pid=1234&sample_id=psam_01M60STA7M1W9ZS34GGR72CVZR&activity_id=act_01M65YPXV64X4N394BMCB05SG9&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "199.00"
+  },
+  {
+    "category": "双ISP DIA上新福利",
+    "group": "双ISP DIA 物理服务器",
+    "name": "[Dual ISP DIA Server] SV E5-2698v4*2, 64G RAM, 1T SSD",
+    "product": "SV E5-2698v4*2, 64G, 1T SSD, 1IP",
+    "price": "249.00",
+    "original": "249",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2698V4*2"
+      ],
+      [
+        "内存选项",
+        "64G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T 固态硬盘 included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP Dual ISP IP"
+      ],
+      [
+        "带宽选择",
+        "Dual ISP DIA 100M 独享 不限"
+      ]
+    ],
+    "sample": "psam_01M60SX87C4GFK9HWYWFT8Z0H6",
+    "activity": "act_01M65YPXV64X4N394BMCB05SG9",
+    "url": "https://billing.raksmart.com/ec/price?pid=1215&sample_id=psam_01M60SX87C4GFK9HWYWFT8Z0H6&activity_id=act_01M65YPXV64X4N394BMCB05SG9&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "249.00"
+  },
+  {
+    "category": "双ISP DIA上新福利",
+    "group": "双ISP DIA 物理服务器",
+    "name": "[Dual ISP DIA Server] SV Gold-6133*2, 64G RAM, 1T NVME",
+    "product": "SV Gold-6133*2, 64G, 1T NVME, 1IP",
+    "price": "299.00",
+    "original": "299",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "Gold 6133*2"
+      ],
+      [
+        "带宽选择",
+        "Dual ISP DIA 100M 独享 不限"
+      ],
+      [
+        "IP地址1",
+        "默认 IP Dual ISP IP"
+      ],
+      [
+        "内存选项",
+        "64G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T NVME included"
+      ]
+    ],
+    "sample": "psam_01M60TKKQZRR9ETD8ASN44PD2S",
+    "activity": "act_01M65YPXV64X4N394BMCB05SG9",
+    "url": "https://billing.raksmart.com/ec/price?pid=1347&sample_id=psam_01M60TKKQZRR9ETD8ASN44PD2S&activity_id=act_01M65YPXV64X4N394BMCB05SG9&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "299.00"
+  },
+  {
+    "category": "双ISP DIA上新福利",
+    "group": "双ISP DIA 物理服务器",
+    "name": "[Dual ISP DIA Server] SV Platinum-8168*2, 64G RAM, 1T NVME",
+    "product": "SV Platinum-8168*2, 64G, 1T NVME, 1IP",
+    "price": "449.00",
+    "original": "449",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "Platinum - 8168*2"
+      ],
+      [
+        "内存选项",
+        "64G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T NVME included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP Dual ISP IP"
+      ],
+      [
+        "带宽选择",
+        "Dual ISP DIA 100M 独享 不限"
+      ]
+    ],
+    "sample": "psam_01M60TNY7VP09TFEDHRGY8RXWM",
+    "activity": "act_01M65YPXV64X4N394BMCB05SG9",
+    "url": "https://billing.raksmart.com/ec/price?pid=1348&sample_id=psam_01M60TNY7VP09TFEDHRGY8RXWM&activity_id=act_01M65YPXV64X4N394BMCB05SG9&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "449.00"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "VPS精品CN2",
+    "name": "SV-VPS-2Cores-2GB-50G HDD-Enterprise CN2 1G1T",
+    "product": "SV-VPS/Cloud-VM(Shared)",
+    "price": "9.10",
+    "original": "12.99",
+    "period": "月",
+    "options": [
+      [
+        "规格",
+        "2 Cores,2 G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 50G"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "CN2 Only / Enterprise CN2 G 1T"
+      ]
+    ],
+    "sample": "psam_01KZ8C56WWYMX0T55D4EBGQG9E",
+    "activity": "act_01KWBMWA1EEP3J4RPZHYKDZ843",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01KZ8C56WWYMX0T55D4EBGQG9E&activity_id=act_01KWBMWA1EEP3J4RPZHYKDZ843&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "9.10"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "VPS精品CN2",
+    "name": "SV-VPS-2Cores-4GB-50G HDD-Enterprise CN2 1G1T",
+    "product": "SV-VPS/Cloud-VM(Shared)",
+    "price": "10.50",
+    "original": "14.99",
+    "period": "月",
+    "options": [
+      [
+        "规格",
+        "2 Cores,4 G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 50G"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "CN2 Only / Enterprise CN2 G 1T"
+      ]
+    ],
+    "sample": "psam_01KZ8CRN7BYYJ2881R36ZFXT6W",
+    "activity": "act_01KWBMWA1EEP3J4RPZHYKDZ843",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01KZ8CRN7BYYJ2881R36ZFXT6W&activity_id=act_01KWBMWA1EEP3J4RPZHYKDZ843&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "10.50"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "VPS精品CN2",
+    "name": "SV-VPS-4Cores-4GB-50G HDD-Enterprise CN2 1G1T",
+    "product": "SV-VPS/Cloud-VM(Shared)",
+    "price": "11.48",
+    "original": "16.39",
+    "period": "月",
+    "options": [
+      [
+        "规格",
+        "4 Cores,4 G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 50G"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "CN2 Only / Enterprise CN2 G 1T"
+      ]
+    ],
+    "sample": "psam_01KZ8DBA8A34NNE2AMNG35232W",
+    "activity": "act_01KWBMWA1EEP3J4RPZHYKDZ843",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01KZ8DBA8A34NNE2AMNG35232W&activity_id=act_01KWBMWA1EEP3J4RPZHYKDZ843&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "11.48"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "VPS精品CN2",
+    "name": "SV-VPS-4Cores-8GB-50G HDD-Enterprise CN2 1G1T",
+    "product": "SV-VPS/Cloud-VM(Shared)",
+    "price": "14.28",
+    "original": "20.39",
+    "period": "月",
+    "options": [
+      [
+        "规格",
+        "4 Cores,8 G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 50G"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "CN2 Only / Enterprise CN2 G 1T"
+      ]
+    ],
+    "sample": "psam_01KZ8DMF4WQMK4KWYTGEG8VMT7",
+    "activity": "act_01KWBMWA1EEP3J4RPZHYKDZ843",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01KZ8DMF4WQMK4KWYTGEG8VMT7&activity_id=act_01KWBMWA1EEP3J4RPZHYKDZ843&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "14.28"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "裸机云精品CN2",
+    "name": "[Enterprise CN2] SEA Bare-Metal Cloud E5-2620, 32G RAM, 1T HDD, 1IP",
+    "product": "SEA-Bare-Metal Cloud",
+    "price": "139.00",
+    "original": "139",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2620"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Enterprise CN2 30M 不限"
+      ]
+    ],
+    "sample": "psam_01KW1B0MKXQE7XE2J08MNYD5TC",
+    "activity": "act_01M4WH2S50QHN319K2WKHEDBYF",
+    "url": "https://billing.raksmart.com/ec/price?pid=2072&sample_id=psam_01KW1B0MKXQE7XE2J08MNYD5TC&activity_id=act_01M4WH2S50QHN319K2WKHEDBYF&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "139.00"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "裸机云精品CN2",
+    "name": "[Enterprise CN2] LA Bare-Metal Cloud E5-2620, 32G RAM, 1T HDD, 1IP",
+    "product": "LA-Bare-Metal Cloud",
+    "price": "139.00",
+    "original": "139",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2620"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Enterprise CN2 30M 不限"
+      ]
+    ],
+    "sample": "psam_01KW1A5AEHB9TJYF4AN9CYD2MX",
+    "activity": "act_01M4WH2S50QHN319K2WKHEDBYF",
+    "url": "https://billing.raksmart.com/ec/price?pid=1992&sample_id=psam_01KW1A5AEHB9TJYF4AN9CYD2MX&activity_id=act_01M4WH2S50QHN319K2WKHEDBYF&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "139.00"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "裸机云精品CN2",
+    "name": "[Enterprise CN2] SV Bare-Metal Cloud E5-2620, 32G RAM, 1T HDD, 1IP",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "139.00",
+    "original": "139",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2620"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Enterprise CN2 30M 不限"
+      ]
+    ],
+    "sample": "psam_01KW195YH96529XJ589AT2YY5S",
+    "activity": "act_01M4WH2S50QHN319K2WKHEDBYF",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01KW195YH96529XJ589AT2YY5S&activity_id=act_01M4WH2S50QHN319K2WKHEDBYF&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "139.00"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "裸机云精品CN2",
+    "name": "[Enterprise CN2] SEA Bare-Metal Cloud E5-2620*2, 32G RAM, 1T HDD, 1IP",
+    "product": "SEA-Bare-Metal Cloud",
+    "price": "159.00",
+    "original": "159",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2620*2"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Enterprise CN2 30M 不限"
+      ]
+    ],
+    "sample": "psam_01KW1B9T0DF02DSCCY5SW3ZRNQ",
+    "activity": "act_01M4WH2S50QHN319K2WKHEDBYF",
+    "url": "https://billing.raksmart.com/ec/price?pid=2072&sample_id=psam_01KW1B9T0DF02DSCCY5SW3ZRNQ&activity_id=act_01M4WH2S50QHN319K2WKHEDBYF&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "159.00"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "裸机云精品CN2",
+    "name": "[Enterprise CN2] LA Bare-Metal Cloud E5-2620*2, 32G RAM, 1T HDD, 1IP",
+    "product": "LA-Bare-Metal Cloud",
+    "price": "159.00",
+    "original": "159",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2620*2"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Enterprise CN2 30M 不限"
+      ]
+    ],
+    "sample": "psam_01KW1AA8NPCTZF23GZBAAGR5NA",
+    "activity": "act_01M4WH2S50QHN319K2WKHEDBYF",
+    "url": "https://billing.raksmart.com/ec/price?pid=1992&sample_id=psam_01KW1AA8NPCTZF23GZBAAGR5NA&activity_id=act_01M4WH2S50QHN319K2WKHEDBYF&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "159.00"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "裸机云精品CN2",
+    "name": "[Enterprise CN2] SV Bare-Metal Cloud E5-2620*2, 32G RAM, 1T HDD, 1IP",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "159.00",
+    "original": "159",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2620*2"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Enterprise CN2 30M 不限"
+      ]
+    ],
+    "sample": "psam_01KW196Q4NYGXQJZH70KQXGBP0",
+    "activity": "act_01M4WH2S50QHN319K2WKHEDBYF",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01KW196Q4NYGXQJZH70KQXGBP0&activity_id=act_01M4WH2S50QHN319K2WKHEDBYF&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "159.00"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "裸机云精品CN2",
+    "name": "[Enterprise CN2] SEA Bare-Metal Cloud E5-2680*2, 32G RAM, 1T HDD, 1IP",
+    "product": "SEA-Bare-Metal Cloud",
+    "price": "169.00",
+    "original": "169",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2680*2"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Enterprise CN2 30M 不限"
+      ]
+    ],
+    "sample": "psam_01KW1BC5A6SQWN0S017ZHEHJYN",
+    "activity": "act_01M4WH2S50QHN319K2WKHEDBYF",
+    "url": "https://billing.raksmart.com/ec/price?pid=2072&sample_id=psam_01KW1BC5A6SQWN0S017ZHEHJYN&activity_id=act_01M4WH2S50QHN319K2WKHEDBYF&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "169.00"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "裸机云精品CN2",
+    "name": "[Enterprise CN2] LA Bare-Metal Cloud E5-2680*2, 32G RAM, 1T HDD, 1IP",
+    "product": "LA-Bare-Metal Cloud",
+    "price": "169.00",
+    "original": "169",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2680*2"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Enterprise CN2 30M 不限"
+      ]
+    ],
+    "sample": "psam_01KW1ADK0CWK2NBEQ5S4TXR45R",
+    "activity": "act_01M4WH2S50QHN319K2WKHEDBYF",
+    "url": "https://billing.raksmart.com/ec/price?pid=1992&sample_id=psam_01KW1ADK0CWK2NBEQ5S4TXR45R&activity_id=act_01M4WH2S50QHN319K2WKHEDBYF&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "169.00"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "裸机云精品CN2",
+    "name": "[Enterprise CN2] SV Bare-Metal Cloud E5-2680*2, 32G RAM, 1T HDD, 1IP",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "169.00",
+    "original": "169",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2680*2"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Enterprise CN2 30M 不限"
+      ]
+    ],
+    "sample": "psam_01KW199YAC95N1YZN2Y0CG73R8",
+    "activity": "act_01M4WH2S50QHN319K2WKHEDBYF",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01KW199YAC95N1YZN2Y0CG73R8&activity_id=act_01M4WH2S50QHN319K2WKHEDBYF&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "169.00"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "裸机云精品CN2",
+    "name": "[Enterprise CN2] SEA Bare-Metal Cloud E5-2683v4*2, 64G RAM, 1T HDD, 1IP",
+    "product": "SEA-Bare-Metal Cloud",
+    "price": "199.00",
+    "original": "199",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V4 / E5 - 2683v4*2"
+      ],
+      [
+        "内存",
+        "V4 / 64G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Enterprise CN2 30M 不限"
+      ]
+    ],
+    "sample": "psam_01KW1BF869GAYA69KDTM7FJ01P",
+    "activity": "act_01M4WH2S50QHN319K2WKHEDBYF",
+    "url": "https://billing.raksmart.com/ec/price?pid=2072&sample_id=psam_01KW1BF869GAYA69KDTM7FJ01P&activity_id=act_01M4WH2S50QHN319K2WKHEDBYF&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "199.00"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "裸机云精品CN2",
+    "name": "[Enterprise CN2] LA Bare-Metal Cloud E5-2683v4*2, 64G RAM, 1T HDD, 1IP",
+    "product": "LA-Bare-Metal Cloud",
+    "price": "199.00",
+    "original": "199",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V4 / E5 - 2683v4*2"
+      ],
+      [
+        "内存",
+        "V4 / 64G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Enterprise CN2 30M 不限"
+      ]
+    ],
+    "sample": "psam_01KW1AJMKGN7DN35GBT8XY87P6",
+    "activity": "act_01M4WH2S50QHN319K2WKHEDBYF",
+    "url": "https://billing.raksmart.com/ec/price?pid=1992&sample_id=psam_01KW1AJMKGN7DN35GBT8XY87P6&activity_id=act_01M4WH2S50QHN319K2WKHEDBYF&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "199.00"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "裸机云精品CN2",
+    "name": "[Enterprise CN2] SV Bare-Metal Cloud E5-2683v4*2, 64G RAM, 1T HDD, 1IP",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "199.00",
+    "original": "199",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V4 / E5 - 2683v4*2"
+      ],
+      [
+        "内存",
+        "V4 / 64G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Enterprise CN2 30M 不限"
+      ]
+    ],
+    "sample": "psam_01KW19N15RW0E29SZ56WEFS8P4",
+    "activity": "act_01M4WH2S50QHN319K2WKHEDBYF",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01KW19N15RW0E29SZ56WEFS8P4&activity_id=act_01M4WH2S50QHN319K2WKHEDBYF&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "199.00"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "物理服务器精品CN2",
+    "name": "[Enterprise CN2] SEA E3-1230, 16G RAM, 1T HDD, 1IP",
+    "product": "SEA E3-1230, 16G, 1T HDD, 1IP",
+    "price": "98.10",
+    "original": "109",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E3 1230"
+      ],
+      [
+        "内存选项",
+        "16G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Enterprise CN2 30M 独享"
+      ]
+    ],
+    "sample": "psam_01KW16DS73W64TRWHHESCCMQ5R",
+    "activity": "act_01M4WGWEPD34BRAQJ7EGDEZPWC",
+    "url": "https://billing.raksmart.com/ec/price?pid=2050&sample_id=psam_01KW16DS73W64TRWHHESCCMQ5R&activity_id=act_01M4WGWEPD34BRAQJ7EGDEZPWC&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "98.10"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "物理服务器精品CN2",
+    "name": "[Enterprise CN2] LA E3-1230, 16G RAM, 1T HDD, 1IP",
+    "product": "LA E3-1230, 16G, 1T HDD, 1IP",
+    "price": "98.10",
+    "original": "109",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E3 1230"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Enterprise CN2 30M 独享"
+      ]
+    ],
+    "sample": "psam_01KVYQW6BQ5KBR5VDS69ZZV4PX",
+    "activity": "act_01M4WGWEPD34BRAQJ7EGDEZPWC",
+    "url": "https://billing.raksmart.com/ec/price?pid=813&sample_id=psam_01KVYQW6BQ5KBR5VDS69ZZV4PX&activity_id=act_01M4WGWEPD34BRAQJ7EGDEZPWC&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "98.10"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "物理服务器精品CN2",
+    "name": "[Enterprise CN2] SV E3-1230, 16G RAM, 1T HDD, 1IP",
+    "product": "SV E3-1230, 16G, 1T HDD, 1IP",
+    "price": "98.10",
+    "original": "109",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E3 1230"
+      ],
+      [
+        "内存选项",
+        "16G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Enterprise CN2 30M 独享"
+      ]
+    ],
+    "sample": "psam_01KVYMETBG7BNEER8NHH2WT8AB",
+    "activity": "act_01M4WGWEPD34BRAQJ7EGDEZPWC",
+    "url": "https://billing.raksmart.com/ec/price?pid=519&sample_id=psam_01KVYMETBG7BNEER8NHH2WT8AB&activity_id=act_01M4WGWEPD34BRAQJ7EGDEZPWC&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "98.10"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "物理服务器精品CN2",
+    "name": "[Enterprise CN2] SEA E5-2620*2, 32G RAM, 1T HDD, 1IP",
+    "product": "SEA E5-2620*2, 32G, 1T HDD, 1IP",
+    "price": "152.10",
+    "original": "169",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2620V2*2"
+      ],
+      [
+        "内存选项",
+        "32G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Enterprise CN2 30M 独享"
+      ]
+    ],
+    "sample": "psam_01KW16KBHWYF7BBYJWS5NCYYRY",
+    "activity": "act_01M4WGWEPD34BRAQJ7EGDEZPWC",
+    "url": "https://billing.raksmart.com/ec/price?pid=2053&sample_id=psam_01KW16KBHWYF7BBYJWS5NCYYRY&activity_id=act_01M4WGWEPD34BRAQJ7EGDEZPWC&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "152.10"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "物理服务器精品CN2",
+    "name": "[Enterprise CN2] SV E5-2620*2, 32G RAM, 1T HDD, 1IP",
+    "product": "SV E5-2620*2, 32G, 1T HDD, 1IP",
+    "price": "152.10",
+    "original": "169",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2620V2*2"
+      ],
+      [
+        "内存选项",
+        "32G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Enterprise CN2 30M 独享"
+      ]
+    ],
+    "sample": "psam_01KVYMMJ04YDHW6P7BTNY8WSEQ",
+    "activity": "act_01M4WGWEPD34BRAQJ7EGDEZPWC",
+    "url": "https://billing.raksmart.com/ec/price?pid=524&sample_id=psam_01KVYMMJ04YDHW6P7BTNY8WSEQ&activity_id=act_01M4WGWEPD34BRAQJ7EGDEZPWC&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "152.10"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "物理服务器精品CN2",
+    "name": "[Enterprise CN2] SEA E5-2680*2, 32G RAM, 1T HDD, 1IP",
+    "product": "SEA E5-2680*2, 32G, 1T HDD, 1IP",
+    "price": "161.10",
+    "original": "179",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2680*2"
+      ],
+      [
+        "内存选项",
+        "32G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Enterprise CN2 30M 独享"
+      ]
+    ],
+    "sample": "psam_01KW18A6FXS8J684NNVNTBY8MW",
+    "activity": "act_01M4WGWEPD34BRAQJ7EGDEZPWC",
+    "url": "https://billing.raksmart.com/ec/price?pid=2054&sample_id=psam_01KW18A6FXS8J684NNVNTBY8MW&activity_id=act_01M4WGWEPD34BRAQJ7EGDEZPWC&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "161.10"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "物理服务器精品CN2",
+    "name": "[Enterprise CN2] SV E5-2680*2, 32G RAM, 1T HDD, 1IP",
+    "product": "SV E5-2680*2, 32G, 1T HDD, 1IP",
+    "price": "161.10",
+    "original": "179",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2680*2"
+      ],
+      [
+        "内存选项",
+        "32G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Enterprise CN2 30M 独享"
+      ]
+    ],
+    "sample": "psam_01KVYN2VVK4S4RK4KYQGWMB4BT",
+    "activity": "act_01M4WGWEPD34BRAQJ7EGDEZPWC",
+    "url": "https://billing.raksmart.com/ec/price?pid=526&sample_id=psam_01KVYN2VVK4S4RK4KYQGWMB4BT&activity_id=act_01M4WGWEPD34BRAQJ7EGDEZPWC&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "161.10"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "物理服务器精品CN2",
+    "name": "[Enterprise CN2] LA E5-2620*2, 32G RAM, 1T SSD, 1IP",
+    "product": "LA E5-2620*2, 32G, 1T SSD, 1IP",
+    "price": "170.10",
+    "original": "189",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2620*2"
+      ],
+      [
+        "内存选项",
+        "32G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T 固态硬盘 included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Enterprise CN2 30M 独享"
+      ]
+    ],
+    "sample": "psam_01KW0W87CRYK1NENYX1STC90TA",
+    "activity": "act_01M4WGWEPD34BRAQJ7EGDEZPWC",
+    "url": "https://billing.raksmart.com/ec/price?pid=770&sample_id=psam_01KW0W87CRYK1NENYX1STC90TA&activity_id=act_01M4WGWEPD34BRAQJ7EGDEZPWC&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "170.10"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "物理服务器精品CN2",
+    "name": "[Enterprise CN2] LA E5-2680*2, 32G RAM, 1T SSD, 1IP",
+    "product": "LA E5-2680*2, 32G, 1T SSD, 1IP",
+    "price": "179.10",
+    "original": "199",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2680*2"
+      ],
+      [
+        "内存选项",
+        "32G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T 固态硬盘 included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Enterprise CN2 30M 独享"
+      ]
+    ],
+    "sample": "psam_01KW15938QWKGFD1MFXFD3ZVZT",
+    "activity": "act_01M4WGWEPD34BRAQJ7EGDEZPWC",
+    "url": "https://billing.raksmart.com/ec/price?pid=836&sample_id=psam_01KW15938QWKGFD1MFXFD3ZVZT&activity_id=act_01M4WGWEPD34BRAQJ7EGDEZPWC&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "179.10"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "物理服务器精品CN2",
+    "name": "[Enterprise CN2] SEA E5-2683v4*2, 64G RAM, 1T SSD, 1IP",
+    "product": "SEA E5-2683v4*2, 64G, 1T SSD, 1IP",
+    "price": "224.10",
+    "original": "249",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2683V4*2"
+      ],
+      [
+        "内存选项",
+        "64G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T 固态硬盘 included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Enterprise CN2 30M 独享"
+      ]
+    ],
+    "sample": "psam_01KW17YGVDQD1G8RRM7NWHRAG2",
+    "activity": "act_01M4WGWEPD34BRAQJ7EGDEZPWC",
+    "url": "https://billing.raksmart.com/ec/price?pid=2056&sample_id=psam_01KW17YGVDQD1G8RRM7NWHRAG2&activity_id=act_01M4WGWEPD34BRAQJ7EGDEZPWC&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "224.10"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "物理服务器精品CN2",
+    "name": "[Enterprise CN2] LA E5-2683v4*2, 64G RAM, 1T SSD, 1IP",
+    "product": "LA E5-2683v4*2, 64G, 1T SSD, 1IP",
+    "price": "224.10",
+    "original": "249",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2683V4*2"
+      ],
+      [
+        "内存选项",
+        "64G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T 固态硬盘 included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Enterprise CN2 30M 独享"
+      ]
+    ],
+    "sample": "psam_01KW15FSWZFFBE53TZHDGVGZ9W",
+    "activity": "act_01M4WGWEPD34BRAQJ7EGDEZPWC",
+    "url": "https://billing.raksmart.com/ec/price?pid=1235&sample_id=psam_01KW15FSWZFFBE53TZHDGVGZ9W&activity_id=act_01M4WGWEPD34BRAQJ7EGDEZPWC&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "224.10"
+  },
+  {
+    "category": "精品CN2特惠",
+    "group": "物理服务器精品CN2",
+    "name": "[Enterprise CN2] SV E5-2683v4*2, 64G RAM, 1T SSD, 1IP",
+    "product": "SV E5-2683v4*2, 64G, 1T SSD, 1IP",
+    "price": "224.10",
+    "original": "249",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2683V4*2"
+      ],
+      [
+        "内存选项",
+        "64G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T 固态硬盘 included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Enterprise CN2 30M 独享"
+      ]
+    ],
+    "sample": "psam_01KVYPCY9PRER9W67N0H9TFN2S",
+    "activity": "act_01M4WGWEPD34BRAQJ7EGDEZPWC",
+    "url": "https://billing.raksmart.com/ec/price?pid=1234&sample_id=psam_01KVYPCY9PRER9W67N0H9TFN2S&activity_id=act_01M4WGWEPD34BRAQJ7EGDEZPWC&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "224.10"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "物理服务器1G大带宽",
+    "name": "[G Port] SV E3-1230, 16G, 1T HDD, 1IP, G/Unlimited(Global BGP)",
+    "product": "SV E3-1230, 16G, 1T HDD, 1IP",
+    "price": "104.00",
+    "original": "104",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E3 1230"
+      ],
+      [
+        "内存选项",
+        "16G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Global BGP 1G 独享 不限"
+      ]
+    ],
+    "sample": "psam_01JCF1ERFCGKYPNXX0SF9HJGJ5",
+    "activity": "act_01KWBTPQ080JHQPXCDGAR7PF78",
+    "url": "https://billing.raksmart.com/ec/price?pid=519&sample_id=psam_01JCF1ERFCGKYPNXX0SF9HJGJ5&activity_id=act_01KWBTPQ080JHQPXCDGAR7PF78&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "104.00"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "物理服务器1G大带宽",
+    "name": "[G Port] SEA E3-1230, 16G, 1T HDD, 1IP, G/10T(Enterprise CN2)",
+    "product": "SEA E3-1230, 16G, 1T HDD, 1IP",
+    "price": "114.90",
+    "original": "114.9",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E3 1230"
+      ],
+      [
+        "内存选项",
+        "16G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Enterprise CN2 1G 独享 10T 流量"
+      ]
+    ],
+    "sample": "psam_01KZTK1HHTDVZEGBY2PN13EYVR",
+    "activity": "act_01KWBTPQ080JHQPXCDGAR7PF78",
+    "url": "https://billing.raksmart.com/ec/price?pid=2050&sample_id=psam_01KZTK1HHTDVZEGBY2PN13EYVR&activity_id=act_01KWBTPQ080JHQPXCDGAR7PF78&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "114.90"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "物理服务器1G大带宽",
+    "name": "[G Port] SV E5-2620, 32G, 1T HDD, 1IP, G/Unlimited(Global BGP)",
+    "product": "SV E5-2620 S, 32G, 1T HDD, 1IP",
+    "price": "154.00",
+    "original": "154",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 - 2620 S"
+      ],
+      [
+        "内存选项",
+        "32G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Global BGP 1G 独享 不限"
+      ]
+    ],
+    "sample": "psam_01JCF1TEF3QVZJVVAWVADBRA92",
+    "activity": "act_01KWBTPQ080JHQPXCDGAR7PF78",
+    "url": "https://billing.raksmart.com/ec/price?pid=523&sample_id=psam_01JCF1TEF3QVZJVVAWVADBRA92&activity_id=act_01KWBTPQ080JHQPXCDGAR7PF78&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "154.00"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "物理服务器1G大带宽",
+    "name": "[G Port] SEA E5-2620, 32G, 1T HDD, 1IP, G/10T(Enterprise CN2)",
+    "product": "SEA E5-2620, 32G, 1T HDD, 1IP",
+    "price": "164.90",
+    "original": "164.9",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 - 2620 S"
+      ],
+      [
+        "内存选项",
+        "32G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Enterprise CN2 1G 独享 10T 流量"
+      ]
+    ],
+    "sample": "psam_01KZTK2732H6VRSKA0APGFGJ4P",
+    "activity": "act_01KWBTPQ080JHQPXCDGAR7PF78",
+    "url": "https://billing.raksmart.com/ec/price?pid=2052&sample_id=psam_01KZTK2732H6VRSKA0APGFGJ4P&activity_id=act_01KWBTPQ080JHQPXCDGAR7PF78&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "164.90"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "物理服务器1G大带宽",
+    "name": "[G Port] SV E5-2680*2, 32G, 1T SSD, 1IP, G/Unlimited(Global BGP)",
+    "product": "SV E5-2680*2, 32G, 1T HDD, 1IP",
+    "price": "204.00",
+    "original": "204",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2680 Dual"
+      ],
+      [
+        "内存选项",
+        "32G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T 固态硬盘"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Global BGP 1G 独享 不限"
+      ]
+    ],
+    "sample": "psam_01JCF4VDDEFENQVAVVQNM0RK9E",
+    "activity": "act_01KWBTPQ080JHQPXCDGAR7PF78",
+    "url": "https://billing.raksmart.com/ec/price?pid=526&sample_id=psam_01JCF4VDDEFENQVAVVQNM0RK9E&activity_id=act_01KWBTPQ080JHQPXCDGAR7PF78&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "204.00"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "物理服务器1G大带宽",
+    "name": "[G Port] SEA E5-2680*2, 32G, 1T SSD, 1IP, G/10T(Enterprise CN2)",
+    "product": "SEA E5-2680*2, 32G, 1T HDD, 1IP",
+    "price": "214.90",
+    "original": "214.9",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2680*2"
+      ],
+      [
+        "内存选项",
+        "32G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T 固态硬盘"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Enterprise CN2 1G 独享 10T 流量"
+      ]
+    ],
+    "sample": "psam_01KZTK3XN2W00J9TNXX5XD2N8Z",
+    "activity": "act_01KWBTPQ080JHQPXCDGAR7PF78",
+    "url": "https://billing.raksmart.com/ec/price?pid=2054&sample_id=psam_01KZTK3XN2W00J9TNXX5XD2N8Z&activity_id=act_01KWBTPQ080JHQPXCDGAR7PF78&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "214.90"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "物理服务器1G大带宽",
+    "name": "[G Port] SV E5-2683v4*2, 64G, 1T SSD, 1IP, G/Unlimited(Global BGP)",
+    "product": "SV E5-2683v4*2, 64G, 1T SSD, 1IP",
+    "price": "244.00",
+    "original": "244",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2683V4*2"
+      ],
+      [
+        "内存选项",
+        "64G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T 固态硬盘 included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Global BGP 1G 独享 不限"
+      ]
+    ],
+    "sample": "psam_01JKWFAHDNHZYBESQBHPGAYEDM",
+    "activity": "act_01KWBTPQ080JHQPXCDGAR7PF78",
+    "url": "https://billing.raksmart.com/ec/price?pid=1234&sample_id=psam_01JKWFAHDNHZYBESQBHPGAYEDM&activity_id=act_01KWBTPQ080JHQPXCDGAR7PF78&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "244.00"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "物理服务器1G大带宽",
+    "name": "[G Port] SEA E5-2683V4*2, 64G, 1T SSD, 1IP, G/10T(Enterprise CN2)",
+    "product": "SEA E5-2683v4*2, 64G, 1T SSD, 1IP",
+    "price": "254.90",
+    "original": "254.9",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2683V4*2"
+      ],
+      [
+        "内存选项",
+        "64G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T 固态硬盘 included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Enterprise CN2 1G 独享 10T 流量"
+      ]
+    ],
+    "sample": "psam_01KZTK4XZFFH1BPQNQ5X7MX0C3",
+    "activity": "act_01KWBTPQ080JHQPXCDGAR7PF78",
+    "url": "https://billing.raksmart.com/ec/price?pid=2056&sample_id=psam_01KZTK4XZFFH1BPQNQ5X7MX0C3&activity_id=act_01KWBTPQ080JHQPXCDGAR7PF78&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "254.90"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "物理服务器1G大带宽",
+    "name": "[G Port] SV E3-1230, 16G, 1T HDD, 1IP, G/Unlimited(China Optimized VIP)",
+    "product": "SV E3-1230, 16G, 1T HDD, 1IP",
+    "price": "823.00",
+    "original": "823",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E3 1230"
+      ],
+      [
+        "内存选项",
+        "16G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "China Optimized VIP 1G 独享 不限"
+      ]
+    ],
+    "sample": "psam_01JB8TMNDJB66P1HJGTDYBSB2T",
+    "activity": "act_01KWBTPQ080JHQPXCDGAR7PF78",
+    "url": "https://billing.raksmart.com/ec/price?pid=519&sample_id=psam_01JB8TMNDJB66P1HJGTDYBSB2T&activity_id=act_01KWBTPQ080JHQPXCDGAR7PF78&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "823.00"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "物理服务器1G大带宽",
+    "name": "[G Port] SV E5-2620, 32G, 1T HDD, 1IP, G/Unlimited(China Optimized VIP)",
+    "product": "SV E5-2620 S, 32G, 1T HDD, 1IP",
+    "price": "873.00",
+    "original": "873",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 - 2620 S"
+      ],
+      [
+        "内存选项",
+        "32G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "China Optimized VIP 1G 独享 不限"
+      ]
+    ],
+    "sample": "psam_01JB8VKKRRKZZ6GFAQTB5C2WFJ",
+    "activity": "act_01KWBTPQ080JHQPXCDGAR7PF78",
+    "url": "https://billing.raksmart.com/ec/price?pid=523&sample_id=psam_01JB8VKKRRKZZ6GFAQTB5C2WFJ&activity_id=act_01KWBTPQ080JHQPXCDGAR7PF78&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "873.00"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "物理服务器1G大带宽",
+    "name": "[G Port] SV E5-2683v4*2, 64G, 1T SSD, 1IP, G/Unlimited(China Optimized VIP)",
+    "product": "SV E5-2683v4 Dual, 64G, 1T SSD, 1IP",
+    "price": "879.20",
+    "original": "1099",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2683V4 DUAL"
+      ],
+      [
+        "内存选项",
+        "64G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T 固态硬盘 included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "China Optimized VIP 1G 独享 不限"
+      ]
+    ],
+    "sample": "psam_01JBB74BX94GVGDM3G5ZK6SDZJ",
+    "activity": "act_01KWBTPQ080JHQPXCDGAR7PF78",
+    "url": "https://billing.raksmart.com/ec/price?pid=942&sample_id=psam_01JBB74BX94GVGDM3G5ZK6SDZJ&activity_id=act_01KWBTPQ080JHQPXCDGAR7PF78&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "879.20"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "物理服务器1G大带宽",
+    "name": "[G Port] SV E5-2680*2, 32G, 1T SSD, 1IP, G/Unlimited(China Optimized VIP)",
+    "product": "SV E5-2680*2, 32G, 1T HDD, 1IP",
+    "price": "923.00",
+    "original": "923",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2680*2"
+      ],
+      [
+        "内存选项",
+        "32G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T 固态硬盘"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "China Optimized VIP 1G 独享 不限"
+      ]
+    ],
+    "sample": "psam_01JB8XSZ189ZZ7QRZW564954T3",
+    "activity": "act_01KWBTPQ080JHQPXCDGAR7PF78",
+    "url": "https://billing.raksmart.com/ec/price?pid=526&sample_id=psam_01JB8XSZ189ZZ7QRZW564954T3&activity_id=act_01KWBTPQ080JHQPXCDGAR7PF78&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "923.00"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "物理服务器10G大带宽",
+    "name": "[10G Port] SV E5-2620*2, 128G RAM, 4*1T SSD, 5IP, 10G/Unlimited(Global BGP)",
+    "product": "SV E5-2620*2, 32G, 1T HDD, 1IP",
+    "price": "881.60",
+    "original": "928",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2620V2*2"
+      ],
+      [
+        "内存选项",
+        "128G RAM"
+      ],
+      [
+        "IP地址5",
+        "默认 IP"
+      ],
+      [
+        "硬盘 4",
+        "1T 固态硬盘"
+      ],
+      [
+        "带宽选择",
+        "Global BGP 10G 独享 不限 流量"
+      ]
+    ],
+    "sample": "psam_01JCJ8CASXQHCKGCASQWSR934Q",
+    "activity": "act_01KWBTQ9D447824KV7SKPEYE0K",
+    "url": "https://billing.raksmart.com/ec/price?pid=524&sample_id=psam_01JCJ8CASXQHCKGCASQWSR934Q&activity_id=act_01KWBTQ9D447824KV7SKPEYE0K&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "881.60"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "物理服务器10G大带宽",
+    "name": "[10G Port] SV E5-2683v4*2, 128G, 6*1T SSD, 5IP, 10G/Unlimited(Global BGP)",
+    "product": "SV E5-2683v4*2, 64G, 1T SSD, 1IP",
+    "price": "1014.60",
+    "original": "1068",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2683V4*2"
+      ],
+      [
+        "内存选项",
+        "128G RAM"
+      ],
+      [
+        "IP地址5",
+        "默认 IP"
+      ],
+      [
+        "硬盘 6",
+        "1T 固态硬盘"
+      ],
+      [
+        "带宽选择",
+        "Global BGP 10G 独享 不限 流量"
+      ]
+    ],
+    "sample": "psam_01JKYM4GDR8CVAVMAKWHRAGDBB",
+    "activity": "act_01KWBTQ9D447824KV7SKPEYE0K",
+    "url": "https://billing.raksmart.com/ec/price?pid=1234&sample_id=psam_01JKYM4GDR8CVAVMAKWHRAGDBB&activity_id=act_01KWBTQ9D447824KV7SKPEYE0K&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "1014.60"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "物理服务器10G大带宽",
+    "name": "[10G Port] SV Gold-6133*2, 128G RAM, 2*2T NVME, 5IP, 10G/Unlimited(Global BGP)",
+    "product": "SV Gold-6133*2, 64G, 1T NVME, 1IP",
+    "price": "1019.35",
+    "original": "1073",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "Gold 6133*2"
+      ],
+      [
+        "内存选项",
+        "128G RAM"
+      ],
+      [
+        "硬盘 2",
+        "2T NVME"
+      ],
+      [
+        "IP地址5",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Global BGP 10G 独享 不限 流量"
+      ]
+    ],
+    "sample": "psam_01JCMAT54EHRRF57KC0C3P72W3",
+    "activity": "act_01KWBTQ9D447824KV7SKPEYE0K",
+    "url": "https://billing.raksmart.com/ec/price?pid=1347&sample_id=psam_01JCMAT54EHRRF57KC0C3P72W3&activity_id=act_01KWBTQ9D447824KV7SKPEYE0K&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "1019.35"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "物理服务器10G大带宽",
+    "name": "[10G Port] SV E5-2697*2, 128G RAM, 12*1T HDD, 5IP, 10G/Unlimited(Global BGP)",
+    "product": "SV E5-2697*2, 32G, 1T HDD, 1IP",
+    "price": "1043.10",
+    "original": "1098",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2697*2"
+      ],
+      [
+        "内存选项",
+        "128G RAM"
+      ],
+      [
+        "硬盘 12",
+        "1T HDD"
+      ],
+      [
+        "IP地址5",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "Global BGP 10G 独享 不限 流量"
+      ]
+    ],
+    "sample": "psam_01JCM96QEYYH4X7DH7DA3AH356",
+    "activity": "act_01KWBTQ9D447824KV7SKPEYE0K",
+    "url": "https://billing.raksmart.com/ec/price?pid=650&sample_id=psam_01JCM96QEYYH4X7DH7DA3AH356&activity_id=act_01KWBTQ9D447824KV7SKPEYE0K&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "1043.10"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "裸机云1G大带宽",
+    "name": "[G Port] SV Bare-Metal Cloud E5-2620, 32G RAM, 1T HDD , 1IP, G/Unlimited(Global BGP)",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "93.80",
+    "original": "134",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2620"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Global BGP G 端口 不限"
+      ]
+    ],
+    "sample": "psam_01K23KCG6Z73F62TQRR6BRGJR9",
+    "activity": "act_01KWBVMCQ5Y72R6NP13VA3GSJ6",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01K23KCG6Z73F62TQRR6BRGJR9&activity_id=act_01KWBVMCQ5Y72R6NP13VA3GSJ6&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "93.80"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "裸机云1G大带宽",
+    "name": "[G Port] SV Bare-Metal Cloud E5-2620, 32G RAM, 1T HDD , 1IP, G/10T(Enterprise CN2)",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "101.43",
+    "original": "144.9",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2620"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Enterprise CN2 G 端口 10T"
+      ]
+    ],
+    "sample": "psam_01KZT9AFKQS3MRQFE19VJ1BBR9",
+    "activity": "act_01KWBVMCQ5Y72R6NP13VA3GSJ6",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01KZT9AFKQS3MRQFE19VJ1BBR9&activity_id=act_01KWBVMCQ5Y72R6NP13VA3GSJ6&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "101.43"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "裸机云1G大带宽",
+    "name": "[G Port] SV Bare-Metal Cloud E5-2620*2, 32G RAM, 1T HDD , 1IP, G/Unlimited(Global BGP)",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "107.80",
+    "original": "154",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2620*2"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Global BGP G 端口 不限"
+      ]
+    ],
+    "sample": "psam_01K23M1E1DC8BXZRY7HDSFD8FG",
+    "activity": "act_01KWBVMCQ5Y72R6NP13VA3GSJ6",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01K23M1E1DC8BXZRY7HDSFD8FG&activity_id=act_01KWBVMCQ5Y72R6NP13VA3GSJ6&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "107.80"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "裸机云1G大带宽",
+    "name": "[G Port] SV Bare-Metal Cloud E5-2680*2, 32G RAM, 1T HDD , 1IP, G/Unlimited(Global BGP)",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "114.80",
+    "original": "164",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2680*2"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Global BGP G 端口 不限"
+      ]
+    ],
+    "sample": "psam_01K23MC8F68M8KB0E7JN98AKGW",
+    "activity": "act_01KWBVMCQ5Y72R6NP13VA3GSJ6",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01K23MC8F68M8KB0E7JN98AKGW&activity_id=act_01KWBVMCQ5Y72R6NP13VA3GSJ6&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "114.80"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "裸机云1G大带宽",
+    "name": "[G Port] SV Bare-Metal Cloud E5-2620*2, 32G RAM, 1T HDD , 1IP, G/10T(Enterprise CN2)",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "115.43",
+    "original": "164.9",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2620*2"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Enterprise CN2 G 端口 10T"
+      ]
+    ],
+    "sample": "psam_01KZT9683WWQZ6RHM3YQSAK3SJ",
+    "activity": "act_01KWBVMCQ5Y72R6NP13VA3GSJ6",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01KZT9683WWQZ6RHM3YQSAK3SJ&activity_id=act_01KWBVMCQ5Y72R6NP13VA3GSJ6&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "115.43"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "裸机云1G大带宽",
+    "name": "[G Port] SV Bare-Metal Cloud E5-2680*2, 32G RAM, 1T HDD , 1IP, G/10T(Enterprise CN2)",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "122.43",
+    "original": "174.9",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2680*2"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Enterprise CN2 G 端口 10T"
+      ]
+    ],
+    "sample": "psam_01KZT8ZX7C1YRNBX337G26RQXS",
+    "activity": "act_01KWBVMCQ5Y72R6NP13VA3GSJ6",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01KZT8ZX7C1YRNBX337G26RQXS&activity_id=act_01KWBVMCQ5Y72R6NP13VA3GSJ6&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "122.43"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "裸机云1G大带宽",
+    "name": "[G Port] SV Bare-Metal Cloud E5-2683v4*2, 64G RAM, 1T HDD , 1IP, G/Unlimited(Global BGP)",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "135.80",
+    "original": "194",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V4 / E5 - 2683v4*2"
+      ],
+      [
+        "内存",
+        "V4 / 64G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Global BGP G 端口 不限"
+      ]
+    ],
+    "sample": "psam_01K23N4AB9T6EG4HXXHX4J2DF4",
+    "activity": "act_01KWBVMCQ5Y72R6NP13VA3GSJ6",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01K23N4AB9T6EG4HXXHX4J2DF4&activity_id=act_01KWBVMCQ5Y72R6NP13VA3GSJ6&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "135.80"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "裸机云1G大带宽",
+    "name": "[G Port] SV Bare-Metal Cloud E5-2683v4*2, 64G RAM, 1T HDD , 1IP, G/10T(Enterprise CN2)",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "143.43",
+    "original": "204.9",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V4 / E5 - 2683v4*2"
+      ],
+      [
+        "内存",
+        "V4 / 64G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "Enterprise CN2 G 端口 10T"
+      ]
+    ],
+    "sample": "psam_01KZT8HCKZRH7S5Q4QFPFMN77C",
+    "activity": "act_01KWBVMCQ5Y72R6NP13VA3GSJ6",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01KZT8HCKZRH7S5Q4QFPFMN77C&activity_id=act_01KWBVMCQ5Y72R6NP13VA3GSJ6&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "143.43"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "裸机云1G大带宽",
+    "name": "[G Port] SV Bare-Metal Cloud E5-2620, 32G RAM, 1T HDD , 1IP, G/Unlimited(China Optimized VIP)",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "447.83",
+    "original": "853",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2620"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "China Optimized VIP G 端口 不限"
+      ]
+    ],
+    "sample": "psam_01K23KKB7YW37PX1JBQX31JAHQ",
+    "activity": "act_01KWBVMCQ5Y72R6NP13VA3GSJ6",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01K23KKB7YW37PX1JBQX31JAHQ&activity_id=act_01KWBVMCQ5Y72R6NP13VA3GSJ6&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "447.83"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "裸机云1G大带宽",
+    "name": "[G Port] SV Bare-Metal Cloud E5-2620*2, 32G RAM, 1T HDD , 1IP, G/Unlimited(China Optimized VIP)",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "458.33",
+    "original": "873",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2620*2"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "China Optimized VIP G 端口 不限"
+      ]
+    ],
+    "sample": "psam_01K23M9A3ERVQX8E0G8QX5R1BG",
+    "activity": "act_01KWBVMCQ5Y72R6NP13VA3GSJ6",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01K23M9A3ERVQX8E0G8QX5R1BG&activity_id=act_01KWBVMCQ5Y72R6NP13VA3GSJ6&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "458.33"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "裸机云1G大带宽",
+    "name": "[G Port] SV Bare-Metal Cloud E5-2680*2, 32G RAM, 1T HDD , 1IP, G/Unlimited(China Optimized VIP)",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "463.58",
+    "original": "883",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2680*2"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "China Optimized VIP G 端口 不限"
+      ]
+    ],
+    "sample": "psam_01K23MK225CVPXHNKEJ9PNJDK8",
+    "activity": "act_01KWBVMCQ5Y72R6NP13VA3GSJ6",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01K23MK225CVPXHNKEJ9PNJDK8&activity_id=act_01KWBVMCQ5Y72R6NP13VA3GSJ6&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "463.58"
+  },
+  {
+    "category": "大带宽推荐",
+    "group": "裸机云1G大带宽",
+    "name": "[G Port] SV Bare-Metal Cloud E5-2683v4*2, 64G RAM, 1T HDD , 1IP, G/Unlimited(China Optimized VIP)",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "639.10",
+    "original": "913",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V4 / E5 - 2683v4*2"
+      ],
+      [
+        "内存",
+        "V4 / 64G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "1"
+      ],
+      [
+        "流量",
+        "China Optimized VIP G 端口 不限"
+      ]
+    ],
+    "sample": "psam_01K23NCWWSSW7J458PC9Q22JX8",
+    "activity": "act_01KWBVMCQ5Y72R6NP13VA3GSJ6",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01K23NCWWSSW7J458PC9Q22JX8&activity_id=act_01KWBVMCQ5Y72R6NP13VA3GSJ6&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "639.10"
+  },
+  {
+    "category": "多IP站群推荐",
+    "group": "裸机云站群",
+    "name": "[Multiple-IP Server] SV Bare-Metal Cloud E5-2620, 32G RAM, 1T HDD, 5+253 IPs",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "154.70",
+    "original": "221",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2620"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "5"
+      ],
+      [
+        " Site IP",
+        "253 Usable IP"
+      ],
+      [
+        "流量",
+        "China Optimized VIP 100M 不限"
+      ]
+    ],
+    "sample": "psam_01K2486R1YCYR58CDYFMVWE7KR",
+    "activity": "act_01KWBW0N1FS88A8FXJS9ZNY2JA",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01K2486R1YCYR58CDYFMVWE7KR&activity_id=act_01KWBW0N1FS88A8FXJS9ZNY2JA&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "154.70"
+  },
+  {
+    "category": "多IP站群推荐",
+    "group": "裸机云站群",
+    "name": "[Multiple-IP Server] SV Bare-Metal Cloud E5-2620*2, 32G RAM, 1T HDD, 5+253 IPs",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "168.70",
+    "original": "241",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2620*2"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "5"
+      ],
+      [
+        " Site IP",
+        "253 Usable IP"
+      ],
+      [
+        "流量",
+        "China Optimized VIP 100M 不限"
+      ]
+    ],
+    "sample": "psam_01K248GF0T12T247FC6SK9B6AQ",
+    "activity": "act_01KWBW0N1FS88A8FXJS9ZNY2JA",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01K248GF0T12T247FC6SK9B6AQ&activity_id=act_01KWBW0N1FS88A8FXJS9ZNY2JA&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "168.70"
+  },
+  {
+    "category": "多IP站群推荐",
+    "group": "裸机云站群",
+    "name": "[Multiple-IP Server] SV Bare-Metal Cloud E5-2680*2, 32G RAM, 1T HDD, 5+253 IPs",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "175.70",
+    "original": "251",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V2 / E5 - 2680*2"
+      ],
+      [
+        "内存",
+        "V2 / 32G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "5"
+      ],
+      [
+        "流量",
+        "China Optimized VIP 100M 不限"
+      ],
+      [
+        " Site IP",
+        "253 Usable IP"
+      ]
+    ],
+    "sample": "psam_01K248KA0JMW2MG3FMHKXKCSYF",
+    "activity": "act_01KWBW0N1FS88A8FXJS9ZNY2JA",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01K248KA0JMW2MG3FMHKXKCSYF&activity_id=act_01KWBW0N1FS88A8FXJS9ZNY2JA&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "175.70"
+  },
+  {
+    "category": "多IP站群推荐",
+    "group": "裸机云站群",
+    "name": "[Multiple-IP Server] SV Bare-Metal Cloud E5-2683v4*2, 64G RAM, 1T HDD, 5+253 IPs",
+    "product": "SV-Bare-Metal Cloud",
+    "price": "238.85",
+    "original": "281",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "V4 / E5 - 2683v4*2"
+      ],
+      [
+        "内存",
+        "V4 / 64G"
+      ],
+      [
+        "系统盘",
+        "HDD 标准策略 5000IOPS，200MB/s / 1T"
+      ],
+      [
+        "IP数量",
+        "5"
+      ],
+      [
+        " Site IP",
+        "253 Usable IP"
+      ],
+      [
+        "流量",
+        "China Optimized VIP 100M 不限"
+      ]
+    ],
+    "sample": "psam_01K248PRNKWSCWDFRXGQ4F8CV5",
+    "activity": "act_01KWBW0N1FS88A8FXJS9ZNY2JA",
+    "url": "https://billing.raksmart.com/ec/price?pid=1959&sample_id=psam_01K248PRNKWSCWDFRXGQ4F8CV5&activity_id=act_01KWBW0N1FS88A8FXJS9ZNY2JA&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "238.85"
+  },
+  {
+    "category": "多IP站群推荐",
+    "group": "物理服务器站群",
+    "name": "[Multiple-IP Server] SV E3-1230, 16G RAM, 1T HDD, 5+253 IPs",
+    "product": "SV E3-1230, 16G, 1T HDD, 1IP",
+    "price": "191.00",
+    "original": "191",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E3 1230"
+      ],
+      [
+        "内存选项",
+        "16G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "带宽选择",
+        "China Optimized VIP 100M 独享 不限"
+      ],
+      [
+        "IP地址5",
+        "默认 IP"
+      ],
+      [
+        "更多IPv4",
+        "253 Usable IP China Optimized VIP"
+      ]
+    ],
+    "sample": "psam_01JC5GZB4JBFVYFKWDJW3K94FV",
+    "activity": "act_01KWBVV1M8Y5YCDBXCENQC5S5C",
+    "url": "https://billing.raksmart.com/ec/price?pid=519&sample_id=psam_01JC5GZB4JBFVYFKWDJW3K94FV&activity_id=act_01KWBVV1M8Y5YCDBXCENQC5S5C&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "191.00"
+  },
+  {
+    "category": "多IP站群推荐",
+    "group": "物理服务器站群",
+    "name": "[Multiple-IP Server] SV L5630*2, 16G RAM, 480G SSD, 5+253 IPs",
+    "product": "SV L5630*2, 16G, 480G SSD, 1IP",
+    "price": "211.00",
+    "original": "211",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "L5630*2"
+      ],
+      [
+        "内存选项",
+        "16G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "480GB 固态硬盘 included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "IP地址2",
+        "默认 IP"
+      ],
+      [
+        "IP地址3",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "China Optimized VIP 100M 独享 不限"
+      ],
+      [
+        "IP地址4",
+        "默认 IP"
+      ],
+      [
+        "IP地址5",
+        "默认 IP"
+      ],
+      [
+        "更多IPv4",
+        "253 Usable IP China Optimized VIP"
+      ]
+    ],
+    "sample": "psam_01JM9BYQA3GBMXMXQMAXBP84CS",
+    "activity": "act_01KWBVV1M8Y5YCDBXCENQC5S5C",
+    "url": "https://billing.raksmart.com/ec/price?pid=565&sample_id=psam_01JM9BYQA3GBMXMXQMAXBP84CS&activity_id=act_01KWBVV1M8Y5YCDBXCENQC5S5C&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "211.00"
+  },
+  {
+    "category": "多IP站群推荐",
+    "group": "物理服务器站群",
+    "name": "[Multiple-IP Server] SV E5-2680*2, 32G RAM, 1T HDD, 5+253 IPs",
+    "product": "SV E5-2680*2, 32G, 1T HDD, 1IP",
+    "price": "261.00",
+    "original": "261",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2680*2"
+      ],
+      [
+        "内存选项",
+        "32G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T HDD included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "IP地址2",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "China Optimized VIP 100M 独享 不限"
+      ],
+      [
+        "IP地址3",
+        "默认 IP"
+      ],
+      [
+        "IP地址4",
+        "默认 IP"
+      ],
+      [
+        "IP地址5",
+        "默认 IP"
+      ],
+      [
+        "更多IPv4",
+        "253 Usable IP China Optimized VIP"
+      ]
+    ],
+    "sample": "psam_01JMBNPM3BWRMZFVH9VDWPB758",
+    "activity": "act_01KWBVV1M8Y5YCDBXCENQC5S5C",
+    "url": "https://billing.raksmart.com/ec/price?pid=526&sample_id=psam_01JMBNPM3BWRMZFVH9VDWPB758&activity_id=act_01KWBVV1M8Y5YCDBXCENQC5S5C&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "261.00"
+  },
+  {
+    "category": "多IP站群推荐",
+    "group": "物理服务器站群",
+    "name": "[Multiple-IP Server] SV E5-2683v4*2, 64G RAM, 1T SSD, 5+253 IPs",
+    "product": "SV E5-2683v4*2, 64G, 1T SSD, 1IP",
+    "price": "331.00",
+    "original": "331",
+    "period": "月",
+    "options": [
+      [
+        "处理器",
+        "E5 2683V4*2"
+      ],
+      [
+        "内存选项",
+        "64G RAM"
+      ],
+      [
+        "硬盘 1(OS)",
+        "1T 固态硬盘 included"
+      ],
+      [
+        "IP地址1",
+        "默认 IP"
+      ],
+      [
+        "IP地址2",
+        "默认 IP"
+      ],
+      [
+        "IP地址3",
+        "默认 IP"
+      ],
+      [
+        "带宽选择",
+        "China Optimized VIP 100M 独享 不限"
+      ],
+      [
+        "IP地址4",
+        "默认 IP"
+      ],
+      [
+        "IP地址5",
+        "默认 IP"
+      ],
+      [
+        "更多IPv4",
+        "253 Usable IP China Optimized VIP"
+      ]
+    ],
+    "sample": "psam_01JME0YZ9R7YNVSFDXH8HA3MBF",
+    "activity": "act_01KWBVV1M8Y5YCDBXCENQC5S5C",
+    "url": "https://billing.raksmart.com/ec/price?pid=1234&sample_id=psam_01JME0YZ9R7YNVSFDXH8HA3MBF&activity_id=act_01KWBVV1M8Y5YCDBXCENQC5S5C&lang=cn&aff=9321&aff_rtype=affiliate",
+    "billingOptions": [
+      "1 个月",
+      "3 个月",
+      "6 个月",
+      "1 年"
+    ],
+    "renewal": "331.00"
+  }
+]
