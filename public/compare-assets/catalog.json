@@ -1,0 +1,4511 @@
+[
+  {
+    "cpu_model": null,
+    "cores": 1,
+    "memory_gb": 1.0,
+    "storage": "25 GB NVMe SSD",
+    "bandwidth": "50 Mbps 优化线路（单程）",
+    "traffic": "500 GB/月",
+    "country": "美国",
+    "city": "洛杉矶",
+    "locations": null,
+    "network": "CN2 GIA（名称标称）",
+    "system": "1 dedicated IPv4 /64 IPv6 | 仅 Linux",
+    "prices": [
+      {
+        "amount": 60.99,
+        "period": "年付"
+      },
+      {
+        "amount": 120.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 180.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=106",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:CSSD1",
+    "name": "CSSD1",
+    "provider": "HostDare",
+    "group": "美国 CN2-GIA NVMe"
+  },
+  {
+    "cpu_model": null,
+    "cores": 2,
+    "memory_gb": 2.0,
+    "storage": "50 GB NVMe SSD",
+    "bandwidth": "60 Mbps 优化线路（单程）",
+    "traffic": "1000 GB/月",
+    "country": "美国",
+    "city": "洛杉矶",
+    "locations": null,
+    "network": "CN2 GIA（名称标称）",
+    "system": "1 dedicated IPv4 /64 IPv6 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 115.99,
+        "period": "年付"
+      },
+      {
+        "amount": 230.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 345.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=107",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:CSSD2",
+    "name": "CSSD2",
+    "provider": "HostDare",
+    "group": "美国 CN2-GIA NVMe"
+  },
+  {
+    "cpu_model": null,
+    "cores": 3,
+    "memory_gb": 4.0,
+    "storage": "100 GB NVMe SSD",
+    "bandwidth": "80 Mbps 优化线路（单程）",
+    "traffic": "1500 GB/月",
+    "country": "美国",
+    "city": "洛杉矶",
+    "locations": null,
+    "network": "CN2 GIA（名称标称）",
+    "system": "1 dedicated IPv4 /64 IPv6 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 90.99,
+        "period": "季付"
+      },
+      {
+        "amount": 160.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 250.99,
+        "period": "年付"
+      },
+      {
+        "amount": 500.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 750.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=108",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:CSSD3",
+    "name": "CSSD3",
+    "provider": "HostDare",
+    "group": "美国 CN2-GIA NVMe"
+  },
+  {
+    "cpu_model": null,
+    "cores": 4,
+    "memory_gb": 8.0,
+    "storage": "200 GB NVMe SSD",
+    "bandwidth": "100 Mbps 优化线路（单程）",
+    "traffic": "2500 GB/月",
+    "country": "美国",
+    "city": "洛杉矶",
+    "locations": null,
+    "network": "CN2 GIA（名称标称）",
+    "system": "1 dedicated IPv4 /64 IPv6 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 70.99,
+        "period": "月付"
+      },
+      {
+        "amount": 180.99,
+        "period": "季付"
+      },
+      {
+        "amount": 345.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 660.99,
+        "period": "年付"
+      },
+      {
+        "amount": 1305.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 1890.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=109",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:CSSD4",
+    "name": "CSSD4",
+    "provider": "HostDare",
+    "group": "美国 CN2-GIA NVMe"
+  },
+  {
+    "cpu_model": null,
+    "cores": 5,
+    "memory_gb": 16.0,
+    "storage": "400 GB NVMe SSD",
+    "bandwidth": "100 Mbps 优化线路（单程）",
+    "traffic": "3500 GB/月",
+    "country": "美国",
+    "city": "洛杉矶",
+    "locations": null,
+    "network": "CN2 GIA（名称标称）",
+    "system": "1 dedicated IPv4 /64 IPv6 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 115.99,
+        "period": "月付"
+      },
+      {
+        "amount": 285.99,
+        "period": "季付"
+      },
+      {
+        "amount": 570.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 1140.99,
+        "period": "年付"
+      },
+      {
+        "amount": 2260.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 3330.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=110",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:CSSD5",
+    "name": "CSSD5",
+    "provider": "HostDare",
+    "group": "美国 CN2-GIA NVMe"
+  },
+  {
+    "cpu_model": null,
+    "cores": 6,
+    "memory_gb": 32.0,
+    "storage": "800 GB NVMe SSD",
+    "bandwidth": "100 Mbps 优化线路（单程）",
+    "traffic": "5500 GB/月",
+    "country": "美国",
+    "city": "洛杉矶",
+    "locations": null,
+    "network": "CN2 GIA（名称标称）",
+    "system": "2 dedicated IPv4 /64 IPv6 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 190.99,
+        "period": "月付"
+      },
+      {
+        "amount": 540.99,
+        "period": "季付"
+      },
+      {
+        "amount": 1080.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 2160.99,
+        "period": "年付"
+      },
+      {
+        "amount": 4299.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 6299.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=111",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:CSSD6",
+    "name": "CSSD6",
+    "provider": "HostDare",
+    "group": "美国 CN2-GIA NVMe"
+  },
+  {
+    "cpu_model": "AMD EPYC",
+    "cores": 2,
+    "memory_gb": 2.0,
+    "storage": "50 GB NVMe SSD",
+    "bandwidth": "60 Mbps 优化线路（单程）",
+    "traffic": "1000 GB/月",
+    "country": "美国",
+    "city": "洛杉矶",
+    "locations": null,
+    "network": "CN2 GIA（名称标称）",
+    "system": "1 dedicated IPv4 /64 IPv6 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 75.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 119.99,
+        "period": "年付"
+      },
+      {
+        "amount": 240.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 360.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=178",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:CAMD2",
+    "name": "CAMD2",
+    "provider": "HostDare",
+    "group": "美国 CN2-GIA NVMe AMD"
+  },
+  {
+    "cpu_model": "AMD EPYC",
+    "cores": 3,
+    "memory_gb": 4.0,
+    "storage": "100 GB NVMe SSD",
+    "bandwidth": "80 Mbps 优化线路（单程）",
+    "traffic": "1500 GB/月",
+    "country": "美国",
+    "city": "洛杉矶",
+    "locations": null,
+    "network": "CN2 GIA（名称标称）",
+    "system": "1 dedicated IPv4 /64 IPv6 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 105.99,
+        "period": "季付"
+      },
+      {
+        "amount": 175.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 265.99,
+        "period": "年付"
+      },
+      {
+        "amount": 520.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 780.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=179",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:CAMD3",
+    "name": "CAMD3",
+    "provider": "HostDare",
+    "group": "美国 CN2-GIA NVMe AMD"
+  },
+  {
+    "cpu_model": null,
+    "cores": 2,
+    "memory_gb": 1.5,
+    "storage": "75 GB RAID10 Storage",
+    "bandwidth": "60 mbps 优化线路（单程）",
+    "traffic": "1000 GB/月",
+    "country": "美国",
+    "city": "洛杉矶",
+    "locations": null,
+    "network": "CN2 GIA（名称标称）",
+    "system": "1 dedicated IPv4 /64 IPv6 | 仅 Linux",
+    "prices": [
+      {
+        "amount": 60.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 110.99,
+        "period": "年付"
+      },
+      {
+        "amount": 220.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 330.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=75",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:CKVM2",
+    "name": "CKVM2",
+    "provider": "HostDare",
+    "group": "美国 CN2-GIA HDD"
+  },
+  {
+    "cpu_model": null,
+    "cores": 1,
+    "memory_gb": 1.0,
+    "storage": "20 GB NVMe SSD",
+    "bandwidth": "50 Mbps Softbank",
+    "traffic": "500 GB/月",
+    "country": "日本",
+    "city": "东京",
+    "locations": null,
+    "network": "未注明",
+    "system": "1 dedicated IPv4 | 仅 Linux",
+    "prices": [
+      {
+        "amount": 55.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 95.99,
+        "period": "年付"
+      },
+      {
+        "amount": 190.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 285.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=130",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:JSSD1",
+    "name": "JSSD1",
+    "provider": "HostDare",
+    "group": "日本 Premium"
+  },
+  {
+    "cpu_model": null,
+    "cores": 2,
+    "memory_gb": 2.0,
+    "storage": "40 GB NVMe SSD",
+    "bandwidth": "60 Mbps Softbank",
+    "traffic": "1000 GB/月",
+    "country": "日本",
+    "city": "东京",
+    "locations": null,
+    "network": "未注明",
+    "system": "1 dedicated IPv4 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 70.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 120.99,
+        "period": "年付"
+      },
+      {
+        "amount": 240.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 360.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=131",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:JSSD2",
+    "name": "JSSD2",
+    "provider": "HostDare",
+    "group": "日本 Premium"
+  },
+  {
+    "cpu_model": null,
+    "cores": 3,
+    "memory_gb": 4.0,
+    "storage": "80 GB NVMe SSD",
+    "bandwidth": "80 Mbps Softbank",
+    "traffic": "1500 GB/月",
+    "country": "日本",
+    "city": "东京",
+    "locations": null,
+    "network": "未注明",
+    "system": "1 dedicated IPv4 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 45.99,
+        "period": "月付"
+      },
+      {
+        "amount": 80.99,
+        "period": "季付"
+      },
+      {
+        "amount": 155.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 290.99,
+        "period": "年付"
+      },
+      {
+        "amount": 580.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 870.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=132",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:JSSD3",
+    "name": "JSSD3",
+    "provider": "HostDare",
+    "group": "日本 Premium"
+  },
+  {
+    "cpu_model": null,
+    "cores": 4,
+    "memory_gb": 8.0,
+    "storage": "160 GB NVMe SSD",
+    "bandwidth": "100 Mbps Softbank",
+    "traffic": "2500 GB/月",
+    "country": "日本",
+    "city": "东京",
+    "locations": null,
+    "network": "未注明",
+    "system": "1 dedicated IPv4 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 80.99,
+        "period": "月付"
+      },
+      {
+        "amount": 190.99,
+        "period": "季付"
+      },
+      {
+        "amount": 350.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 690.99,
+        "period": "年付"
+      },
+      {
+        "amount": 1380.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 1990.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=133",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:JSSD4",
+    "name": "JSSD4",
+    "provider": "HostDare",
+    "group": "日本 Premium"
+  },
+  {
+    "cpu_model": null,
+    "cores": 5,
+    "memory_gb": 16.0,
+    "storage": "320 GB NVMe SSD",
+    "bandwidth": "100 Mbps Softbank",
+    "traffic": "3500 GB/月",
+    "country": "日本",
+    "city": "东京",
+    "locations": null,
+    "network": "未注明",
+    "system": "1 dedicated IPv4 | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 150.99,
+        "period": "月付"
+      },
+      {
+        "amount": 350.99,
+        "period": "季付"
+      },
+      {
+        "amount": 650.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 1199.99,
+        "period": "年付"
+      },
+      {
+        "amount": 2398.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 3597.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=134",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:JSSD5",
+    "name": "JSSD5",
+    "provider": "HostDare",
+    "group": "日本 Premium"
+  },
+  {
+    "cpu_model": null,
+    "cores": 6,
+    "memory_gb": 32.0,
+    "storage": "600 GB NVMe SSD",
+    "bandwidth": "100 Mbps Softbank",
+    "traffic": "5500 GB/月",
+    "country": "日本",
+    "city": "东京",
+    "locations": null,
+    "network": "未注明",
+    "system": "2 dedicated IPv4s | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 250.99,
+        "period": "月付"
+      },
+      {
+        "amount": 590.99,
+        "period": "季付"
+      },
+      {
+        "amount": 1149.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 2180.99,
+        "period": "年付"
+      },
+      {
+        "amount": 4350.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 6399.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=135",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:JSSD6",
+    "name": "JSSD6",
+    "provider": "HostDare",
+    "group": "日本 Premium"
+  },
+  {
+    "cpu_model": "AMD EPYC",
+    "cores": 1,
+    "memory_gb": 1.0,
+    "storage": "25 GB NVMe SSD Storage",
+    "bandwidth": "1Gbps 公网端口",
+    "traffic": "1000 GB/月",
+    "country": "美国",
+    "city": "洛杉矶",
+    "locations": null,
+    "network": "未注明",
+    "system": "1 IPv4/IPv6 Address | 仅 Linux",
+    "prices": [
+      {
+        "amount": 12.99,
+        "period": "季付"
+      },
+      {
+        "amount": 22.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 41.99,
+        "period": "年付"
+      },
+      {
+        "amount": 75.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 113.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=170",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:ASSD1",
+    "name": "ASSD1",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe AMD"
+  },
+  {
+    "cpu_model": "AMD EPYC",
+    "cores": 2,
+    "memory_gb": 2.0,
+    "storage": "50 GB NVMe SSD Storage",
+    "bandwidth": "1Gbps 公网端口",
+    "traffic": "2000 GB/月",
+    "country": "美国",
+    "city": "洛杉矶",
+    "locations": null,
+    "network": "未注明",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 26.99,
+        "period": "季付"
+      },
+      {
+        "amount": 51.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 74.99,
+        "period": "年付"
+      },
+      {
+        "amount": 135.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 201.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=171",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:ASSD2",
+    "name": "ASSD2",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe AMD"
+  },
+  {
+    "cpu_model": "AMD EPYC",
+    "cores": 3,
+    "memory_gb": 4.0,
+    "storage": "100 GB NVMe SSD Storage",
+    "bandwidth": "1Gbps 公网端口",
+    "traffic": "3000 GB/月",
+    "country": "美国",
+    "city": "洛杉矶",
+    "locations": null,
+    "network": "未注明",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 14.99,
+        "period": "月付"
+      },
+      {
+        "amount": 44.99,
+        "period": "季付"
+      },
+      {
+        "amount": 86.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 137.99,
+        "period": "年付"
+      },
+      {
+        "amount": 247.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 371.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=172",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:ASSD3",
+    "name": "ASSD3",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe AMD"
+  },
+  {
+    "cpu_model": "AMD EPYC",
+    "cores": 4,
+    "memory_gb": 8.0,
+    "storage": "200 GB NVMe SSD Storage",
+    "bandwidth": "1Gbps 公网端口",
+    "traffic": "5000 GB/月",
+    "country": "美国",
+    "city": "洛杉矶",
+    "locations": null,
+    "network": "未注明",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 28.99,
+        "period": "月付"
+      },
+      {
+        "amount": 81.99,
+        "period": "季付"
+      },
+      {
+        "amount": 137.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 263.99,
+        "period": "年付"
+      },
+      {
+        "amount": 474.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 711.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=173",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:ASSD4",
+    "name": "ASSD4",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe AMD"
+  },
+  {
+    "cpu_model": "AMD EPYC",
+    "cores": 5,
+    "memory_gb": 16.0,
+    "storage": "400 GB NVMe SSD Storage",
+    "bandwidth": "1Gbps 公网端口",
+    "traffic": "10000 GB/月",
+    "country": "美国",
+    "city": "洛杉矶",
+    "locations": null,
+    "network": "未注明",
+    "system": "2 IPv4/ 6 IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 52.99,
+        "period": "月付"
+      },
+      {
+        "amount": 155.99,
+        "period": "季付"
+      },
+      {
+        "amount": 258.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 506.99,
+        "period": "年付"
+      },
+      {
+        "amount": 910.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 1363.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=174",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:ASSD5",
+    "name": "ASSD5",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe AMD"
+  },
+  {
+    "cpu_model": null,
+    "cores": 6,
+    "memory_gb": 32.0,
+    "storage": "800 GB NVMe SSD Storage",
+    "bandwidth": "1Gbps 公网端口",
+    "traffic": "20000 GB/月",
+    "country": "美国",
+    "city": "洛杉矶",
+    "locations": null,
+    "network": "未注明",
+    "system": "2 IPv4/ 6 IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 94.99,
+        "period": "月付"
+      },
+      {
+        "amount": 284.99,
+        "period": "季付"
+      },
+      {
+        "amount": 474.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 940.99,
+        "period": "年付"
+      },
+      {
+        "amount": 1693.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 2540.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=175",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:ASSD6",
+    "name": "ASSD6",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe AMD"
+  },
+  {
+    "cpu_model": null,
+    "cores": 1,
+    "memory_gb": 1.0,
+    "storage": "25 GB NVMe SSD Storage",
+    "bandwidth": "1Gbps 公网端口",
+    "traffic": "1000 GB/月",
+    "country": "美国",
+    "city": "洛杉矶",
+    "locations": null,
+    "network": "未注明",
+    "system": "1 IPv4/IPv6 Address | 仅 Linux",
+    "prices": [
+      {
+        "amount": 11.99,
+        "period": "季付"
+      },
+      {
+        "amount": 20.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 39.99,
+        "period": "年付"
+      },
+      {
+        "amount": 71.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 107.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=60",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:SSD1",
+    "name": "SSD1",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe"
+  },
+  {
+    "cpu_model": null,
+    "cores": 2,
+    "memory_gb": 2.0,
+    "storage": "50 GB NVMe SSD Storage",
+    "bandwidth": "1Gbps 公网端口",
+    "traffic": "2000 GB/月",
+    "country": "美国",
+    "city": "洛杉矶",
+    "locations": null,
+    "network": "未注明",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 23.97,
+        "period": "季付"
+      },
+      {
+        "amount": 47.94,
+        "period": "半年付"
+      },
+      {
+        "amount": 70.99,
+        "period": "年付"
+      },
+      {
+        "amount": 127.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 191.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=61",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:SSD2",
+    "name": "SSD2",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe"
+  },
+  {
+    "cpu_model": null,
+    "cores": 3,
+    "memory_gb": 4.0,
+    "storage": "100 GB NVMe SSD Storage",
+    "bandwidth": "1Gbps 公网端口",
+    "traffic": "3000 GB/月",
+    "country": "美国",
+    "city": "洛杉矶",
+    "locations": null,
+    "network": "未注明",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 13.99,
+        "period": "月付"
+      },
+      {
+        "amount": 40.99,
+        "period": "季付"
+      },
+      {
+        "amount": 80.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 130.99,
+        "period": "年付"
+      },
+      {
+        "amount": 235.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 353.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=62",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:SSD3",
+    "name": "SSD3",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe"
+  },
+  {
+    "cpu_model": null,
+    "cores": 4,
+    "memory_gb": 8.0,
+    "storage": "200 GB NVMe SSD Storage",
+    "bandwidth": "1Gbps 公网端口",
+    "traffic": "5000 GB/月",
+    "country": "美国",
+    "city": "洛杉矶",
+    "locations": null,
+    "network": "未注明",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 25.99,
+        "period": "月付"
+      },
+      {
+        "amount": 77.99,
+        "period": "季付"
+      },
+      {
+        "amount": 129.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 250.99,
+        "period": "年付"
+      },
+      {
+        "amount": 451.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 677.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=102",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:SSD4",
+    "name": "SSD4",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe"
+  },
+  {
+    "cpu_model": null,
+    "cores": 5,
+    "memory_gb": 16.0,
+    "storage": "400 GB NVMe SSD Storage",
+    "bandwidth": "1Gbps 公网端口",
+    "traffic": "10000 GB/月",
+    "country": "美国",
+    "city": "洛杉矶",
+    "locations": null,
+    "network": "未注明",
+    "system": "2 IPv4/ 6 IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 48.99,
+        "period": "月付"
+      },
+      {
+        "amount": 146.99,
+        "period": "季付"
+      },
+      {
+        "amount": 244.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 480.99,
+        "period": "年付"
+      },
+      {
+        "amount": 865.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 1298.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=103",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:SSD5",
+    "name": "SSD5",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe"
+  },
+  {
+    "cpu_model": null,
+    "cores": 6,
+    "memory_gb": 32.0,
+    "storage": "800 GB NVMe SSD Storage",
+    "bandwidth": "1Gbps 公网端口",
+    "traffic": "20000 GB/月",
+    "country": "美国",
+    "city": "洛杉矶",
+    "locations": null,
+    "network": "未注明",
+    "system": "2 IPv4/ 6 IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 94.99,
+        "period": "月付"
+      },
+      {
+        "amount": 284.99,
+        "period": "季付"
+      },
+      {
+        "amount": 474.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 940.99,
+        "period": "年付"
+      },
+      {
+        "amount": 1693.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 2540.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=104",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:SSD6",
+    "name": "SSD6",
+    "provider": "HostDare",
+    "group": "美国 Cheap NVMe"
+  },
+  {
+    "cpu_model": null,
+    "cores": 1,
+    "memory_gb": 1.0,
+    "storage": "25 GB NVMe SSD Storage",
+    "bandwidth": "100 mbps 公网端口",
+    "traffic": "1000 GB/月",
+    "country": "日本",
+    "city": "东京",
+    "locations": null,
+    "network": "未注明",
+    "system": "1 IPv4/IPv6 Address | 仅 Linux",
+    "prices": [
+      {
+        "amount": 54.58,
+        "period": "半年付"
+      },
+      {
+        "amount": 109.16,
+        "period": "年付"
+      },
+      {
+        "amount": 218.32,
+        "period": "两年付"
+      },
+      {
+        "amount": 327.48,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=163",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:NKVM1",
+    "name": "NKVM1",
+    "provider": "HostDare",
+    "group": "日本 Cheap"
+  },
+  {
+    "cpu_model": null,
+    "cores": 2,
+    "memory_gb": 2.0,
+    "storage": "50 GB NVMe SSD Storage",
+    "bandwidth": "100 Mbps 公网端口",
+    "traffic": "2000 GB/月",
+    "country": "日本",
+    "city": "东京",
+    "locations": null,
+    "network": "未注明",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 65.08,
+        "period": "半年付"
+      },
+      {
+        "amount": 130.16,
+        "period": "年付"
+      },
+      {
+        "amount": 260.32,
+        "period": "两年付"
+      },
+      {
+        "amount": 390.48,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=164",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:NKVM2",
+    "name": "NKVM2",
+    "provider": "HostDare",
+    "group": "日本 Cheap"
+  },
+  {
+    "cpu_model": null,
+    "cores": 3,
+    "memory_gb": 4.0,
+    "storage": "100 GB NVMe SSD Storage",
+    "bandwidth": "100 Mbps 公网端口",
+    "traffic": "3000 GB/月",
+    "country": "日本",
+    "city": "东京",
+    "locations": null,
+    "network": "未注明",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 27.29,
+        "period": "月付"
+      },
+      {
+        "amount": 53.54,
+        "period": "季付"
+      },
+      {
+        "amount": 85.04,
+        "period": "半年付"
+      },
+      {
+        "amount": 148.04,
+        "period": "年付"
+      },
+      {
+        "amount": 295.04,
+        "period": "两年付"
+      },
+      {
+        "amount": 444.12,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=165",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:NKVM3",
+    "name": "NKVM3",
+    "provider": "HostDare",
+    "group": "日本 Cheap"
+  },
+  {
+    "cpu_model": null,
+    "cores": 4,
+    "memory_gb": 8.0,
+    "storage": "200 GB NVMe SSD Storage",
+    "bandwidth": "100 Mbps 公网端口",
+    "traffic": "5000 GB/月",
+    "country": "日本",
+    "city": "东京",
+    "locations": null,
+    "network": "未注明",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 50.99,
+        "period": "月付"
+      },
+      {
+        "amount": 95.99,
+        "period": "季付"
+      },
+      {
+        "amount": 170.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 260.99,
+        "period": "年付"
+      },
+      {
+        "amount": 520.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 780.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=166",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:NKVM4",
+    "name": "NKVM4",
+    "provider": "HostDare",
+    "group": "日本 Cheap"
+  },
+  {
+    "cpu_model": null,
+    "cores": 5,
+    "memory_gb": 16.0,
+    "storage": "400 GB NVMe SSD Storage",
+    "bandwidth": "100 Mbps 公网端口",
+    "traffic": "10000 GB/月",
+    "country": "日本",
+    "city": "东京",
+    "locations": null,
+    "network": "未注明",
+    "system": "2 IPv4/ 6 IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 90.99,
+        "period": "月付"
+      },
+      {
+        "amount": 160.99,
+        "period": "季付"
+      },
+      {
+        "amount": 280.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 520.99,
+        "period": "年付"
+      },
+      {
+        "amount": 1040.99,
+        "period": "两年付"
+      },
+      {
+        "amount": 1560.99,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=167",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:NKVM5",
+    "name": "NKVM5",
+    "provider": "HostDare",
+    "group": "日本 Cheap"
+  },
+  {
+    "cpu_model": null,
+    "cores": 6,
+    "memory_gb": 32.0,
+    "storage": "800 GB NVMe SSD Storage",
+    "bandwidth": "100 Mbps 公网端口",
+    "traffic": "20000 GB/月",
+    "country": "日本",
+    "city": "东京",
+    "locations": null,
+    "network": "未注明",
+    "system": "2 IPv4, /64 IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 190.04,
+        "period": "月付"
+      },
+      {
+        "amount": 570.12,
+        "period": "季付"
+      },
+      {
+        "amount": 1140.24,
+        "period": "半年付"
+      },
+      {
+        "amount": 2280.48,
+        "period": "年付"
+      },
+      {
+        "amount": 4560.96,
+        "period": "两年付"
+      },
+      {
+        "amount": 6841.44,
+        "period": "三年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=168",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:NKVM6",
+    "name": "NKVM6",
+    "provider": "HostDare",
+    "group": "日本 Cheap"
+  },
+  {
+    "cpu_model": null,
+    "cores": 1,
+    "memory_gb": 1.0,
+    "storage": "25 GB NVMe SSD Storage",
+    "bandwidth": "1gbps 公网端口",
+    "traffic": "10000 GB/月",
+    "country": "保加利亚",
+    "city": "索非亚",
+    "locations": null,
+    "network": "未注明",
+    "system": "1 IPv4/IPv6 Address | 仅 Linux",
+    "prices": [
+      {
+        "amount": 15.99,
+        "period": "季付"
+      },
+      {
+        "amount": 20.99,
+        "period": "半年付"
+      },
+      {
+        "amount": 39.99,
+        "period": "年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=153",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:BGSSD1",
+    "name": "BGSSD1",
+    "provider": "HostDare",
+    "group": "保加利亚 Cheap"
+  },
+  {
+    "cpu_model": null,
+    "cores": 2,
+    "memory_gb": 2.0,
+    "storage": "50 GB NVMe SSD Storage",
+    "bandwidth": "1Gbps 公网端口",
+    "traffic": "20000 GB/月",
+    "country": "保加利亚",
+    "city": "索非亚",
+    "locations": null,
+    "network": "未注明",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 23.97,
+        "period": "季付"
+      },
+      {
+        "amount": 47.94,
+        "period": "半年付"
+      },
+      {
+        "amount": 70.99,
+        "period": "年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=154",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:BGSSD2",
+    "name": "BGSSD2",
+    "provider": "HostDare",
+    "group": "保加利亚 Cheap"
+  },
+  {
+    "cpu_model": null,
+    "cores": 3,
+    "memory_gb": 4.0,
+    "storage": "100 GB NVMe SSD Storage",
+    "bandwidth": "1Gbps 公网端口",
+    "traffic": "30000 GB/月",
+    "country": "保加利亚",
+    "city": "索非亚",
+    "locations": null,
+    "network": "未注明",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 13.99,
+        "period": "月付"
+      },
+      {
+        "amount": 130.99,
+        "period": "年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=155",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:BGSSD3",
+    "name": "BGSSD3",
+    "provider": "HostDare",
+    "group": "保加利亚 Cheap"
+  },
+  {
+    "cpu_model": null,
+    "cores": 4,
+    "memory_gb": 8.0,
+    "storage": "200 GB NVMe SSD Storage",
+    "bandwidth": "1Gbps 公网端口",
+    "traffic": "50000 GB/月",
+    "country": "保加利亚",
+    "city": "索非亚",
+    "locations": null,
+    "network": "未注明",
+    "system": "1 IPv4/IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 25.99,
+        "period": "月付"
+      },
+      {
+        "amount": 250.99,
+        "period": "年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=156",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:BGSSD4",
+    "name": "BGSSD4",
+    "provider": "HostDare",
+    "group": "保加利亚 Cheap"
+  },
+  {
+    "cpu_model": null,
+    "cores": 5,
+    "memory_gb": 16.0,
+    "storage": "400 GB NVMe SSD Storage",
+    "bandwidth": "1Gbps 公网端口",
+    "traffic": "100000 GB/月",
+    "country": "保加利亚",
+    "city": "索非亚",
+    "locations": null,
+    "network": "未注明",
+    "system": "2 IPv4/ 6 IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 48.99,
+        "period": "月付"
+      },
+      {
+        "amount": 480.99,
+        "period": "年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=157",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:BGSSD5",
+    "name": "BGSSD5",
+    "provider": "HostDare",
+    "group": "保加利亚 Cheap"
+  },
+  {
+    "cpu_model": null,
+    "cores": 6,
+    "memory_gb": 32.0,
+    "storage": "800 GB NVMe SSD Storage",
+    "bandwidth": "1Gbps 公网端口",
+    "traffic": "200000 GB/月",
+    "country": "保加利亚",
+    "city": "索非亚",
+    "locations": null,
+    "network": "未注明",
+    "system": "2 IPv4/ 6 IPv6 Address | Linux / Windows（自备许可）",
+    "prices": [
+      {
+        "amount": 94.99,
+        "period": "月付"
+      },
+      {
+        "amount": 940.99,
+        "period": "年付"
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "hostdare-plans/",
+    "verified_at": "2026-11-08",
+    "url": "https://bill.hostdare.com/aff.php?aff=4398&pid=158",
+    "terms": "快照标价不含税费及优惠；续费请核对商家页面。",
+    "id": "hostdare:BGSSD6",
+    "name": "BGSSD6",
+    "provider": "HostDare",
+    "group": "保加利亚 Cheap"
+  },
+  {
+    "cpu_model": null,
+    "cores": 1.0,
+    "memory_gb": 0.5,
+    "storage": "30 GB",
+    "bandwidth": "1 Gbps",
+    "traffic": "500 GB",
+    "country": null,
+    "city": null,
+    "locations": "机房以订单页面为准",
+    "network": "未注明",
+    "system": null,
+    "prices": [
+      {
+        "period": "年付",
+        "amount": 26.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "racknerd-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://my.racknerd.com/aff.php?aff=21881&pid=1",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "racknerd-vps:1ff6938926ef",
+    "name": "KVM-512MB",
+    "provider": "RackNerd",
+    "group": "标准 KVM"
+  },
+  {
+    "cpu_model": null,
+    "cores": 2.0,
+    "memory_gb": 1.0,
+    "storage": "50 GB",
+    "bandwidth": "1 Gbps",
+    "traffic": "1000 GB",
+    "country": null,
+    "city": null,
+    "locations": "机房以订单页面为准",
+    "network": "未注明",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 17.99
+      },
+      {
+        "period": "季付",
+        "amount": 53.97
+      },
+      {
+        "period": "半年付",
+        "amount": 107.94
+      },
+      {
+        "period": "年付",
+        "amount": 215.88
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "racknerd-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://my.racknerd.com/aff.php?aff=21881&pid=20",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "racknerd-vps:33e602ae6b43",
+    "name": "KVM-1GB",
+    "provider": "RackNerd",
+    "group": "标准 KVM"
+  },
+  {
+    "cpu_model": null,
+    "cores": 3.0,
+    "memory_gb": 2.0,
+    "storage": "75 GB",
+    "bandwidth": "1 Gbps",
+    "traffic": "2000 GB",
+    "country": null,
+    "city": null,
+    "locations": "机房以订单页面为准",
+    "network": "未注明",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 20.59
+      },
+      {
+        "period": "季付",
+        "amount": 61.77
+      },
+      {
+        "period": "半年付",
+        "amount": 123.54
+      },
+      {
+        "period": "年付",
+        "amount": 247.08
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "racknerd-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://my.racknerd.com/aff.php?aff=21881&pid=21",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "racknerd-vps:fb9d3e6ccf31",
+    "name": "KVM-2GB",
+    "provider": "RackNerd",
+    "group": "标准 KVM"
+  },
+  {
+    "cpu_model": null,
+    "cores": 4.0,
+    "memory_gb": 4.0,
+    "storage": "130 GB",
+    "bandwidth": "1 Gbps",
+    "traffic": "3000 GB",
+    "country": null,
+    "city": null,
+    "locations": "机房以订单页面为准",
+    "network": "未注明",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 24.59
+      },
+      {
+        "period": "季付",
+        "amount": 73.77
+      },
+      {
+        "period": "半年付",
+        "amount": 147.54
+      },
+      {
+        "period": "年付",
+        "amount": 295.08
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "racknerd-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://my.racknerd.com/aff.php?aff=21881&pid=22",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "racknerd-vps:5eef9c6d622f",
+    "name": "KVM-4GB",
+    "provider": "RackNerd",
+    "group": "标准 KVM"
+  },
+  {
+    "cpu_model": null,
+    "cores": 5.0,
+    "memory_gb": 6.0,
+    "storage": "170 GB",
+    "bandwidth": "1 Gbps",
+    "traffic": "4000 GB",
+    "country": null,
+    "city": null,
+    "locations": "机房以订单页面为准",
+    "network": "未注明",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 27.59
+      },
+      {
+        "period": "季付",
+        "amount": 77.59
+      },
+      {
+        "period": "半年付",
+        "amount": 148.59
+      },
+      {
+        "period": "年付",
+        "amount": 268.59
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "racknerd-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://my.racknerd.com/aff.php?aff=21881&pid=23",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "racknerd-vps:f79153baf1c9",
+    "name": "KVM-6GB",
+    "provider": "RackNerd",
+    "group": "标准 KVM"
+  },
+  {
+    "cpu_model": null,
+    "cores": 6.0,
+    "memory_gb": 8.0,
+    "storage": "220 GB",
+    "bandwidth": "1 Gbps",
+    "traffic": "5000 GB",
+    "country": null,
+    "city": null,
+    "locations": "机房以订单页面为准",
+    "network": "未注明",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 36.59
+      },
+      {
+        "period": "季付",
+        "amount": 106.59
+      },
+      {
+        "period": "半年付",
+        "amount": 204.59
+      },
+      {
+        "period": "年付",
+        "amount": 385.59
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "racknerd-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://my.racknerd.com/aff.php?aff=21881&pid=24",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "racknerd-vps:8dcd9b8cb5d5",
+    "name": "KVM-8GB",
+    "provider": "RackNerd",
+    "group": "标准 KVM"
+  },
+  {
+    "cpu_model": null,
+    "cores": 7.0,
+    "memory_gb": 12.0,
+    "storage": "300 GB",
+    "bandwidth": "1 Gbps",
+    "traffic": "6000 GB",
+    "country": null,
+    "city": null,
+    "locations": "机房以订单页面为准",
+    "network": "未注明",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 55.99
+      },
+      {
+        "period": "季付",
+        "amount": 159.59
+      },
+      {
+        "period": "半年付",
+        "amount": 299.95
+      },
+      {
+        "period": "年付",
+        "amount": 565.59
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "racknerd-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://my.racknerd.com/aff.php?aff=21881&pid=25",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "racknerd-vps:ad0bc3cfce7d",
+    "name": "KVM-12GB",
+    "provider": "RackNerd",
+    "group": "标准 KVM"
+  },
+  {
+    "cpu_model": null,
+    "cores": 3.0,
+    "memory_gb": 2.0,
+    "storage": "40 GB",
+    "bandwidth": "1000 Mbps",
+    "traffic": "2000 GB",
+    "country": null,
+    "city": null,
+    "locations": "5 个机房Amsterdam（EUNL_2）、Fremont（USCA_FMT）、Los Angeles（USCA_2）、New York（USNY_6）、Vancouver（CABC_1）",
+    "network": "未注明",
+    "system": null,
+    "prices": [
+      {
+        "period": "半年付",
+        "amount": 52.99
+      },
+      {
+        "period": "年付",
+        "amount": 99.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=45",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:3d196afd5636",
+    "name": "40G KVM - PROMO",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 4.0,
+    "memory_gb": 4.0,
+    "storage": "80 GB",
+    "bandwidth": "1000 Mbps",
+    "traffic": "3000 GB",
+    "country": null,
+    "city": null,
+    "locations": "5 个机房Amsterdam（EUNL_2）、Fremont（USCA_FMT）、Los Angeles（USCA_2）、New York（USNY_6）、Vancouver（CABC_1）",
+    "network": "未注明",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 19.99
+      },
+      {
+        "period": "季付",
+        "amount": 59.99
+      },
+      {
+        "period": "半年付",
+        "amount": 107.99
+      },
+      {
+        "period": "年付",
+        "amount": 199.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=46",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:268f85eacf4c",
+    "name": "80G KVM - PROMO",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 5.0,
+    "memory_gb": 8.0,
+    "storage": "160 GB",
+    "bandwidth": "1000 Mbps",
+    "traffic": "4000 GB",
+    "country": null,
+    "city": null,
+    "locations": "5 个机房Amsterdam（EUNL_2）、Fremont（USCA_FMT）、Los Angeles（USCA_2）、New York（USNY_6）、Vancouver（CABC_1）",
+    "network": "未注明",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 39.99
+      },
+      {
+        "period": "季付",
+        "amount": 112.99
+      },
+      {
+        "period": "半年付",
+        "amount": 213.99
+      },
+      {
+        "period": "年付",
+        "amount": 399.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=47",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:de4f852235d4",
+    "name": "160G KVM - PROMO",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 6.0,
+    "memory_gb": 16.0,
+    "storage": "320 GB",
+    "bandwidth": "1000 Mbps",
+    "traffic": "5000 GB",
+    "country": null,
+    "city": null,
+    "locations": "5 个机房Amsterdam（EUNL_2）、Fremont（USCA_FMT）、Los Angeles（USCA_2）、New York（USNY_6）、Vancouver（CABC_1）",
+    "network": "未注明",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 79.99
+      },
+      {
+        "period": "季付",
+        "amount": 227.99
+      },
+      {
+        "period": "半年付",
+        "amount": 432.99
+      },
+      {
+        "period": "年付",
+        "amount": 799.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=48",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:0c2d231b118e",
+    "name": "320G KVM - PROMO",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 7.0,
+    "memory_gb": 24.0,
+    "storage": "480 GB",
+    "bandwidth": "1000 Mbps",
+    "traffic": "6000 GB",
+    "country": null,
+    "city": null,
+    "locations": "5 个机房Amsterdam（EUNL_2）、Fremont（USCA_FMT）、Los Angeles（USCA_2）、New York（USNY_6）、Vancouver（CABC_1）",
+    "network": "未注明",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 119.99
+      },
+      {
+        "period": "季付",
+        "amount": 341.99
+      },
+      {
+        "period": "半年付",
+        "amount": 649.49
+      },
+      {
+        "period": "年付",
+        "amount": 1199.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=49",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:7ccd8a34fcf6",
+    "name": "480G KVM - PROMO",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 3.0,
+    "memory_gb": 2.0,
+    "storage": "40 GB",
+    "bandwidth": "2500 Mbps",
+    "traffic": "2000 GB",
+    "country": null,
+    "city": null,
+    "locations": "15 个机房Amsterdam（EUNL_1）、Amsterdam（EUNL_2）、Amsterdam（EUNL_9）、Dubai（AEDXB_1）、Fremont（USCA_FMT）、Los Angeles（USCA_2）、Los Angeles（USCA_6）、Los Angeles（USCA_9）、New York（USNY_6）、New York（USNY_8）、Osaka（JPOS_1）、San Jose（USCA_SJC5）、Tokyo（JPTY_1）、Vancouver（CABC_1）、Vancouver（CABC_6）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "季付",
+        "amount": 89.99
+      },
+      {
+        "period": "半年付",
+        "amount": 169.99
+      },
+      {
+        "period": "年付",
+        "amount": 299.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=88",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:6f2f45f71e67",
+    "name": "SPECIAL 40G KVM PROMO V5 - CN2 GIA ECOMMERCE",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 4.0,
+    "memory_gb": 4.0,
+    "storage": "80 GB",
+    "bandwidth": "2500 Mbps",
+    "traffic": "3000 GB",
+    "country": null,
+    "city": null,
+    "locations": "15 个机房Amsterdam（EUNL_1）、Amsterdam（EUNL_2）、Amsterdam（EUNL_9）、Dubai（AEDXB_1）、Fremont（USCA_FMT）、Los Angeles（USCA_2）、Los Angeles（USCA_6）、Los Angeles（USCA_9）、New York（USNY_6）、New York（USNY_8）、Osaka（JPOS_1）、San Jose（USCA_SJC5）、Tokyo（JPTY_1）、Vancouver（CABC_1）、Vancouver（CABC_6）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 56.99
+      },
+      {
+        "period": "季付",
+        "amount": 149.99
+      },
+      {
+        "period": "半年付",
+        "amount": 289.99
+      },
+      {
+        "period": "年付",
+        "amount": 549.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=89",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:0eee033e5f1f",
+    "name": "SPECIAL 80G KVM PROMO V5 - CN2 GIA ECOMMERCE",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 6.0,
+    "memory_gb": 8.0,
+    "storage": "160 GB",
+    "bandwidth": "5000 Mbps",
+    "traffic": "5000 GB",
+    "country": null,
+    "city": null,
+    "locations": "15 个机房Amsterdam（EUNL_1）、Amsterdam（EUNL_2）、Amsterdam（EUNL_9）、Dubai（AEDXB_1）、Fremont（USCA_FMT）、Los Angeles（USCA_2）、Los Angeles（USCA_6）、Los Angeles（USCA_9）、New York（USNY_6）、New York（USNY_8）、Osaka（JPOS_1）、San Jose（USCA_SJC5）、Tokyo（JPTY_1）、Vancouver（CABC_1）、Vancouver（CABC_6）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 86.99
+      },
+      {
+        "period": "季付",
+        "amount": 239.99
+      },
+      {
+        "period": "半年付",
+        "amount": 459.99
+      },
+      {
+        "period": "年付",
+        "amount": 879.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=90",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:aaa3857cf710",
+    "name": "SPECIAL 160G KVM PROMO V5 - CN2 GIA ECOMMERCE",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 8.0,
+    "memory_gb": 16.0,
+    "storage": "320 GB",
+    "bandwidth": "5000 Mbps",
+    "traffic": "8000 GB",
+    "country": null,
+    "city": null,
+    "locations": "15 个机房Amsterdam（EUNL_1）、Amsterdam（EUNL_2）、Amsterdam（EUNL_9）、Dubai（AEDXB_1）、Fremont（USCA_FMT）、Los Angeles（USCA_2）、Los Angeles（USCA_6）、Los Angeles（USCA_9）、New York（USNY_6）、New York（USNY_8）、Osaka（JPOS_1）、San Jose（USCA_SJC5）、Tokyo（JPTY_1）、Vancouver（CABC_1）、Vancouver（CABC_6）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 159.99
+      },
+      {
+        "period": "季付",
+        "amount": 459.99
+      },
+      {
+        "period": "半年付",
+        "amount": 869.99
+      },
+      {
+        "period": "年付",
+        "amount": 1599.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=91",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:d5d6040ee3c6",
+    "name": "SPECIAL 320G KVM PROMO V5 - CN2 GIA ECOMMERCE",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 10.0,
+    "memory_gb": 31.912109375,
+    "storage": "640 GB",
+    "bandwidth": "10000 Mbps",
+    "traffic": "10000 GB",
+    "country": null,
+    "city": null,
+    "locations": "15 个机房Amsterdam（EUNL_1）、Amsterdam（EUNL_2）、Amsterdam（EUNL_9）、Dubai（AEDXB_1）、Fremont（USCA_FMT）、Los Angeles（USCA_2）、Los Angeles（USCA_6）、Los Angeles（USCA_9）、New York（USNY_6）、New York（USNY_8）、Osaka（JPOS_1）、San Jose（USCA_SJC5）、Tokyo（JPTY_1）、Vancouver（CABC_1）、Vancouver（CABC_6）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 289.99
+      },
+      {
+        "period": "季付",
+        "amount": 799.99
+      },
+      {
+        "period": "半年付",
+        "amount": 1499.99
+      },
+      {
+        "period": "年付",
+        "amount": 2759.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=92",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:1a77a4f07a36",
+    "name": "SPECIAL 640G KVM PROMO V5 - CN2 GIA ECOMMERCE",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 12.0,
+    "memory_gb": 64.0,
+    "storage": "1280 GB",
+    "bandwidth": "10000 Mbps",
+    "traffic": "12000 GB",
+    "country": null,
+    "city": null,
+    "locations": "15 个机房Amsterdam（EUNL_1）、Amsterdam（EUNL_2）、Amsterdam（EUNL_9）、Dubai（AEDXB_1）、Fremont（USCA_FMT）、Los Angeles（USCA_2）、Los Angeles（USCA_6）、Los Angeles（USCA_9）、New York（USNY_6）、New York（USNY_8）、Osaka（JPOS_1）、San Jose（USCA_SJC5）、Tokyo（JPTY_1）、Vancouver（CABC_1）、Vancouver（CABC_6）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 549.99
+      },
+      {
+        "period": "季付",
+        "amount": 1559.99
+      },
+      {
+        "period": "半年付",
+        "amount": 2979.99
+      },
+      {
+        "period": "年付",
+        "amount": 5499.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=93",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:9fda54e0c503",
+    "name": "SPECIAL 1280G KVM PROMO V5 - CN2 GIA ECOMMERCE",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 2.0,
+    "memory_gb": 2.0,
+    "storage": "40 GB",
+    "bandwidth": "1000 Mbps",
+    "traffic": "500 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Hong Kong（HK_8）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 89.99
+      },
+      {
+        "period": "季付",
+        "amount": 249.99
+      },
+      {
+        "period": "半年付",
+        "amount": 479.99
+      },
+      {
+        "period": "年付",
+        "amount": 899.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=95",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:162bbcb8c942",
+    "name": "SPECIAL 40G KVM PROMO V5 - HONG KONG CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 4.0,
+    "memory_gb": 4.0,
+    "storage": "80 GB",
+    "bandwidth": "1000 Mbps",
+    "traffic": "1000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Hong Kong（HK_8）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 155.99
+      },
+      {
+        "period": "季付",
+        "amount": 439.99
+      },
+      {
+        "period": "半年付",
+        "amount": 829.99
+      },
+      {
+        "period": "年付",
+        "amount": 1559.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=96",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:126fca0c8370",
+    "name": "SPECIAL 80G KVM PROMO V5 - HONG KONG CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 6.0,
+    "memory_gb": 8.0,
+    "storage": "160 GB",
+    "bandwidth": "1000 Mbps",
+    "traffic": "2000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Hong Kong（HK_8）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 299.99
+      },
+      {
+        "period": "季付",
+        "amount": 859.99
+      },
+      {
+        "period": "半年付",
+        "amount": 1599.99
+      },
+      {
+        "period": "年付",
+        "amount": 2999.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=97",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:eb5fcadee497",
+    "name": "SPECIAL 160G KVM PROMO V5 - HONG KONG CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 8.0,
+    "memory_gb": 16.0,
+    "storage": "320 GB",
+    "bandwidth": "1000 Mbps",
+    "traffic": "4000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Hong Kong（HK_8）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 589.99
+      },
+      {
+        "period": "季付",
+        "amount": 1669.99
+      },
+      {
+        "period": "半年付",
+        "amount": 3169.99
+      },
+      {
+        "period": "年付",
+        "amount": 5899.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=98",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:845fb39dfcae",
+    "name": "SPECIAL 320G KVM PROMO V5 - HONG KONG CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 2.0,
+    "memory_gb": 2.0,
+    "storage": "40 GB",
+    "bandwidth": "1200 Mbps",
+    "traffic": "500 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Tokyo（JPTY_8）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 89.99
+      },
+      {
+        "period": "季付",
+        "amount": 249.99
+      },
+      {
+        "period": "半年付",
+        "amount": 479.99
+      },
+      {
+        "period": "年付",
+        "amount": 899.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=108",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:dc1ec266680a",
+    "name": "SPECIAL 40G KVM PROMO V5 - TOKYO CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 4.0,
+    "memory_gb": 4.0,
+    "storage": "80 GB",
+    "bandwidth": "1200 Mbps",
+    "traffic": "1000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Tokyo（JPTY_8）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 155.99
+      },
+      {
+        "period": "季付",
+        "amount": 439.99
+      },
+      {
+        "period": "半年付",
+        "amount": 829.99
+      },
+      {
+        "period": "年付",
+        "amount": 1559.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=109",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:8cec9edff9bc",
+    "name": "SPECIAL 80G KVM PROMO V5 - TOKYO CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 6.0,
+    "memory_gb": 8.0,
+    "storage": "160 GB",
+    "bandwidth": "1200 Mbps",
+    "traffic": "2000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Tokyo（JPTY_8）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 299.99
+      },
+      {
+        "period": "季付",
+        "amount": 859.99
+      },
+      {
+        "period": "半年付",
+        "amount": 1599.99
+      },
+      {
+        "period": "年付",
+        "amount": 2999.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=110",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:843e2c081b46",
+    "name": "SPECIAL 160G KVM PROMO V5 - TOKYO CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 8.0,
+    "memory_gb": 16.0,
+    "storage": "320 GB",
+    "bandwidth": "1200 Mbps",
+    "traffic": "4000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Tokyo（JPTY_8）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 589.99
+      },
+      {
+        "period": "季付",
+        "amount": 1669.99
+      },
+      {
+        "period": "半年付",
+        "amount": 3169.99
+      },
+      {
+        "period": "年付",
+        "amount": 5899.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=111",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:bcb16329cba0",
+    "name": "SPECIAL 320G KVM PROMO V5 - TOKYO CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 10.0,
+    "memory_gb": 32.0,
+    "storage": "640 GB",
+    "bandwidth": "1000 Mbps",
+    "traffic": "6000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Hong Kong（HK_8）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 989.99
+      },
+      {
+        "period": "季付",
+        "amount": 2819.99
+      },
+      {
+        "period": "半年付",
+        "amount": 5289.99
+      },
+      {
+        "period": "年付",
+        "amount": 9989.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=122",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:f218979d66ef",
+    "name": "SPECIAL 640G KVM PROMO V5 - HONG KONG CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 10.0,
+    "memory_gb": 32.0,
+    "storage": "640 GB",
+    "bandwidth": "1200 Mbps",
+    "traffic": "6000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Tokyo（JPTY_8）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 989.99
+      },
+      {
+        "period": "季付",
+        "amount": 2819.99
+      },
+      {
+        "period": "半年付",
+        "amount": 5289.99
+      },
+      {
+        "period": "年付",
+        "amount": 9989.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=123",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:6fb352ebe5b4",
+    "name": "SPECIAL 640G KVM PROMO V5 - TOKYO CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 12.0,
+    "memory_gb": 64.0,
+    "storage": "1280 GB",
+    "bandwidth": "1000 Mbps",
+    "traffic": "8000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Hong Kong（HK_8）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 1889.99
+      },
+      {
+        "period": "季付",
+        "amount": 5389.99
+      },
+      {
+        "period": "半年付",
+        "amount": 9989.99
+      },
+      {
+        "period": "年付",
+        "amount": 18989.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=124",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:b1d0a63ceebd",
+    "name": "SPECIAL 1280G KVM PROMO V5 - HONG KONG CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 12.0,
+    "memory_gb": 64.0,
+    "storage": "1280 GB",
+    "bandwidth": "1200 Mbps",
+    "traffic": "8000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Tokyo（JPTY_8）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 1889.99
+      },
+      {
+        "period": "季付",
+        "amount": 5389.99
+      },
+      {
+        "period": "半年付",
+        "amount": 9989.99
+      },
+      {
+        "period": "年付",
+        "amount": 18989.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=125",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:792782d00c8f",
+    "name": "SPECIAL 1280G KVM PROMO V5 - TOKYO CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 2.0,
+    "memory_gb": 2.0,
+    "storage": "40 GB",
+    "bandwidth": "1500 Mbps",
+    "traffic": "500 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Osaka（JPOS_6）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 49.99
+      },
+      {
+        "period": "季付",
+        "amount": 139.99
+      },
+      {
+        "period": "半年付",
+        "amount": 269.99
+      },
+      {
+        "period": "年付",
+        "amount": 499.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=134",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:5a695a286e51",
+    "name": "SPECIAL 40G KVM PROMO V5 - OSAKA CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 4.0,
+    "memory_gb": 4.0,
+    "storage": "80 GB",
+    "bandwidth": "1500 Mbps",
+    "traffic": "1000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Osaka（JPOS_6）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 86.99
+      },
+      {
+        "period": "季付",
+        "amount": 245.99
+      },
+      {
+        "period": "半年付",
+        "amount": 459.99
+      },
+      {
+        "period": "年付",
+        "amount": 869.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=135",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:4e6a93de99a2",
+    "name": "SPECIAL 80G KVM PROMO V5 - OSAKA CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 6.0,
+    "memory_gb": 8.0,
+    "storage": "160 GB",
+    "bandwidth": "1500 Mbps",
+    "traffic": "2000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Osaka（JPOS_6）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 165.99
+      },
+      {
+        "period": "季付",
+        "amount": 479.99
+      },
+      {
+        "period": "半年付",
+        "amount": 888.99
+      },
+      {
+        "period": "年付",
+        "amount": 1665.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=136",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:0b2a8212b7d5",
+    "name": "SPECIAL 160G KVM PROMO V5 - OSAKA CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 8.0,
+    "memory_gb": 16.0,
+    "storage": "320 GB",
+    "bandwidth": "1500 Mbps",
+    "traffic": "4000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Osaka（JPOS_6）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 329.99
+      },
+      {
+        "period": "季付",
+        "amount": 929.99
+      },
+      {
+        "period": "半年付",
+        "amount": 1739.99
+      },
+      {
+        "period": "年付",
+        "amount": 3199.0
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=137",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:1a2030e1ec67",
+    "name": "SPECIAL 320G KVM PROMO V5 - OSAKA CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 10.0,
+    "memory_gb": 32.0,
+    "storage": "640 GB",
+    "bandwidth": "1500 Mbps",
+    "traffic": "6000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Osaka（JPOS_6）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 549.99
+      },
+      {
+        "period": "季付",
+        "amount": 1569.99
+      },
+      {
+        "period": "半年付",
+        "amount": 2939.99
+      },
+      {
+        "period": "年付",
+        "amount": 5549.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=138",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:43e1e6377c8c",
+    "name": "SPECIAL 640G KVM PROMO V5 - OSAKA CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 12.0,
+    "memory_gb": 64.0,
+    "storage": "1280 GB",
+    "bandwidth": "1500 Mbps",
+    "traffic": "8000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Osaka（JPOS_6）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 1059.99
+      },
+      {
+        "period": "季付",
+        "amount": 2999.99
+      },
+      {
+        "period": "半年付",
+        "amount": 5559.99
+      },
+      {
+        "period": "年付",
+        "amount": 10559.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=139",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:bfcaa5e36a78",
+    "name": "SPECIAL 1280G KVM PROMO V5 - OSAKA CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 12.0,
+    "memory_gb": 64.0,
+    "storage": "1280 GB",
+    "bandwidth": "10000 Mbps",
+    "traffic": "15000 GB",
+    "country": null,
+    "city": null,
+    "locations": "15 个机房Amsterdam（EUNL_1）、Amsterdam（EUNL_2）、Amsterdam（EUNL_9）、Dubai（AEDXB_1）、Fremont（USCA_FMT）、Los Angeles（USCA_2）、Los Angeles（USCA_6）、Los Angeles（USCA_9）、New York（USNY_6）、New York（USNY_8）、Osaka（JPOS_1）、San Jose（USCA_SJC5）、Tokyo（JPTY_1）、Vancouver（CABC_1）、Vancouver（CABC_6）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 679.0
+      },
+      {
+        "period": "季付",
+        "amount": 1935.0
+      },
+      {
+        "period": "半年付",
+        "amount": 3670.0
+      },
+      {
+        "period": "年付",
+        "amount": 6790.0
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=160",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:25f3f00072e5",
+    "name": "SPECIAL 1280G KVM PROMO V5 - CN2 GIA ECOMMERCE HIBW 15T",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 12.0,
+    "memory_gb": 64.0,
+    "storage": "1280 GB",
+    "bandwidth": "10000 Mbps",
+    "traffic": "20000 GB",
+    "country": null,
+    "city": null,
+    "locations": "15 个机房Amsterdam（EUNL_1）、Amsterdam（EUNL_2）、Amsterdam（EUNL_9）、Dubai（AEDXB_1）、Fremont（USCA_FMT）、Los Angeles（USCA_2）、Los Angeles（USCA_6）、Los Angeles（USCA_9）、New York（USNY_6）、New York（USNY_8）、Osaka（JPOS_1）、San Jose（USCA_SJC5）、Tokyo（JPTY_1）、Vancouver（CABC_1）、Vancouver（CABC_6）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 899.0
+      },
+      {
+        "period": "季付",
+        "amount": 2562.0
+      },
+      {
+        "period": "半年付",
+        "amount": 4860.0
+      },
+      {
+        "period": "年付",
+        "amount": 8999.0
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=161",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:bab69c5893f6",
+    "name": "SPECIAL 1280G KVM PROMO V5 - CN2 GIA ECOMMERCE HIBW 20T",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 3.0,
+    "memory_gb": 2.04296875,
+    "storage": "40 GB",
+    "bandwidth": "2500 Mbps",
+    "traffic": "2000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Los Angeles（USCA_5）",
+    "network": "未注明",
+    "system": null,
+    "prices": [
+      {
+        "period": "季付",
+        "amount": 116.99
+      },
+      {
+        "period": "半年付",
+        "amount": 219.99
+      },
+      {
+        "period": "年付",
+        "amount": 399.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=165",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:409b1fb53f83",
+    "name": "40G KVM - ECOMMERCE SLA LOS ANGELES",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 4.0,
+    "memory_gb": 4.04296875,
+    "storage": "80 GB",
+    "bandwidth": "2500 Mbps",
+    "traffic": "3000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Los Angeles（USCA_5）",
+    "network": "未注明",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 69.99
+      },
+      {
+        "period": "季付",
+        "amount": 199.99
+      },
+      {
+        "period": "半年付",
+        "amount": 379.99
+      },
+      {
+        "period": "年付",
+        "amount": 699.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=166",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:427145f7d1b1",
+    "name": "80G KVM - ECOMMERCE SLA LOS ANGELES",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 6.0,
+    "memory_gb": 8.0625,
+    "storage": "160 GB",
+    "bandwidth": "5000 Mbps",
+    "traffic": "5000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Los Angeles（USCA_5）",
+    "network": "未注明",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 109.99
+      },
+      {
+        "period": "季付",
+        "amount": 299.99
+      },
+      {
+        "period": "半年付",
+        "amount": 569.99
+      },
+      {
+        "period": "年付",
+        "amount": 1099.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=167",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:8db5c61f66b5",
+    "name": "160G KVM - ECOMMERCE SLA LOS ANGELES",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 8.0,
+    "memory_gb": 16.125,
+    "storage": "320 GB",
+    "bandwidth": "5000 Mbps",
+    "traffic": "8000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Los Angeles（USCA_5）",
+    "network": "未注明",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 199.99
+      },
+      {
+        "period": "季付",
+        "amount": 569.99
+      },
+      {
+        "period": "半年付",
+        "amount": 1079.99
+      },
+      {
+        "period": "年付",
+        "amount": 1999.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=168",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:2a198cffc73e",
+    "name": "320G KVM - ECOMMERCE SLA LOS ANGELES",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 10.0,
+    "memory_gb": 32.162109375,
+    "storage": "640 GB",
+    "bandwidth": "10000 Mbps",
+    "traffic": "10000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Los Angeles（USCA_5）",
+    "network": "未注明",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 369.99
+      },
+      {
+        "period": "季付",
+        "amount": 1055.99
+      },
+      {
+        "period": "半年付",
+        "amount": 1999.99
+      },
+      {
+        "period": "年付",
+        "amount": 3699.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=169",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:b09c862775bb",
+    "name": "640G KVM - ECOMMERCE SLA LOS ANGELES",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 12.0,
+    "memory_gb": 64.0,
+    "storage": "1280 GB",
+    "bandwidth": "10000 Mbps",
+    "traffic": "12000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Los Angeles（USCA_5）",
+    "network": "未注明",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 699.99
+      },
+      {
+        "period": "季付",
+        "amount": 1989.99
+      },
+      {
+        "period": "半年付",
+        "amount": 3779.99
+      },
+      {
+        "period": "年付",
+        "amount": 6999.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=170",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:57bde1b4907e",
+    "name": "1280G KVM - ECOMMERCE SLA LOS ANGELES",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 12.0,
+    "memory_gb": 64.0,
+    "storage": "1280 GB",
+    "bandwidth": "10000 Mbps",
+    "traffic": "15000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Los Angeles（USCA_5）",
+    "network": "未注明",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 879.99
+      },
+      {
+        "period": "季付",
+        "amount": 2509.99
+      },
+      {
+        "period": "半年付",
+        "amount": 4768.99
+      },
+      {
+        "period": "年付",
+        "amount": 8799.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=171",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:435c600ee180",
+    "name": "1280G KVM - ECOMMERCE SLA LOS ANGELES HIBW 15T",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 12.0,
+    "memory_gb": 64.0,
+    "storage": "1280 GB",
+    "bandwidth": "10000 Mbps",
+    "traffic": "20000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Los Angeles（USCA_5）",
+    "network": "未注明",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 1159.99
+      },
+      {
+        "period": "季付",
+        "amount": 3299.99
+      },
+      {
+        "period": "半年付",
+        "amount": 6269.99
+      },
+      {
+        "period": "年付",
+        "amount": 11598.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=172",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:ac31786d4e89",
+    "name": "1280G KVM - ECOMMERCE SLA LOS ANGELES HIBW 20T",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 2.0,
+    "memory_gb": 2.0,
+    "storage": "40 GB",
+    "bandwidth": "1500 Mbps",
+    "traffic": "500 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Singapore（SG_8）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 49.99
+      },
+      {
+        "period": "季付",
+        "amount": 139.99
+      },
+      {
+        "period": "半年付",
+        "amount": 269.99
+      },
+      {
+        "period": "年付",
+        "amount": 499.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=173",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:a47b8b86ffaa",
+    "name": "SPECIAL 40G KVM PROMO V5 - SINGAPORE CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 4.0,
+    "memory_gb": 4.0,
+    "storage": "80 GB",
+    "bandwidth": "1500 Mbps",
+    "traffic": "1000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Singapore（SG_8）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 86.99
+      },
+      {
+        "period": "季付",
+        "amount": 245.99
+      },
+      {
+        "period": "半年付",
+        "amount": 459.99
+      },
+      {
+        "period": "年付",
+        "amount": 869.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=174",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:8956fa0e1305",
+    "name": "SPECIAL 80G KVM PROMO V5 - SINGAPORE CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 6.0,
+    "memory_gb": 8.0,
+    "storage": "160 GB",
+    "bandwidth": "2500 Mbps",
+    "traffic": "2000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Singapore（SG_8）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 165.99
+      },
+      {
+        "period": "季付",
+        "amount": 479.99
+      },
+      {
+        "period": "半年付",
+        "amount": 888.99
+      },
+      {
+        "period": "年付",
+        "amount": 1665.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=175",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:05419e18d700",
+    "name": "SPECIAL 160G KVM PROMO V5 - SINGAPORE CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 8.0,
+    "memory_gb": 16.0,
+    "storage": "320 GB",
+    "bandwidth": "2500 Mbps",
+    "traffic": "4000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Singapore（SG_8）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 329.99
+      },
+      {
+        "period": "季付",
+        "amount": 929.99
+      },
+      {
+        "period": "半年付",
+        "amount": 1739.99
+      },
+      {
+        "period": "年付",
+        "amount": 3199.0
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=176",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:e32ee7dfcf11",
+    "name": "SPECIAL 320G KVM PROMO V5 - SINGAPORE CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 10.0,
+    "memory_gb": 32.0,
+    "storage": "640 GB",
+    "bandwidth": "5000 Mbps",
+    "traffic": "6000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Singapore（SG_8）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 549.99
+      },
+      {
+        "period": "季付",
+        "amount": 1569.99
+      },
+      {
+        "period": "半年付",
+        "amount": 2939.99
+      },
+      {
+        "period": "年付",
+        "amount": 5549.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=177",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:63a4d7bf644f",
+    "name": "SPECIAL 640G KVM PROMO V5 - SINGAPORE CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 12.0,
+    "memory_gb": 64.0,
+    "storage": "1280 GB",
+    "bandwidth": "5000 Mbps",
+    "traffic": "8000 GB",
+    "country": null,
+    "city": null,
+    "locations": "1 个机房Singapore（SG_8）",
+    "network": "CN2 GIA（名称标称）",
+    "system": null,
+    "prices": [
+      {
+        "period": "月付",
+        "amount": 1059.99
+      },
+      {
+        "period": "季付",
+        "amount": 2999.99
+      },
+      {
+        "period": "半年付",
+        "amount": 5559.99
+      },
+      {
+        "period": "年付",
+        "amount": 10559.99
+      }
+    ],
+    "renewal": "未知",
+    "eligibility": "未知",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "bandwagon-vps/",
+    "verified_at": "2026-11-08",
+    "url": "https://bandwagonhost.com/aff.php?aff=81093&pid=178",
+    "terms": "快照标价不含税费及优惠；具体机房、线路和续费请核对商家页面。",
+    "id": "bandwagon-vps:c751077239f6",
+    "name": "SPECIAL 1280G KVM PROMO V5 - SINGAPORE CN2 GIA",
+    "provider": "BandwagonHost",
+    "group": "KVM VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 1,
+    "memory_gb": 1.0,
+    "storage": "HDD 标准策略 5000IOPS，200MB/s / 50G",
+    "bandwidth": null,
+    "traffic": "International ISP / Global BGP G 端口 3T",
+    "country": null,
+    "city": null,
+    "locations": null,
+    "network": "未注明",
+    "system": "1",
+    "prices": [
+      {
+        "amount": 1.99,
+        "period": "月付"
+      }
+    ],
+    "renewal": "$1.99 / 月付（该默认配置快照）",
+    "eligibility": "每日库存和购买数量有限，具体资格以活动页为准。",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "raksmart-vps/",
+    "verified_at": "2026-11-11",
+    "url": "https://billing.raksmart.com/ec/price?pid=2022&sample_id=psam_01M4SY98MQ2D4FHJPDT1YRXWWX&activity_id=act_01M4T3RJV0T8ZJXJWNPVGFVNFE&lang=cn&aff=9321&aff_rtype=affiliate",
+    "terms": "活动页默认配置快照，切换配置或周期后价格可能变化；实际金额及优惠资格以结账页为准。",
+    "id": "raksmart:a6062df21ba9",
+    "name": "HK-VPS-1Core-1GB-50G HDD-Global BGP 1G/3T-1IP",
+    "provider": "Raksmart",
+    "group": "限时秒杀 / VPS秒杀"
+  },
+  {
+    "cpu_model": null,
+    "cores": 2,
+    "memory_gb": 2.0,
+    "storage": "HDD 标准策略 5000IOPS，200MB/s / 50G",
+    "bandwidth": null,
+    "traffic": "International ISP / Global BGP 5G 10T",
+    "country": null,
+    "city": null,
+    "locations": null,
+    "network": "未注明",
+    "system": "1",
+    "prices": [
+      {
+        "amount": 1.99,
+        "period": "月付"
+      }
+    ],
+    "renewal": "$1.99 / 月付（该默认配置快照）",
+    "eligibility": "每日库存和购买数量有限，具体资格以活动页为准。",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "raksmart-vps/",
+    "verified_at": "2026-11-11",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01M1DA9YHEQF6Z4SVTQTX52VH8&activity_id=act_01M4T3RJV0T8ZJXJWNPVGFVNFE&lang=cn&aff=9321&aff_rtype=affiliate",
+    "terms": "活动页默认配置快照，切换配置或周期后价格可能变化；实际金额及优惠资格以结账页为准。",
+    "id": "raksmart:0066c1878266",
+    "name": "SV-VPS-2Cores-2GB-50G HDD-Global BGP 5G/10T-1IP",
+    "provider": "Raksmart",
+    "group": "限时秒杀 / VPS秒杀"
+  },
+  {
+    "cpu_model": null,
+    "cores": 2,
+    "memory_gb": 2.0,
+    "storage": "HDD 标准策略 5000IOPS，200MB/s / 50G",
+    "bandwidth": null,
+    "traffic": "All ISP VIP / China Optimized VIP 5G 3T",
+    "country": null,
+    "city": null,
+    "locations": null,
+    "network": "China Optimized（名称标称）",
+    "system": "1",
+    "prices": [
+      {
+        "amount": 1.99,
+        "period": "月付"
+      }
+    ],
+    "renewal": "$1.99 / 月付（该默认配置快照）",
+    "eligibility": "每日库存和购买数量有限，具体资格以活动页为准。",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "raksmart-vps/",
+    "verified_at": "2026-11-11",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01M1DBZGY649T2TS6EKN6TTY8K&activity_id=act_01M4T3RJV0T8ZJXJWNPVGFVNFE&lang=cn&aff=9321&aff_rtype=affiliate",
+    "terms": "活动页默认配置快照，切换配置或周期后价格可能变化；实际金额及优惠资格以结账页为准。",
+    "id": "raksmart:31386244d192",
+    "name": "SV-VPS-2Cores-2GB-50G HDD-China Optimized VIP 5G/3T-1IP",
+    "provider": "Raksmart",
+    "group": "限时秒杀 / VPS秒杀"
+  },
+  {
+    "cpu_model": null,
+    "cores": 2,
+    "memory_gb": 2.0,
+    "storage": "HDD 标准策略 5000IOPS，200MB/s / 50G",
+    "bandwidth": null,
+    "traffic": "CN2 Only / Enterprise CN2 G 1T",
+    "country": null,
+    "city": null,
+    "locations": null,
+    "network": "CN2（名称标称）",
+    "system": "1",
+    "prices": [
+      {
+        "amount": 3.99,
+        "period": "月付"
+      }
+    ],
+    "renewal": "$3.99 / 月付（该默认配置快照）",
+    "eligibility": "每日库存和购买数量有限，具体资格以活动页为准。",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "raksmart-vps/",
+    "verified_at": "2026-11-11",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01M1DCAZ9M39Y4VX31G2ZZAA1F&activity_id=act_01M4T3RJV0T8ZJXJWNPVGFVNFE&lang=cn&aff=9321&aff_rtype=affiliate",
+    "terms": "活动页默认配置快照，切换配置或周期后价格可能变化；实际金额及优惠资格以结账页为准。",
+    "id": "raksmart:59fdab753deb",
+    "name": "SV-VPS-2Cores-2GB-50G HDD-Enterprise CN2 1G/1T-1IP",
+    "provider": "Raksmart",
+    "group": "限时秒杀 / VPS秒杀"
+  },
+  {
+    "cpu_model": null,
+    "cores": 2,
+    "memory_gb": 4.0,
+    "storage": "NVMe 固态硬盘 标准策略 25000IOPS，750MB/s / 50G",
+    "bandwidth": null,
+    "traffic": "International ISP / Global BGP 5G 10T",
+    "country": null,
+    "city": null,
+    "locations": null,
+    "network": "未注明",
+    "system": "1",
+    "prices": [
+      {
+        "amount": 39.9,
+        "period": "年付"
+      }
+    ],
+    "renewal": "$39.90 / 年付（该默认配置快照）",
+    "eligibility": "年付活动条件及优惠叠加限制以活动页为准。",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "raksmart-vps/",
+    "verified_at": "2026-11-11",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01M24NKKC8KAKQAJBJSYB2JSV3&activity_id=act_01M4TBMTG2VMWJPXXCYX2WZS2S&lang=cn&aff=9321&aff_rtype=affiliate",
+    "terms": "活动页默认配置快照，切换配置或周期后价格可能变化；实际金额及优惠资格以结账页为准。",
+    "id": "raksmart:7d29021d10ef",
+    "name": "SV-VPS-2Cores-4GB-50G NVME-Global BGP 5G/10T-1IP",
+    "provider": "Raksmart",
+    "group": "年付福利 / 年付特惠"
+  },
+  {
+    "cpu_model": null,
+    "cores": 2,
+    "memory_gb": 4.0,
+    "storage": "NVMe 固态硬盘 标准策略 25000IOPS，750MB/s / 50G",
+    "bandwidth": null,
+    "traffic": "All ISP VIP / China Optimized VIP 5G 3T",
+    "country": null,
+    "city": null,
+    "locations": null,
+    "network": "China Optimized（名称标称）",
+    "system": "1",
+    "prices": [
+      {
+        "amount": 39.9,
+        "period": "年付"
+      }
+    ],
+    "renewal": "$39.90 / 年付（该默认配置快照）",
+    "eligibility": "年付活动条件及优惠叠加限制以活动页为准。",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "raksmart-vps/",
+    "verified_at": "2026-11-11",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01M24NX65Q7A4CEP1D457FGTP0&activity_id=act_01M4TBMTG2VMWJPXXCYX2WZS2S&lang=cn&aff=9321&aff_rtype=affiliate",
+    "terms": "活动页默认配置快照，切换配置或周期后价格可能变化；实际金额及优惠资格以结账页为准。",
+    "id": "raksmart:f5a0c3314430",
+    "name": "SV-VPS-2Cores-4GB-50G NVME-China Optimized VIP 5G/3T-1IP",
+    "provider": "Raksmart",
+    "group": "年付福利 / 年付特惠"
+  },
+  {
+    "cpu_model": null,
+    "cores": 2,
+    "memory_gb": 4.0,
+    "storage": "NVMe 固态硬盘 标准策略 25000IOPS，750MB/s / 50G",
+    "bandwidth": null,
+    "traffic": "International ISP / Global BGP G 端口 3T",
+    "country": null,
+    "city": null,
+    "locations": null,
+    "network": "未注明",
+    "system": "1",
+    "prices": [
+      {
+        "amount": 49.9,
+        "period": "年付"
+      }
+    ],
+    "renewal": "$49.90 / 年付（该默认配置快照）",
+    "eligibility": "年付活动条件及优惠叠加限制以活动页为准。",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "raksmart-vps/",
+    "verified_at": "2026-11-11",
+    "url": "https://billing.raksmart.com/ec/price?pid=2022&sample_id=psam_01M7210N3YJBW0HZQ20CRBSY97&activity_id=act_01M4TBMTG2VMWJPXXCYX2WZS2S&lang=cn&aff=9321&aff_rtype=affiliate",
+    "terms": "活动页默认配置快照，切换配置或周期后价格可能变化；实际金额及优惠资格以结账页为准。",
+    "id": "raksmart:373310118024",
+    "name": "HK-VPS-2Cores-4GB -50G NVME-Global BGP 1G/3T-1IP",
+    "provider": "Raksmart",
+    "group": "年付福利 / 年付特惠"
+  },
+  {
+    "cpu_model": null,
+    "cores": 2,
+    "memory_gb": 4.0,
+    "storage": "NVMe 固态硬盘 标准策略 25000IOPS，750MB/s / 50G",
+    "bandwidth": null,
+    "traffic": "CN2 Only / Enterprise CN2 G 1T",
+    "country": null,
+    "city": null,
+    "locations": null,
+    "network": "CN2（名称标称）",
+    "system": "1",
+    "prices": [
+      {
+        "amount": 49.9,
+        "period": "年付"
+      }
+    ],
+    "renewal": "$49.90 / 年付（该默认配置快照）",
+    "eligibility": "年付活动条件及优惠叠加限制以活动页为准。",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "raksmart-vps/",
+    "verified_at": "2026-11-11",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01M24N3CFJDQ6AX41HVYFT5GCF&activity_id=act_01M4TBMTG2VMWJPXXCYX2WZS2S&lang=cn&aff=9321&aff_rtype=affiliate",
+    "terms": "活动页默认配置快照，切换配置或周期后价格可能变化；实际金额及优惠资格以结账页为准。",
+    "id": "raksmart:65748acf0368",
+    "name": "SV-VPS-2Cores-4GB-50G NVME-Enterprise CN2 1G/1T-1IP",
+    "provider": "Raksmart",
+    "group": "年付福利 / 年付特惠"
+  },
+  {
+    "cpu_model": null,
+    "cores": 1,
+    "memory_gb": 2.0,
+    "storage": "HDD 标准策略 5000IOPS，200MB/s / 50G",
+    "bandwidth": null,
+    "traffic": "Dual ISP DIA / Dual ISP DIA 5G 1T",
+    "country": null,
+    "city": null,
+    "locations": null,
+    "network": "未注明",
+    "system": "1",
+    "prices": [
+      {
+        "amount": 3.87,
+        "period": "月付"
+      }
+    ],
+    "renewal": "$3.87 / 月付（该默认配置快照）",
+    "eligibility": "可能需要领取优惠券，活动规则以商家页面为准。",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "raksmart-vps/",
+    "verified_at": "2026-11-11",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01M65STXJAC3WNNYCPH30TNTDM&activity_id=act_01M65X2AKSS36F0FJEPYHRWHDZ&lang=cn&aff=9321&aff_rtype=affiliate",
+    "terms": "活动页默认配置快照，切换配置或周期后价格可能变化；实际金额及优惠资格以结账页为准。",
+    "id": "raksmart:b4e0d89ea4f7",
+    "name": "SV-VPS-1Core-2GB-50G HDD-双ISP DIA 5G/1T-1IP",
+    "provider": "Raksmart",
+    "group": "双ISP DIA上新福利 / 双ISP DIA VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 2,
+    "memory_gb": 4.0,
+    "storage": "HDD 标准策略 5000IOPS，200MB/s / 50G",
+    "bandwidth": null,
+    "traffic": "Dual ISP DIA / Dual ISP DIA 5G 1T",
+    "country": null,
+    "city": null,
+    "locations": null,
+    "network": "Dual ISP DIA（名称标称）",
+    "system": "1",
+    "prices": [
+      {
+        "amount": 5.76,
+        "period": "月付"
+      }
+    ],
+    "renewal": "$5.76 / 月付（该默认配置快照）",
+    "eligibility": "可能需要领取优惠券，活动规则以商家页面为准。",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "raksmart-vps/",
+    "verified_at": "2026-11-11",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01M65V2WHKBGPZA76DSTM2QFMJ&activity_id=act_01M65X2AKSS36F0FJEPYHRWHDZ&lang=cn&aff=9321&aff_rtype=affiliate",
+    "terms": "活动页默认配置快照，切换配置或周期后价格可能变化；实际金额及优惠资格以结账页为准。",
+    "id": "raksmart:f851749eb204",
+    "name": "SV-VPS-2Cores-4GB-50G HDD-Dual ISP DIA 5G/1T-1IP",
+    "provider": "Raksmart",
+    "group": "双ISP DIA上新福利 / 双ISP DIA VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 4,
+    "memory_gb": 4.0,
+    "storage": "HDD 标准策略 5000IOPS，200MB/s / 50G",
+    "bandwidth": null,
+    "traffic": "Dual ISP DIA / Dual ISP DIA 5G 1T",
+    "country": null,
+    "city": null,
+    "locations": null,
+    "network": "Dual ISP DIA（名称标称）",
+    "system": "1",
+    "prices": [
+      {
+        "amount": 6.74,
+        "period": "月付"
+      }
+    ],
+    "renewal": "$6.74 / 月付（该默认配置快照）",
+    "eligibility": "可能需要领取优惠券，活动规则以商家页面为准。",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "raksmart-vps/",
+    "verified_at": "2026-11-11",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01M65V5BJ05Q80ZVTRQD2Y19DJ&activity_id=act_01M65X2AKSS36F0FJEPYHRWHDZ&lang=cn&aff=9321&aff_rtype=affiliate",
+    "terms": "活动页默认配置快照，切换配置或周期后价格可能变化；实际金额及优惠资格以结账页为准。",
+    "id": "raksmart:6d3b5db39fdb",
+    "name": "SV-VPS-4Cores-4GB-50G HDD-Dual ISP DIA 5G/1T-1IP",
+    "provider": "Raksmart",
+    "group": "双ISP DIA上新福利 / 双ISP DIA VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 4,
+    "memory_gb": 8.0,
+    "storage": "HDD 标准策略 5000IOPS，200MB/s / 50G",
+    "bandwidth": null,
+    "traffic": "Dual ISP DIA / Dual ISP DIA 5G 1T",
+    "country": null,
+    "city": null,
+    "locations": null,
+    "network": "Dual ISP DIA（名称标称）",
+    "system": "1",
+    "prices": [
+      {
+        "amount": 9.54,
+        "period": "月付"
+      }
+    ],
+    "renewal": "$9.54 / 月付（该默认配置快照）",
+    "eligibility": "可能需要领取优惠券，活动规则以商家页面为准。",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "raksmart-vps/",
+    "verified_at": "2026-11-11",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01M65V7X8MPTYG8RBKK6TNN8NM&activity_id=act_01M65X2AKSS36F0FJEPYHRWHDZ&lang=cn&aff=9321&aff_rtype=affiliate",
+    "terms": "活动页默认配置快照，切换配置或周期后价格可能变化；实际金额及优惠资格以结账页为准。",
+    "id": "raksmart:4cbc61687ab6",
+    "name": "SV-VPS-4Cores-8GB-50G HDD-Dual ISP DIA 5G/1T-1IP",
+    "provider": "Raksmart",
+    "group": "双ISP DIA上新福利 / 双ISP DIA VPS"
+  },
+  {
+    "cpu_model": null,
+    "cores": 2,
+    "memory_gb": 2.0,
+    "storage": "HDD 标准策略 5000IOPS，200MB/s / 50G",
+    "bandwidth": null,
+    "traffic": "CN2 Only / Enterprise CN2 G 1T",
+    "country": null,
+    "city": null,
+    "locations": null,
+    "network": "CN2（名称标称）",
+    "system": "1",
+    "prices": [
+      {
+        "amount": 9.1,
+        "period": "月付"
+      }
+    ],
+    "renewal": "$9.10 / 月付（该默认配置快照）",
+    "eligibility": "可能需要领取优惠券，活动规则以商家页面为准。",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "raksmart-vps/",
+    "verified_at": "2026-11-11",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01KZ8C56WWYMX0T55D4EBGQG9E&activity_id=act_01KWBMWA1EEP3J4RPZHYKDZ843&lang=cn&aff=9321&aff_rtype=affiliate",
+    "terms": "活动页默认配置快照，切换配置或周期后价格可能变化；实际金额及优惠资格以结账页为准。",
+    "id": "raksmart:788b6f684769",
+    "name": "SV-VPS-2Cores-2GB-50G HDD-Enterprise CN2 1G1T",
+    "provider": "Raksmart",
+    "group": "精品CN2特惠 / VPS精品CN2"
+  },
+  {
+    "cpu_model": null,
+    "cores": 2,
+    "memory_gb": 4.0,
+    "storage": "HDD 标准策略 5000IOPS，200MB/s / 50G",
+    "bandwidth": null,
+    "traffic": "CN2 Only / Enterprise CN2 G 1T",
+    "country": null,
+    "city": null,
+    "locations": null,
+    "network": "CN2（名称标称）",
+    "system": "1",
+    "prices": [
+      {
+        "amount": 10.5,
+        "period": "月付"
+      }
+    ],
+    "renewal": "$10.50 / 月付（该默认配置快照）",
+    "eligibility": "可能需要领取优惠券，活动规则以商家页面为准。",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "raksmart-vps/",
+    "verified_at": "2026-11-11",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01KZ8CRN7BYYJ2881R36ZFXT6W&activity_id=act_01KWBMWA1EEP3J4RPZHYKDZ843&lang=cn&aff=9321&aff_rtype=affiliate",
+    "terms": "活动页默认配置快照，切换配置或周期后价格可能变化；实际金额及优惠资格以结账页为准。",
+    "id": "raksmart:146a8552707f",
+    "name": "SV-VPS-2Cores-4GB-50G HDD-Enterprise CN2 1G1T",
+    "provider": "Raksmart",
+    "group": "精品CN2特惠 / VPS精品CN2"
+  },
+  {
+    "cpu_model": null,
+    "cores": 4,
+    "memory_gb": 4.0,
+    "storage": "HDD 标准策略 5000IOPS，200MB/s / 50G",
+    "bandwidth": null,
+    "traffic": "CN2 Only / Enterprise CN2 G 1T",
+    "country": null,
+    "city": null,
+    "locations": null,
+    "network": "CN2（名称标称）",
+    "system": "1",
+    "prices": [
+      {
+        "amount": 11.48,
+        "period": "月付"
+      }
+    ],
+    "renewal": "$11.48 / 月付（该默认配置快照）",
+    "eligibility": "可能需要领取优惠券，活动规则以商家页面为准。",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "raksmart-vps/",
+    "verified_at": "2026-11-11",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01KZ8DBA8A34NNE2AMNG35232W&activity_id=act_01KWBMWA1EEP3J4RPZHYKDZ843&lang=cn&aff=9321&aff_rtype=affiliate",
+    "terms": "活动页默认配置快照，切换配置或周期后价格可能变化；实际金额及优惠资格以结账页为准。",
+    "id": "raksmart:940a47ea5f38",
+    "name": "SV-VPS-4Cores-4GB-50G HDD-Enterprise CN2 1G1T",
+    "provider": "Raksmart",
+    "group": "精品CN2特惠 / VPS精品CN2"
+  },
+  {
+    "cpu_model": null,
+    "cores": 4,
+    "memory_gb": 8.0,
+    "storage": "HDD 标准策略 5000IOPS，200MB/s / 50G",
+    "bandwidth": null,
+    "traffic": "CN2 Only / Enterprise CN2 G 1T",
+    "country": null,
+    "city": null,
+    "locations": null,
+    "network": "CN2（名称标称）",
+    "system": "1",
+    "prices": [
+      {
+        "amount": 14.28,
+        "period": "月付"
+      }
+    ],
+    "renewal": "$14.28 / 月付（该默认配置快照）",
+    "eligibility": "可能需要领取优惠券，活动规则以商家页面为准。",
+    "stock": "未知",
+    "currency": "USD",
+    "source_url": "raksmart-vps/",
+    "verified_at": "2026-11-11",
+    "url": "https://billing.raksmart.com/ec/price?pid=1889&sample_id=psam_01KZ8DMF4WQMK4KWYTGEG8VMT7&activity_id=act_01KWBMWA1EEP3J4RPZHYKDZ843&lang=cn&aff=9321&aff_rtype=affiliate",
+    "terms": "活动页默认配置快照，切换配置或周期后价格可能变化；实际金额及优惠资格以结账页为准。",
+    "id": "raksmart:f0e2a9c5168e",
+    "name": "SV-VPS-4Cores-8GB-50G HDD-Enterprise CN2 1G1T",
+    "provider": "Raksmart",
+    "group": "精品CN2特惠 / VPS精品CN2"
+  }
+]
